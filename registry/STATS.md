@@ -1,7 +1,7 @@
 # registry STATS —— 源注册表统计（自动生成）
 
-- 数据行（去重后）：**17584**
-- 唯一主机：**12353**
+- 数据行（去重后）：**18030**
+- 唯一主机：**12772**
 - 分表：
   - `academic-universities.csv`：2912 行
   - `academic.csv`：280 行
@@ -30,7 +30,8 @@
   - `intl-institutions.csv`：457 行
   - `intl.csv`：263 行
   - `legal.csv`：82 行
-  - `media-epaper.csv`：460 行
+  - `media-epaper.csv`：402 行
+  - `media-publishers.csv`：416 行
   - `media-websites.csv`：885 行
   - `media.csv`：166 行
   - `meta.csv`：120 行
@@ -46,19 +47,19 @@
   - `wechat.csv`：37 行
 
 ## 状态分布（去重后）
-- probed-2xx：11102
-- probed-000：2952
-- unprobed：1876
-- probed-4xx：1328
-- probed-5xx：225
-- probed-3xx：101
+- probed-2xx：11743
+- probed-000：3138
+- declared：1416
+- probed-4xx：1385
+- probed-5xx：235
+- probed-3xx：113
 
 ## 各层计数（去重后）
 - gov：5162
 - academic：3187
+- media：1729
 - crawlers：1416
 - industry：1306
-- media：1283
 - health：1041
 - archives：1011
 - stats：914
