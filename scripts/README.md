@@ -11,6 +11,11 @@
 | `site_crawl.py` | 站内 BFS 爬取（分页穷尽、主机限速、robots、断点） | 政府网站全站语料（任免/领导之窗/年报） |
 | `fetch.py` | 单请求抓取/探活（UA 预设、cookie jar、重试） | 手工取页面、复现文档里的 curl |
 | `probe.py` | 批量 URL 探活（并发） | 维护源 list 时的可达性体检 |
+| `registry_extract.py` | 从 `references/` 卡片抽 URL → `registry/*.csv` | 卡片反哺源表 |
+| `registry_probe.py` | 批量探活 `registry/*.csv` 并回填状态（同主机去重、跳过 github） | 源表状态维护 |
+| `registry_merge.py` | 汇总 `registry/*.csv` → `registry/all.csv` | 计数与总表 |
+| `registry_consolidate.py` | 把散落 CSV 合并进 `registry/`（按 tier+url 去重） | 多批次枚举合流 |
+| `registry_stats.py` | 统计（行数/唯一主机/状态分布）→ 打印或写 `registry/STATS.md` | 验收与汇报 |
 
 ## 常用命令
 

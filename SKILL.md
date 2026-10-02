@@ -8,7 +8,8 @@ description: 中文公开资料检索总集（分级源库 + 可复用脚本）�
 **定位**：接任何中文资料检索需求 —— 先在分级源库里选通道，再按对应手册操作；点查用引擎，批量用脚本。
 
 结构：
-- `references/<层>/` —— 源库：**一个来源一个文件**，层内有 `README.md` 索引。共 25 层：`engines 综搜 · wechat 微信 · gov 政府 · party 党建 · stats 统计 · business 企业与市场 · finance 金融与财税 · health 健康与人口 · surveys 调查与微观数据 · repos 数据仓储 · intl 国际数据 · industry 行业与协会 · regional 区域与地方 · env 环境能源碳 · civil 公益与志愿服务 · culture 文化民族宗教语言 · media 媒体 · academic 学术 · corpora 语料 · legal 法律 · archives 方志档案 · social 社交（含问政） · tools 工具 · methods 方法 · meta 元资源`；来源卡字段固定：`去哪找 · 什么时候用 · 怎么搜/怎么取 · 覆盖 · 门槛 · 实测 · 上游`（写法见 `references/meta/style.md`）
+- `registry/` —— **全量源注册表**（CSV，一条一行=一个源）：`registry/all.csv` 总表 + 按层/批次分表；由 `scripts/registry_extract.py / registry_probe.py / registry_merge.py` 维护；模式见 `registry/README.md`
+- `references/<层>/` —— 源库：**一个来源一个文件**，层内有 `README.md` 索引。共 26 层：`engines 综搜 · wechat 微信 · gov 政府 · party 党建 · stats 统计 · business 企业与市场 · finance 金融与财税 · health 健康与人口 · surveys 调查与微观数据 · repos 数据仓储 · intl 国际数据 · industry 行业与协会 · regional 区域与地方 · env 环境能源碳 · civil 公益与志愿服务 · culture 文化民族宗教语言 · media 媒体 · academic 学术 · corpora 语料 · legal 法律 · archives 方志档案 · social 社交（含问政） · tools 工具 · crawlers 爬虫索引 · methods 方法 · meta 元资源`；来源卡字段固定：`去哪找 · 什么时候用 · 怎么搜/怎么取 · 覆盖 · 门槛 · 实测 · 上游`（写法见 `references/meta/style.md`）
 - `scripts/` —— 可复用操作脚本（标准库 + 系统 curl，零依赖）；见 `scripts/README.md`
 - 本文件 = 顶层工作流 + 分层总表 + 环境与体量纪律 + 汇总口径
 
@@ -47,6 +48,7 @@ description: 中文公开资料检索总集（分级源库 + 可复用脚本）�
 | `archives/` 方志档案 | 京网、数字方志馆、中国方志网、省方志总表、抗战文献平台、国图古籍、档案系统、民国报刊目录 | **modernhistory 匿名检索 + IIIF ✅**；国图古籍检索 ✅（需 Referer）；一史馆档案目录 ✅；地方志 4 省直连检索 ✅ |
 | `social/` 社交与问政 | 微博/知乎/贴吧 + **问政平台（领导留言板/百姓呼声/网上民声）** | 微博热搜、**百姓呼声/网上民声 JSON ✅**、领导留言板（需签名）✅；知乎/贴吧 ❌ 需登录 |
 | `tools/` 工具 | Wayback、Jina Reader | Wayback ⚠️ 间歇可达；r.jina.ai ❌ 本机不可达 |
+| `crawlers/` 爬虫索引 | **1416 个 GitHub 爬虫/抓取/自动化仓库**（含 432 个中文平台采集） | 索引页 `references/crawlers/README.md`（Top60）；全表 `registry/crawlers.csv` |
 | `methods/` 检索方法 | 文献传递路由、各站高级检索语法、历史网页回捞、官员检索法、免费数据集市 | **跨源方法卡**：不知"怎么搜/怎么拿到全文"时先看这层 |
 | `meta/` 元资源 | MCP/技能目录、发现机制；**中国应用 MCP 索引**（87 仓库+91 项官方 API） | 不知道「去哪找」时先来这层；找新源方法见 `meta/skills-discovery.md` |
 
@@ -59,6 +61,9 @@ description: 中文公开资料检索总集（分级源库 + 可复用脚本）�
 | `bjgov_search.py` | 首都之窗统一搜索 JSON 接口（北京市/区政府站内检索） |
 | `site_crawl.py` | 站内 BFS 爬取（分页穷尽、robots、主机限速、断点） |
 | `fetch.py` / `probe.py` | 单请求抓取/探活；批量 URL 体检（维护源库用） |
+| `registry_extract.py` | 从 `references/` 卡片抽取 URL → `registry/*.csv` |
+| `registry_probe.py` | 批量探活 `registry/*.csv` 并回填状态（并发 8、每主机 1 次） |
+| `registry_merge.py` | 汇总 `registry/*.csv` → `registry/all.csv` + 计数 |
 
 ```bash
 python3 scripts/sogou_wechat.py search queries.txt --out crawl.jsonl --resolve 2018

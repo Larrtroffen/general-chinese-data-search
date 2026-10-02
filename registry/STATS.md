@@ -1,0 +1,81 @@
+# registry STATS —— 源注册表统计（自动生成）
+
+- 数据行（去重后）：**17346**
+- 唯一主机：**12231**
+- 分表：
+  - `academic-universities.csv`：2912 行
+  - `academic.csv`：280 行
+  - `archives-institutions.csv`：719 行
+  - `archives.csv`：335 行
+  - `business.csv`：123 行
+  - `civil.csv`：36 行
+  - `corpora.csv`：21 行
+  - `crawlers.csv`：1416 行
+  - `culture.csv`：113 行
+  - `engines.csv`：44 行
+  - `env.csv`：99 行
+  - `finance.csv`：176 行
+  - `gov-beijing.csv`：870 行
+  - `gov-central.csv`：225 行
+  - `gov-counties.csv`：383 行
+  - `gov-counties2.csv`：939 行
+  - `gov-counties3.csv`：1101 行
+  - `gov-counties4.csv`：676 行
+  - `gov-provinces.csv`：367 行
+  - `gov.csv`：665 行
+  - `health-hospitals.csv`：925 行
+  - `health.csv`：117 行
+  - `industry-soe-sites.csv`：1094 行
+  - `industry.csv`：224 行
+  - `intl-institutions.csv`：457 行
+  - `intl.csv`：263 行
+  - `legal.csv`：82 行
+  - `media-websites.csv`：885 行
+  - `media.csv`：166 行
+  - `meta.csv`：120 行
+  - `methods.csv`：171 行
+  - `open-data.csv`：657 行
+  - `party.csv`：58 行
+  - `regional.csv`：146 行
+  - `repos.csv`：112 行
+  - `social.csv`：59 行
+  - `stats.csv`：271 行
+  - `surveys.csv`：135 行
+  - `tools.csv`：38 行
+  - `wechat.csv`：37 行
+
+## 状态分布（去重后）
+- unprobed：14159
+- probed-2xx：1880
+- probed-000：986
+- probed-4xx：254
+- probed-5xx：43
+- probed-3xx：24
+
+## 各层计数（去重后）
+- gov：5162
+- academic：3187
+- crawlers：1416
+- industry：1306
+- media：1045
+- health：1041
+- archives：1011
+- stats：914
+- intl：716
+- finance：174
+- methods：171
+- regional：140
+- surveys：130
+- business：123
+- meta：118
+- culture：110
+- repos：109
+- env：99
+- legal：81
+- social：59
+- party：58
+- engines：44
+- tools：38
+- wechat：37
+- civil：36
+- corpora：21

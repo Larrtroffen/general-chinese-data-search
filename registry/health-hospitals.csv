@@ -1,0 +1,926 @@
+id,tier,name,url,host,status,http_code,probe_date,note,ref
+health:10031458.hos.999120.net,health,广西医科大学肿瘤医院,http://10031458.hos.999120.net/,10031458.hos.999120.net,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:466.cnkme.com,health,航空医学研究所附属医院,http://466.cnkme.com/,466.cnkme.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:beijing.ufh.com.cn,health,北京和睦家医院,https://beijing.ufh.com.cn/,beijing.ufh.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:ch.shmu.edu.cn,health,复旦大学附属儿科医院,http://ch.shmu.edu.cn/,ch.shmu.edu.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:chaozhouch.com,health,潮州市中心医院,http://chaozhouch.com/,chaozhouch.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:chengdu.ufh.com.cn,health,成都和睦家医院,https://chengdu.ufh.com.cn,chengdu.ufh.com.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:dl-jzyy.com,health,Dalian Jinzhou First People's Hospital,http://dl-jzyy.com/Web/ContactUs.aspx,dl-jzyy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.gzhosp.cn,health,广州市第一人民医院,http://en.gzhosp.cn/,en.gzhosp.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.motherchildren.com,health,四川大学华西第二医院,https://en.motherchildren.com,en.motherchildren.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.samsph.com,health,四川省人民医院,https://en.samsph.com/,en.samsph.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.tedaich.com,health,泰达国际心血管病医院,http://en.tedaich.com/,en.tedaich.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.wcss.cn,health,四川大学华西口腔医（学）院,https://en.wcss.cn,en.wcss.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.xmfh.com.cn,health,廈門大學附屬第一醫院,http://en.xmfh.com.cn/,en.xmfh.com.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.xy3yy.com,health,中南大学湘雅三医院,http://en.xy3yy.com/,en.xy3yy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.ylyy.org,health,Hebei Yiling Hospital,http://en.ylyy.org/,en.ylyy.org,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:en.z2hospital.com,health,浙江大学医学院附属第二医院,http://en.z2hospital.com/,en.z2hospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:english.hbydsy.com,health,河北医科大学第四医院,http://english.hbydsy.com/,english.hbydsy.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:english.sysucc.org.cn,health,中山大學附屬腫瘤醫院,http://english.sysucc.org.cn/,english.sysucc.org.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:english.tjh.com.cn,health,武汉同济医院,http://english.tjh.com.cn/,english.tjh.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:english.xiameneye.org.cn,health,厦门大学附属厦门眼科中心,http://english.xiameneye.org.cn/,english.xiameneye.org.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:english.xnyy.cn,health,西南医院,http://english.xnyy.cn/,english.xnyy.cn,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:fcc.zzu.edu.cn,health,郑州大学第一附属医院,http://fcc.zzu.edu.cn/,fcc.zzu.edu.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:fckyy.fudan.edu.cn,health,复旦大学附属妇产科医院,http://fckyy.fudan.edu.cn/en/,fckyy.fudan.edu.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:fy.nankai.edu.cn,health,天津市第四医院,https://fy.nankai.edu.cn/,fy.nankai.edu.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:fyy.sdfyy.cn,health,苏州大学附属第一医院,http://fyy.sdfyy.cn/,fyy.sdfyy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:gamyy.cn,health,中国中医科学院广安门医院,https://gamyy.cn/,gamyy.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:gleneagles.hk,health,港怡醫院,http://gleneagles.hk/tc/,gleneagles.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:guangzhou.ufh.com.cn,health,广州和睦家医院,https://guangzhou.ufh.com.cn,guangzhou.ufh.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:gxkdyfy.gxust.edu.cn,health,广西科技大学第一附属医院,https://gxkdyfy.gxust.edu.cn/,gxkdyfy.gxust.edu.cn,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:hc.jiangxi.gov.cn,health,Fourth People's Hospital of Shenzhen,https://hc.jiangxi.gov.cn/,hc.jiangxi.gov.cn,unprobed,,,江西省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:hhyy.henu.edu.cn,health,Henan University Huaihe Hospital and Huaihe Clinical Institute,http://hhyy.henu.edu.cn/,hhyy.henu.edu.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:hospital.hust.edu.cn,health,华中科技大学医院,http://hospital.hust.edu.cn/,hospital.hust.edu.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:hxkq.org,health,四川大学华西口腔医（学）院,https://hxkq.org,hxkq.org,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:jdeygk.com,health,Bethune Second Hospital,http://jdeygk.com/,jdeygk.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:jsws.linyi.cn,health,临沂市第四人民医院,http://jsws.linyi.cn/,jsws.linyi.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:jxszyy.jxutcm.edu.cn,health,江西省中医院,http://jxszyy.jxutcm.edu.cn/,jxszyy.jxutcm.edu.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:lzljz.h.onlymr.com,health,中国人民解放军联勤保障部队第九四〇医院,http://lzljz.h.onlymr.com/,lzljz.h.onlymr.com,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:lzry.com.cn,health,柳州市人民医院,https://lzry.com.cn/,lzry.com.cn,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:med.tongji.edu.cn,health,上海市肺科医院,http://med.tongji.edu.cn/english/article.asp?article_id=6219&category_id=2098&root_id=2086,med.tongji.edu.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:motherchildren.com,health,四川大学华西第二医院,https://motherchildren.com,motherchildren.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:ppdh.org.hk,health,菲臘牙科醫院,http://ppdh.org.hk/en/,ppdh.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:qdslyy.qdslyy.cn,health,青岛市市立医院,http://qdslyy.qdslyy.cn/,qdslyy.qdslyy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:qdumh.qd.sd.cn,health,青岛大学附属医院,http://qdumh.qd.sd.cn/index.html,qdumh.qd.sd.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:rsj.gz.gov.cn,health,广州市干部健康管理中心,http://rsj.gz.gov.cn/ywzt/rszdgg/gbjkgl/,rsj.gz.gov.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:s-149758.abc188.com,health,重庆医科大学附属儿童医院,http://s-149758.abc188.com/,s-149758.abc188.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:sch.szu.edu.cn,health,深圳大学附属华南医院,https://sch.szu.edu.cn/,sch.szu.edu.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:sd-eh.com,health,Shandong Eye Hospital,http://sd-eh.com/,sd-eh.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:sdey.net,health,山东大学齐鲁第二医院,http://sdey.net/english/,sdey.net,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:sdqh120.com,health,齐河人民医院,http://sdqh120.com/bbx/314096-314096.html,sdqh120.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:shanghai.ufh.com.cn,health,上海和睦家医院,https://shanghai.ufh.com.cn,shanghai.ufh.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:shenzhen.ufh.com.cn,health,深圳和睦家医院,https://shenzhen.ufh.com.cn,shenzhen.ufh.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:ss.bjmu.edu.cn,health,北京大学口腔医学院·口腔医院,https://ss.bjmu.edu.cn/,ss.bjmu.edu.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:sxsfyyy.com,health,山西省汾阳医院,http://sxsfyyy.com/page/intro/index.php,sxsfyyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:sxwjw.shaanxi.gov.cn,health,Hanzhong People's Hospital,https://sxwjw.shaanxi.gov.cn/,sxwjw.shaanxi.gov.cn,unprobed,,,陕西省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:tdwww.fmmu.edu.cn,health,Tang Du Hospital,http://tdwww.fmmu.edu.cn/,tdwww.fmmu.edu.cn,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wcfh.com.cn,health,四川大学华西第四医院,https://wcfh.com.cn,wcfh.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wchscu.cn,health,四川大学华西医院,https://wchscu.cn,wchscu.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:whuh.com,health,华中科技大学同济医学院附属协和医院,http://whuh.com/en/,whuh.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.ah.gov.cn,health,Anqing City Hospital,https://wjw.ah.gov.cn/,wjw.ah.gov.cn,unprobed,,,安徽省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.beijing.gov.cn,health,Puhua International Hospital and Clinics,https://wjw.beijing.gov.cn/,wjw.beijing.gov.cn,unprobed,,,北京市·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.fujian.gov.cn,health,Fujian Provincial People's Hospital,https://wjw.fujian.gov.cn/,wjw.fujian.gov.cn,unprobed,,,福建省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.guizhou.gov.cn,health,贵州省人民医院观山湖院区,https://wjw.guizhou.gov.cn/,wjw.guizhou.gov.cn,unprobed,,,贵州省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.hubei.gov.cn,health,Huangshi Central Hospital,https://wjw.hubei.gov.cn/,wjw.hubei.gov.cn,unprobed,,,湖北省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.hunan.gov.cn,health,Hunan Cancer Hospital,https://wjw.hunan.gov.cn/,wjw.hunan.gov.cn,unprobed,,,湖南省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.jiangsu.gov.cn,health,Nanjing General Military Hospital,https://wjw.jiangsu.gov.cn/,wjw.jiangsu.gov.cn,unprobed,,,江苏省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.nmg.gov.cn,health,Ordos Central Hospital,https://wjw.nmg.gov.cn/,wjw.nmg.gov.cn,unprobed,,,内蒙古自治区·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.shanxi.gov.cn,health,Shanxi Provincial Children's Hospital,https://wjw.shanxi.gov.cn/,wjw.shanxi.gov.cn,unprobed,,,山西省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.xinjiang.gov.cn,health,Fourth People's Hospital in Urumqi,https://wjw.xinjiang.gov.cn/,wjw.xinjiang.gov.cn,unprobed,,,新疆维吾尔自治区·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wjw.xizang.gov.cn,health,西藏自治区人民医院,http://wjw.xizang.gov.cn/,wjw.xizang.gov.cn,unprobed,,,西藏自治区·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wmdw.jswmw.com,health,无锡市第四人民医院,http://wmdw.jswmw.com/wmdw.asp,wmdw.jswmw.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjk.gansu.gov.cn,health,Jingning County People's Hospital,https://wsjk.gansu.gov.cn/,wsjk.gansu.gov.cn,unprobed,,,甘肃省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjk.ln.gov.cn,health,Dalian Dermatosis Hospital,https://wsjk.ln.gov.cn/,wsjk.ln.gov.cn,unprobed,,,辽宁省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjk.tj.gov.cn,health,Isabella Fisher Hospital,https://wsjk.tj.gov.cn/,wsjk.tj.gov.cn,unprobed,,,天津市·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.cq.gov.cn,health,First People's Hospital of Chongqing,https://wsjkw.cq.gov.cn/,wsjkw.cq.gov.cn,unprobed,,,重庆市·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.gd.gov.cn,health,Chinese People's Liberation Army Navy Hospital of Guangzhou,https://wsjkw.gd.gov.cn/,wsjkw.gd.gov.cn,unprobed,,,广东省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.gxzf.gov.cn,health,Forest City People's Hospital,https://wsjkw.gxzf.gov.cn/,wsjkw.gxzf.gov.cn,unprobed,,,广西壮族自治区·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.hebei.gov.cn,health,Cixian People's Hospital,https://wsjkw.hebei.gov.cn/,wsjkw.hebei.gov.cn,unprobed,,,河北省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.henan.gov.cn,health,Anyang Eye Hospital,https://wsjkw.henan.gov.cn/,wsjkw.henan.gov.cn,unprobed,,,河南省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.jl.gov.cn,health,吉林省肿瘤医院,https://wsjkw.jl.gov.cn/,wsjkw.jl.gov.cn,unprobed,,,吉林省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.nx.gov.cn,health,中国人民解放军第五医院,https://wsjkw.nx.gov.cn/,wsjkw.nx.gov.cn,unprobed,,,宁夏回族自治区·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.qinghai.gov.cn,health,Golmud Hospital,https://wsjkw.qinghai.gov.cn/,wsjkw.qinghai.gov.cn,unprobed,,,青海省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.sc.gov.cn,health,Chengdu Second People's Hospital,https://wsjkw.sc.gov.cn/,wsjkw.sc.gov.cn,unprobed,,,四川省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.sh.gov.cn,health,Second People’s Hospital of Shanghai,https://wsjkw.sh.gov.cn/,wsjkw.sh.gov.cn,unprobed,,,上海市·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.shandong.gov.cn,health,General Hospital of Jinan Military Command,http://wsjkw.shandong.gov.cn/,wsjkw.shandong.gov.cn,unprobed,,,山东省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wsjkw.zj.gov.cn,health,下沙医院,https://wsjkw.zj.gov.cn/,wsjkw.zj.gov.cn,unprobed,,,浙江省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wst.hainan.gov.cn,health,海南省万宁市人民医院,https://wst.hainan.gov.cn/,wst.hainan.gov.cn,unprobed,,,海南省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.117yiyuan.com,health,117th Hospital of People's Liberation Army,http://www.117yiyuan.com/,www.117yiyuan.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.174yy.cn,health,解放军第174医院,http://www.174yy.cn/,www.174yy.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.175yy.com,health,中国人民解放军联勤保障部队第九〇九医院,http://www.175yy.com/,www.175yy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.180yy.com,health,联勤保障部队第九一〇医院,http://www.180yy.com/,www.180yy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.2yuan.org,health,西安交通大学第二附属医院,http://www.2yuan.org/,www.2yuan.org,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.301hn.cn,health,中国人民解放军总医院海南医院,http://www.301hn.cn/,www.301hn.cn,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.301hospital.com.cn,health,中国人民解放军总医院,http://www.301hospital.com.cn/,www.301hospital.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.302hospital.com,health,中国人民解放军总医院第五医学中心,http://www.302hospital.com/,www.302hospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.306.cn,health,中国人民解放军总医院第九医学中心,http://www.306.cn/,www.306.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.307hospital.com,health,中国人民解放军总医院第五医学中心南院区,http://www.307hospital.com/,www.307hospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.312000.net,health,绍兴市人民医院,http://www.312000.net/english.aspx,www.312000.net,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.401yy.com,health,中国人民解放军海军第九七一医院,http://www.401yy.com/,www.401yy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.421hp.com,health,中国人民解放军陆军第七十四集团军医院,http://www.421hp.com/index.html,www.421hp.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.455hospital.cn,health,中国人民解放军海军特色医学中心,http://www.455hospital.cn/,www.455hospital.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.458hospital.com,health,南部战区空军医院,http://www.458hospital.com/,www.458hospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.463.cn,health,中国人民解放军北部战区空军医院,http://www.463.cn/,www.463.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.51ht.com,health,五邑中医院,http://www.51ht.com/,www.51ht.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.51mch.com,health,Shanghai First Maternity and Infant Hospital,http://www.51mch.com/en.aspx,www.51mch.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.54dr.com,health,哈尔滨医科大学附属第一医院,http://www.54dr.com/,www.54dr.com,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.6thhosp.com,health,上海市第六人民医院,http://www.6thhosp.com/index.html,www.6thhosp.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.711hospital.com,health,北京航天总医院,http://www.711hospital.com/,www.711hospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.81ek.com,health,Bayi Children's Hospital,http://www.81ek.com//,www.81ek.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.81yy.com,health,中国人民解放军东部战区总医院秦淮医疗区,http://www.81yy.com/,www.81yy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.82fk.com,health,82th Hospital of PLA,http://www.82fk.com/,www.82fk.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.999brain.com,health,广东999脑科医院癫痫能治愈,http://www.999brain.com/en/,www.999brain.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.9hospital.net,health,上海交通大学医学院附属第九人民医院,http://www.9hospital.net/djy_web/html/djy/portal/index/index.htm,www.9hospital.net,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.a-hospital.com,health,中国人民解放军总医院京东医疗区,http://www.a-hospital.com/,www.a-hospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ahetyy.com,health,安徽省儿童医院,http://www.ahetyy.com,www.ahetyy.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ahhfsy.cn,health,Third People's Hospital of Hefei,http://www.ahhfsy.cn/,www.ahhfsy.cn,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ahlzmc.com,health,First Affiliated Hospital of Sichuan Medical University,http://www.ahlzmc.com/,www.ahlzmc.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ahslyy.com.cn,health,安徽省立医院,http://www.ahslyy.com.cn/,www.ahslyy.com.cn,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.akzxyy.com,health,安康市中心医院,http://www.akzxyy.com/,www.akzxyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.anti-cancer.com.cn,health,河南省肿瘤医院,http://www.anti-cancer.com.cn/,www.anti-cancer.com.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.anzhen.org,health,首都医科大学附属北京安贞医院,http://www.anzhen.org/News/Main?siteId=130,www.anzhen.org,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.arurahp.com,health,青海省藏医院,http://www.arurahp.com/,www.arurahp.com,unprobed,,,青海省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.asch.net.cn,health,航天中心医院,http://www.asch.net.cn/english/list/249.html,www.asch.net.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ay2fy.com,health,安徽医科大学第二附属医院,http://www.ay2fy.com/,www.ay2fy.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ayfy.com,health,安徽医科大学第一附属医院,http://www.ayfy.com/,www.ayfy.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.aysfy.cn,health,安徽医科大学第四附属医院,http://www.aysfy.cn/welcome/,www.aysfy.cn,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.baoganghospital.cn,health,Third Affiliated Hospital of Inner Mongolia Medical College,http://www.baoganghospital.cn/en/,www.baoganghospital.cn,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bch.com.cn,health,首都医科大学附属北京儿童医院,http://www.bch.com.cn/,www.bch.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bfh.com.cn,health,首都医科大学附属北京友谊医院,http://www.bfh.com.cn/,www.bfh.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bghospital.cn,health,上海交通大学医学院附属第三人民医院,http://www.bghospital.cn,www.bghospital.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bhhospital.com,health,Beihai People's Hospital,http://www.bhhospital.com/,www.bhhospital.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bhlgh.com,health,北京回龙观医院,https://www.bhlgh.com/,www.bhlgh.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjad.com.cn,health,首都医科大学附属北京安定医院,http://www.bjad.com.cn/article/?sid=106,www.bjad.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjcancer.org,health,北京大学肿瘤医院,http://www.bjcancer.org/_English/Service.html,www.bjcancer.org,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjcczyyy.com,health,北京市长城医院,http://www.bjcczyyy.com/,www.bjcczyyy.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjch.com,health,Jiangmen Central Hospital,http://www.bjch.com/,www.bjch.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjcyh.com.cn,health,首都医科大学附属北京朝阳医院,http://www.bjcyh.com.cn/english/,www.bjcyh.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjdth.com,health,首都医科大学附属北京地坛医院,http://www.bjdth.com/,www.bjdth.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjftyy.com,health,北京丰台医院,http://www.bjftyy.com/,www.bjftyy.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjhmoh.cn,health,北京医院,http://www.bjhmoh.cn,www.bjhmoh.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjkgyy.com,health,Airport Shunyi District Hospital,http://www.bjkgyy.com/,www.bjkgyy.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjogh.com.cn,health,首都医科大学附属北京妇产医院,http://www.bjogh.com.cn/20110218/2142.shtml,www.bjogh.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjsjth.cn,health,首都医科大学附属北京世纪坛医院,https://www.bjsjth.cn/,www.bjsjth.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjsyzy.com,health,-北京中医医院顺义医院,http://www.bjsyzy.com/,www.bjsyzy.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjtth.org,health,首都医科大学附属北京天坛医院,http://www.bjtth.org/English/Introduction.htm,www.bjtth.org,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjxkyy.cn,health,首都医科大学附属北京胸科医院,http://www.bjxkyy.cn/en/index.aspx,www.bjxkyy.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjyah.com,health,首都医科大学附属北京佑安医院,http://www.bjyah.com/Html/News/Main/142.html,www.bjyah.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjzhongyi.com,health,首都医科大学附属北京中医医院,https://www.bjzhongyi.com/,www.bjzhongyi.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bjzxyy.com,health,宝鸡市中心医院,http://www.bjzxyy.com/index.php,www.bjzxyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bl91.com,health,北仑区人民医院,http://www.bl91.com/,www.bl91.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.boaoevergrandehospital.com,health,博鳌恒大国际医院,https://www.boaoevergrandehospital.com,www.boaoevergrandehospital.com,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.boaosuperhospital.com,health,博鳌超级医院,https://www.boaosuperhospital.com,www.boaosuperhospital.com,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bsxrmyy.com,health,People's Hospital of Bishan District,http://www.bsxrmyy.com/,www.bsxrmyy.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.btch.edu.cn,health,北京清华长庚医院,http://www.btch.edu.cn/,www.btch.edu.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.btzxyy.com,health,包头市中心医院,http://www.btzxyy.com/,www.btzxyy.com,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.byefy.com,health,蚌埠医学院第二附属医院,http://www.byefy.com/,www.byefy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.byfy.cn,health,Binzhou Medical College Hospital,http://www.byfy.cn/,www.byfy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.byyfy.com.cn,health,蚌埠医学院第一附属医院,http://www.byyfy.com.cn/,www.byyfy.com.cn,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.bzhospital.cn,health,滨州人民医院,http://www.bzhospital.cn/,www.bzhospital.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.c-nbh.com,health,南京脑科医院,http://www.c-nbh.com/,www.c-nbh.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.canossahospital.org.hk,health,嘉諾撒醫院,http://www.canossahospital.org.hk/,www.canossahospital.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cc208yy.com,health,吉林长春208医院,http://www.cc208yy.com/,www.cc208yy.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ccetyy.cn,health,长春市儿童医院,http://www.ccetyy.cn/,www.ccetyy.cn,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ccsfuchan.com,health,Changchun Obstetrics and Gynecology Hospital,http://www.ccsfuchan.com/,www.ccsfuchan.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cd3hospital.com,health,成都市第三人民医院,https://www.cd3hospital.com/,www.cd3hospital.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cd5120.com,health,Chengdu Fifth People's Hospital,http://www.cd5120.com/,www.cd5120.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cdsyy.com,health,The First People's Hospital of Changde,http://www.cdsyy.com/,www.cdsyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cdwhyy.com,health,成都市武侯区人民医院,http://www.cdwhyy.com/,www.cdwhyy.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cdyfy.com,health,南昌大学第一附属医院,http://www.cdyfy.com/,www.cdyfy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.changshacentralhospital.com,health,Changsha Central Hospital,http://www.changshacentralhospital.com/,www.changshacentralhospital.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.chdyyy.com,health,Chaohu Hospital of Anhui Medical University,http://www.chdyyy.com/,www.chdyyy.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.chesthospital.com,health,天津市胸科医院,http://www.chesthospital.com/,www.chesthospital.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.chhospital.com.cn,health,海军军医大学第一附属医院（上海长海医院）,http://www.chhospital.com.cn/,www.chhospital.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.chinablood.com.cn,health,中国医学科学院血液病医院,http://www.chinablood.com.cn/english/i,www.chinablood.com.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.chinatcm.org,health,浙江省中医院,http://www.chinatcm.org/,www.chinatcm.org,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cicams.ac.cn,health,中国医学科学院肿瘤医院,http://www.cicams.ac.cn/,www.cicams.ac.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cliffordhospital.com,health,Clifford Hospital,http://www.cliffordhospital.com,www.cliffordhospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cmersz.com,health,深圳希瑪林順潮眼科醫院,http://www.cmersz.com/,www.cmersz.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cmhhk.org.hk,health,香港中醫醫院,https://www.cmhhk.org.hk/,www.cmhhk.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cmm-pumch.gov.mo,health,離島醫療綜合體北京協和醫院澳門醫學中心,https://www.cmm-pumch.gov.mo/,www.cmm-pumch.gov.mo,unprobed,,,澳门·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cmu1h.com,health,中国医科大学附属第一医院,http://www.cmu1h.com/,www.cmu1h.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cmu4h.cn,health,中国医科大学附属第四医院,http://www.cmu4h.cn/,www.cmu4h.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqch.cn,health,重庆市肿瘤研究所,http://www.cqch.cn/,www.cqch.cn,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqdent.com,health,重庆医科大学胃肠医院,http://www.cqdent.com/english/,www.cqdent.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqflzxyy.com.cn,health,重庆市涪陵中心医院,http://www.cqflzxyy.com.cn/nav/1.html,www.cqflzxyy.com.cn,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqjlpyy.com,health,九龙坡区人民医院,http://www.cqjlpyy.com/,www.cqjlpyy.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqkx120.net,health,重庆开县人民医院,http://www.cqkx120.net/,www.cqkx120.net,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqrmhospital.com,health,重庆市第三人民医院,http://www.cqrmhospital.com/,www.cqrmhospital.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqrmyy.com,health,重庆市人民医院,https://www.cqrmyy.com,www.cqrmyy.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cqsfybjy.com,health,重庆妇幼保健院,http://www.cqsfybjy.com,www.cqsfybjy.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.crrc.com.cn,health,中国康复研究中心,http://www.crrc.com.cn/html7/index.cbs,www.crrc.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cs4hospital.com,health,长沙市第四医院,http://www.cs4hospital.com/,www.cs4hospital.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.csey.cn,health,常熟市第二人民医院,http://www.csey.cn,www.csey.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cssdsyy.com,health,长沙市第三医院,http://www.cssdsyy.com/#,www.cssdsyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cssfybjy.com,health,Changsha Hospital for Maternal and Child Health Care,http://www.cssfybjy.com/,www.cssfybjy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cthhmu.com,health,河北医科大学第三医院,http://www.cthhmu.com/,www.cthhmu.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cuhkmc.hk,health,香港中文大學醫院,http://www.cuhkmc.hk/,www.cuhkmc.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cyfy.cn,health,承德医学院附属医院,http://www.cyfy.cn/,www.cyfy.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cyfyy.com.cn,health,成都医学院第一附属医院,http://www.cyfyy.com.cn/,www.cyfyy.com.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cylh.com,health,北京市垂杨柳医院,http://www.cylh.com/,www.cylh.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.cz96120.com,health,Cangzhou Central Hospital,http://www.cz96120.com/Article/ShowClass.asp?ClassID=124,www.cz96120.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.czfph.com,health,常州市第一人民医院,http://www.czfph.com/default.asp,www.czfph.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.czhospital.com,health,Chenzhou First People's Hospital,http://www.czhospital.com/Index.html,www.czhospital.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.czrmyy.com,health,沧州人民医院,http://www.czrmyy.com/,www.czrmyy.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.czzlyy.com,health,Fourth People's Hospital of Changzhou,http://www.czzlyy.com/news/1.htm,www.czzlyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dahuahosp.com,health,Dahua Hospital,http://www.dahuahosp.com/,www.dahuahosp.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.daopei.net,health,北京道培医院,http://www.daopei.net/branches/wuhan,www.daopei.net,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.deltahealth.com.cn,health,上海德达医院,https://www.deltahealth.com.cn,www.deltahealth.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dentist.org.cn,health,首都医科大学附属北京口腔医院,http://www.dentist.org.cn/,www.dentist.org.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dfmhp.com.cn,health,Dongfeng General Hospital,http://www.dfmhp.com.cn/,www.dfmhp.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dgphospital.com,health,东莞市人民医院,https://www.dgphospital.com,www.dgphospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dl-qy.com,health,大连市第七人民医院,http://www.dl-qy.com/,www.dl-qy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dl3y.com,health,Dalian City Third People's Hospital,http://www.dl3y.com/,www.dl3y.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dlfy-hospital.com,health,大连市妇产医院,http://www.dlfy-hospital.com/dlfy/user/index,www.dlfy-hospital.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dlhospital.com,health,大连大学附属中山医院,http://www.dlhospital.com/,www.dlhospital.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dlzdermyy.com,health,大理州第二人民医院,http://www.dlzdermyy.com/,www.dlzdermyy.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dlzxyy.com,health,Dalian Municipal Central Hospital,http://www.dlzxyy.com/,www.dlzxyy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dlzzyyy.com,health,大理白族自治州中医医院,http://www.dlzzyyy.com/,www.dlzzyyy.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dmu-1.com,health,大连医科大学附属第一医院,http://www.dmu-1.com/,www.dmu-1.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dongfangyy.com.cn,health,北京中医药大学东方医院,https://www.dongfangyy.com.cn/,www.dongfangyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dph-fsi.com,health,中国人民解放军陆军特色医学中心,https://www.dph-fsi.com,www.dph-fsi.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dqsrmyy.com,health,大庆市人民医院,http://www.dqsrmyy.com/,www.dqsrmyy.com,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dqytzyy.com,health,大庆油田总医院,https://www.dqytzyy.com/,www.dqytzyy.com,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dxhyy.com.cn,health,东西湖区人民医院,http://www.dxhyy.com.cn/,www.dxhyy.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dyhospital.com,health,Dongyang People's Hospital,http://www.dyhospital.com/,www.dyhospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dykq120.com,health,德阳口腔医院,http://www.dykq120.com/index.php,www.dykq120.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dyyy.xjtu.edu.cn,health,西安交通大学第一附属医院,http://www.dyyy.xjtu.edu.cn/,www.dyyy.xjtu.edu.cn,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dzmhospital.com,health,北京中医药大学东直门医院,http://www.dzmhospital.com/News/Main?siteId=510,www.dzmhospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.dzqrmyy.com,health,大足区人民医院,http://www.dzqrmyy.com/,www.dzqrmyy.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.e3861.com,health,广东省妇幼保健院,http://www.e3861.com/,www.e3861.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.e5421.com,health,广东省口腔医院,http://www.e5421.com/,www.e5421.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ehbh.cn,health,海军军医大学第三附属医院（上海东方肝胆外科医院）,http://www.ehbh.cn/,www.ehbh.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.enzemed.com,health,Taizhou Central Hospital,http://www.enzemed.com/zxyy/,www.enzemed.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.epzyy.cn,health,中国人民解放军火箭军特色医学中心,http://www.epzyy.cn/,www.epzyy.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.etyy.cn,health,昆明市儿童医院,http://www.etyy.cn/,www.etyy.cn,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.evangel.org.hk,health,播道醫院,http://www.evangel.org.hk,www.evangel.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fahsysu.org.cn,health,中山大学附属第一医院,http://www.fahsysu.org.cn/en/home,www.fahsysu.org.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fahsysu.org.cn~c9,health,中山大学附属第一医院,http://www.fahsysu.org.cn/home,www.fahsysu.org.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fckyy.com,health,复旦大学附属妇产科医院,http://www.fckyy.com/,www.fckyy.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fdeent.org,health,复旦大学附属眼耳鼻喉科医院,http://www.fdeent.org/,www.fdeent.org,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fhxqgkyy.com.cn,health,宁波奉化新桥骨科医院,http://www.fhxqgkyy.com.cn/,www.fhxqgkyy.com.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fhzyyy.com,health,宁波市奉化区中医医院,http://www.fhzyyy.com/,www.fhzyyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.firsthospital.cn,health,上海市第一人民医院,http://www.firsthospital.cn/,www.firsthospital.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fjfk.com,health,Fuzhou Pulmonary Hospital of Fujian,http://www.fjfk.com/,www.fjfk.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fjsfy.com,health,Fujian Women and Children Hospital,http://www.fjsfy.com/,www.fjsfy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fjsl.com.cn,health,福建省立医院,http://www.fjsl.com.cn/,www.fjsl.com.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fjxiehe.com,health,福建医科大学附属协和医院,http://www.fjxiehe.com/,www.fjxiehe.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fjzl.com.cn,health,福建省肿瘤医院,http://www.fjzl.com.cn/,www.fjzl.com.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fshealth.gov.cn,health,佛山市妇幼保健院,http://www.fshealth.gov.cn,www.fshealth.gov.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fshospital.org.cn,health,First People's Hospital of Foshan,http://www.fshospital.org.cn/,www.fshospital.org.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fstcm.com.cn,health,佛山市中医院,http://www.fstcm.com.cn/en,www.fstcm.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fsyyy.com,health,佛山市第一人民医院,https://www.fsyyy.com/,www.fsyyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fudahospital.com,health,Fuda Cancer Hospital-Guangzhou,http://www.fudahospital.com/en_asp_new/about_fuda.asp#.VpNZurZ97IV,www.fudahospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fuwaihospital.org,health,中国医学科学院阜外医院,http://www.fuwaihospital.org/News/Main?siteId=527,www.fuwaihospital.org,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fuyou.cn,health,珠海市妇幼保健院,https://www.fuyou.cn/,www.fuyou.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fybj.net,health,四川省妇幼保健院,http://www.fybj.net/,www.fybj.net,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fybjy.com,health,Weifang Maternity and Child Care Hospital,http://www.fybjy.com/index.html,www.fybjy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fybjy.com.cn,health,Jinan Maternity And Care Hospital,http://www.fybjy.com.cn/,www.fybjy.com.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fyey.cn,health,福建医科大学附属第二医院,http://www.fyey.cn/,www.fyey.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fysyy.com,health,Fuyang City People's Hospital,http://www.fysyy.com/,www.fysyy.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fyyy.com,health,福建医科大学附属第一医院,http://www.fyyy.com/,www.fyyy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fzcrb.com,health,孟超肝胆医院,http://www.fzcrb.com/,www.fzcrb.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fzsdeyy.com,health,福州市第二医院,http://www.fzsdeyy.com/,www.fzsdeyy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fzsdsyy.com,health,福建省福州神经精神病防治院,http://www.fzsdsyy.com/,www.fzsdsyy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.fzzyy.com,health,中国人民解放军联勤保障部队第九〇〇医院,http://www.fzzyy.com/,www.fzzyy.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ganxibaowang.com,health,Tang Hospital,http://www.ganxibaowang.com/,www.ganxibaowang.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gcph.com.cn,health,Gaochun People's Hospital,http://www.gcph.com.cn/,www.gcph.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gd2h.com,health,广东省第二人民医院,http://www.gd2h.com/,www.gd2h.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gdghospital.org.cn,health,广东省人民医院,https://www.gdghospital.org.cn/,www.gdghospital.org.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gdhtcm.com,health,广东省中医院,http://www.gdhtcm.com/,www.gdhtcm.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gdmch.com,health,Affiliated Hospital of Guangdong Medical College Hospital,http://www.gdmch.com/,www.gdmch.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gdoh.org,health,广东省职业病防治院,http://www.gdoh.org/,www.gdoh.org,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gdszjk.org.cn,health,广东省计划生育科学技术研究所,http://www.gdszjk.org.cn/,www.gdszjk.org.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gf120.com,health,浙江金华广福医院,http://www.gf120.com/,www.gf120.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gghosp.net,health,Guigang City People's Hospital,http://www.gghosp.net/Index.html,www.gghosp.net,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ghhospital.com.cn,health,Guanghua Hospital,http://www.ghhospital.com.cn/home/show.aspx?showid=IX4vSjwsfkYvSSFSSzVSJDpMJis1VQ%3d%3d,www.ghhospital.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gjmyy.cn,health,内蒙古国际蒙医院官网,http://www.gjmyy.cn/index.html,www.gjmyy.cn,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.glhospital.com,health,上海市浦东新区公利医院,http://www.glhospital.com/glhospital_website/html/glyy/portal/index/index.htm,www.glhospital.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.glhospital.com~c1,health,上海市浦东新区公利医院,https://www.glhospital.com/,www.glhospital.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gmcah.com,health,Affiliated Hospital of Guizhou Medical University,http://www.gmcah.com/,www.gmcah.com,unprobed,,,贵州省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gsyy.cn,health,甘肃省人民医院,http://www.gsyy.cn/,www.gsyy.cn,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gszlyy.com,health,甘肃省医学科学研究院,http://www.gszlyy.com/,www.gszlyy.com,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gszyy.com,health,甘肃省中医院,http://www.gszyy.com/,www.gszyy.com,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxgyfy.com,health,桂林医科大学第一附属医院,https://www.gxgyfy.com/,www.gxgyfy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxhc120.com,health,河池市第一人民医院,http://www.gxhc120.com/,www.gxhc120.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxhospital.com,health,广西壮族自治区人民医院,http://www.gxhospital.com/,www.gxhospital.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxjbyy.com,health,广西壮族自治区江滨医院,http://www.gxjbyy.com/,www.gxjbyy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxmuyfy.cn,health,广西医科大学第一附属医院,http://www.gxmuyfy.cn/,www.gxmuyfy.cn,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxrkyy.com,health,广西中医药大学第二附属医院,http://www.gxrkyy.com/,www.gxrkyy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxyy.net,health,西安高新医院,http://www.gxyy.net/,www.gxyy.net,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gxyyfy.cn,health,Affiliated Hospital of Youjiang Medical University for Nationalities,http://www.gxyyfy.cn/,www.gxyyfy.cn,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gy120.net,health,广东药科大学附属第一医院,http://www.gy120.net/,www.gy120.net,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gy3y.com,health,广州医科大学附属第三医院,http://www.gy3y.com/index.html,www.gy3y.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gydfsy.com,health,广州医科大学附属第四医院,https://www.gydfsy.com/,www.gydfsy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gyey.com,health,广州医学院第二附属医院,http://www.gyey.com/cn/index.aspx,www.gyey.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gyfwyy.com,health,广州医科大学附属第五医院,https://www.gyfwyy.com,www.gyfwyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gyfyy.com,health,广州医科大学附属第一医院,http://www.gyfyy.com/cn/index.aspx,www.gyfyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gyyfy.com,health,First Affiliated Hospital of Gannan Medical University,http://www.gyyfy.com/,www.gyyfy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gz12hospital.cn,health,广州市第十二人民医院,http://www.gz12hospital.cn/,www.gz12hospital.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gz5055.com,health,贵州省人民医院,https://www.gz5055.com/,www.gz5055.com,unprobed,,,贵州省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gz8h.com.cn,health,广州市第八人民医院,http://www.gz8h.com.cn/,www.gz8h.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzbrain.cn,health,广州市惠爱医院,http://www.gzbrain.cn/,www.gzbrain.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzbzxyy.com.cn,health,宜昌市中医医院,http://www.gzbzxyy.com.cn,www.gzbzxyy.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzcancer.com,health,广州医科大学附属肿瘤医院,http://www.gzcancer.com/cn/index.aspx,www.gzcancer.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzcancer.com~2,health,广州医科大学附属肿瘤医院,https://www.gzcancer.com/,www.gzcancer.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzlwzy.com,health,Guangzhou Liwan District Traditional Chinese Medicine Hospital,http://www.gzlwzy.com/,www.gzlwzy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzph.net,health,高州人民医院,http://www.gzph.net/,www.gzph.net,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzpyzy.cn,health,番禺中医院,http://www.gzpyzy.cn/,www.gzpyzy.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzrehab.com.cn,health,广东省工伤康复医院,http://www.gzrehab.com.cn/,www.gzrehab.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzsrmyy.com,health,Ganzhou People's Hospital,http://www.gzsrmyy.com/,www.gzsrmyy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzszlyy.cn,health,Guizhou Cancer Hospital,http://www.gzszlyy.cn/,www.gzszlyy.cn,unprobed,,,贵州省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzszyy.com,health,广州医科大学附属中医医院,https://www.gzszyy.com/,www.gzszyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gztcm.com.cn,health,First Affiliated Hospital of Guangzhou University of Chinese Medicine,http://www.gztcm.com.cn/#,www.gztcm.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gztcm.com.cn~2,health,广州中医药大学第一附属医院,http://www.gztcm.com.cn/,www.gztcm.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.gzzyy.com,health,中国人民解放军南部战区总医院,http://www.gzzyy.com/Index/,www.gzzyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk,health,北大嶼山醫院,https://www.ha.org.hk/visitor/ha_visitor_text_index.asp?Content_ID=216546&Lang=CHIB5,www.ha.org.hk,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~10,health,東華三院馮堯敬醫院,http://www.ha.org.hk/fykh/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~11,health,東華東院,http://www.ha.org.hk/tweh/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~12,health,瑪嘉烈醫院,https://www.ha.org.hk/visitor/ha_hosp_details.asp?Content_ID=100160&Lang=ENG,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~13,health,瑪麗醫院,https://www.ha.org.hk/qmh/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~14,health,白普理寧養中心,http://www.ha.org.hk/bbh,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~15,health,葛量洪醫院,https://www.ha.org.hk/visitor/ha_hosp_details.asp?Content_ID=100139,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~16,health,葵涌醫院,http://www.ha.org.hk/kch/eng/index/eng-index.html,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~17,health,贊育醫院,http://www.ha.org.hk/visitor/ha_hosp_details.asp?Content_ID=100133&Lang=ENG,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~18,health,香港兒童醫院,http://www.ha.org.hk/hkch/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~19,health,麥理浩復康院,http://www.ha.org.hk/mmrc,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~2,health,九龍醫院,http://www.ha.org.hk/kh,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~3,health,北區醫院,https://www.ha.org.hk/ndh/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~4,health,大埔醫院,http://www.ha.org.hk/tph,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~5,health,威爾斯親王醫院,https://www.ha.org.hk/pwh/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~6,health,廣華醫院,http://www.ha.org.hk/kwh/,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~7,health,律敦治醫院,http://www.ha.org.hk/visitor/ha_hosp_details.asp?Content_ID=100144&Lang=ENG,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~8,health,明愛醫院,https://www.ha.org.hk/visitor/ha_visitor_index.asp?Lang=CHIB5&Content%5FID=100163,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ha.org.hk~9,health,東區尤德夫人那打素醫院,http://www.ha.org.hk/pyneh,www.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.haiheyiyuan.cn,health,天津市海河医院,http://www.haiheyiyuan.cn/,www.haiheyiyuan.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.haikoumh.com.cn,health,海口市人民医院,http://www.haikoumh.com.cn/,www.haikoumh.com.cn,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hassy.cn,health,淮安市第四人民医院,http://www.hassy.cn/,www.hassy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hasyy.com,health,淮安市第一人民医院,http://www.hasyy.com/,www.hasyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hb2h.com,health,河北医科大学第二医院,http://www.hb2h.com/,www.hb2h.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbch.com.cn,health,湖北省肿瘤医院,http://www.hbch.com.cn/en/,www.hbch.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbdxfy.cn,health,河北大学附属医院,http://www.hbdxfy.cn/,www.hbdxfy.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbfy.com,health,Hubei Provincial Women and Children's Hospital,http://www.hbfy.com/,www.hbfy.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbhtcm.com,health,湖北省中醫院,http://www.hbhtcm.com/,www.hbhtcm.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbszsyy.com,health,武汉大学中山医院,http://www.hbszsyy.com/,www.hbszsyy.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbszxyjhyy.org.cn,health,Hubei Provincial Hospital of Integrative Medicine,http://www.hbszxyjhyy.org.cn/,www.hbszxyjhyy.org.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hbszyy.cn,health,河北省中医院,http://www.hbszyy.cn/,www.hbszyy.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hdhospital.com,health,北京市海淀医院,http://www.hdhospital.com/,www.hdhospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hdyfy.com,health,First Affiliated Hospital of Henan University,http://www.hdyfy.com/,www.hdyfy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hfyy.cn,health,合肥第一人民医院,http://www.hfyy.cn/,www.hfyy.cn,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hgsrmyy.com,health,鹤岗市人民医院,http://www.hgsrmyy.com/,www.hgsrmyy.com,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hjhsz.org,health,获嘉县红十字医院,http://www.hjhsz.org/menu_view-3-1.html,www.hjhsz.org,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hjsyy.com,health,河间市人民医院,http://www.hjsyy.com/,www.hjsyy.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hjzyy.com.cn,health,中国人民解放军总医院第六医学中心,http://www.hjzyy.com.cn,www.hjzyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hkah.org.hk,health,香港港安醫院–司徒拔道,https://www.hkah.org.hk,www.hkah.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hkbh.org.hk,health,香港浸信會醫院,http://www.hkbh.org.hk/eng/home.php,www.hkbh.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hkch.org,health,港中醫院,http://www.hkch.org/,www.hkch.org,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hksh.com,health,養和醫院,http://www.hksh.com/,www.hksh.com,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hku-szh.org,health,香港大学深圳医院,http://www.hku-szh.org,www.hku-szh.org,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hkzyy.com.cn,health,中国医科大学航空总医院,http://www.hkzyy.com.cn/Html/News/Main/835.html,www.hkzyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hljhospital.net,health,黑龙江省医院,http://www.hljhospital.net/,www.hljhospital.net,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hljzy.cn,health,黑龙江中医药大学附属第一医院,http://www.hljzy.cn/,www.hljzy.cn,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hmucancerhospital.org.cn,health,哈尔滨医科大学附属肿瘤医院,http://www.hmucancerhospital.org.cn/,www.hmucancerhospital.org.cn,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hneyehospital.com,health,河南省眼科研究所,http://www.hneyehospital.com/,www.hneyehospital.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnjsby.cn,health,Henan Psychiatric Hospital,http://www.hnjsby.cn/,www.hnjsby.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnsanyy.com,health,海南省公安厅安康医院,http://www.hnsanyy.com/,www.hnsanyy.com,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnsmch.org,health,海南省婦幼保健院,http://www.hnsmch.org/,www.hnsmch.org,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnsrmyy.com,health,湖南省人民醫院,http://www.hnsrmyy.com/,www.hnsrmyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnsrmyy.net,health,河南省人民医院,http://www.hnsrmyy.net/,www.hnsrmyy.net,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnstb.com,health,湖南省胸科医院,http://www.hnstb.com/,www.hnstb.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnszyy.com.cn,health,河南省中医院,http://www.hnszyy.com.cn,www.hnszyy.com.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnxd.org,health,海南现代妇女儿童医院,http://www.hnxd.org/special/index_en.html,www.hnxd.org,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnxkyy.com.cn,health,Henan Provincial Chest Hospital,http://www.hnxkyy.com.cn/,www.hnxkyy.com.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnzhy.com,health,河南中医学院第一医院,http://www.hnzhy.com/,www.hnzhy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnzoc.com,health,Hainan Eye Hospital,http://www.hnzoc.com/,www.hnzoc.com,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hnzyfy.com,health,湖南中医药大学第一附属医院,http://www.hnzyfy.com/,www.hnzyfy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hosno7.com,health,Seventh People's Hospital of Shanghai,http://www.hosno7.com/shsqyyen/,www.hosno7.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hosp1.ac.cn,health,温州医科大学附属第一医院,http://www.hosp1.ac.cn/wyyy/web/home/default.aspx,www.hosp1.ac.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hospital-cas.cn,health,上海徐汇中心医院,http://www.hospital-cas.cn/cn/ABOUT/about8.asp,www.hospital-cas.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hospital-cqmu.com,health,重庆医科大学附属第一医院,http://www.hospital-cqmu.com/,www.hospital-cqmu.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hospital-nsmc.com.cn,health,Affiliated Hospital of North Sichuan Medical College,http://www.hospital-nsmc.com.cn/index.html,www.hospital-nsmc.com.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hospital305.com,health,中国人民解放军第三〇五医院,http://www.hospital305.com/,www.hospital305.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hp1946.cn,health,Changzhi Medical College Peace Hospital,http://www.hp1946.cn/,www.hp1946.cn,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hrbmush.edu.cn,health,哈尔滨医科大学附属第二医院,http://www.hrbmush.edu.cn/,www.hrbmush.edu.cn,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hsdyyy.com,health,呼和浩特第一医院,http://www.hsdyyy.com/,www.hsdyyy.com,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hsyk024.com,health,He Eye Hospital,http://www.hsyk024.com/,www.hsyk024.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.huadonghospital.com,health,华东医院,http://www.huadonghospital.com/,www.huadonghospital.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.huashan.org.cn,health,复旦大学附属华山医院,http://www.huashan.org.cn/,www.huashan.org.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hunanzy.com,health,Second Affiliated Hospital of Hunan University of Traditional Chinese Medicine,http://www.hunanzy.com/,www.hunanzy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hyfyuan.com,health,Hainan Medical College Hospital,http://www.hyfyuan.com/,www.hyfyuan.com,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hz-hospital.com,health,杭州市第一人民医院,https://www.hz-hospital.com/,www.hz-hospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hz120.cn,health,Heze Municipal Hospital,http://www.hz120.cn/,www.hz120.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hz2y.com,health,Affiliated Hospital of Hangzhou Normal University,http://www.hz2y.com/,www.hz2y.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hz3yy.com,health,杭州市第三人民医院,http://www.hz3yy.com/en/index.aspx,www.hz3yy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hz7hospital.com,health,杭州市第七人民医院,http://www.hz7hospital.com/english.html,www.hz7hospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hzcch.com,health,汉中市中心医院,http://www.hzcch.com/,www.hzcch.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hzch.gd.cn,health,惠州市中心人民医院,http://www.hzch.gd.cn/,www.hzch.gd.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hzhhyy.com,health,杭州市红十字会医院,http://www.hzhhyy.com/english.php,www.hzhhyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hzhospital.com,health,湖州市中心医院,http://www.hzhospital.com/,www.hzhospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hzsy.com,health,Third People's Hospital of Huzhou,http://www.hzsy.com/,www.hzsy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.hztcm.net,health,杭州市中医院,http://www.hztcm.net/en/,www.hztcm.net,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ipmch.com.cn,health,国际和平妇幼保健院,http://www.ipmch.com.cn/en,www.ipmch.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ipmch.com.cn~c2,health,国际和平妇幼保健院,https://www.ipmch.com.cn/,www.ipmch.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jd120.com,health,暨南大学附属第一医院,http://www.jd120.com/,www.jd120.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jdey.com.cn,health,吉林大学第二医院,http://www.jdey.com.cn/,www.jdey.com.cn,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jdfy.cn,health,江苏大学附属医院,http://www.jdfy.cn/,www.jdfy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jdhospital.com,health,Jiading District Central Hospital,http://www.jdhospital.com/index/index.htm,www.jdhospital.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jdyy.cn,health,First Bethune Hospital of Jilin University,http://www.jdyy.cn/index.php/yygk/index.html,www.jdyy.cn,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jdyy.cn~2,health,吉林大学第一医院,https://www.jdyy.cn/,www.jdyy.cn,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jhzxyy.cn,health,金华市中心医院,http://www.jhzxyy.cn/,www.jhzxyy.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jiahuihealth.com,health,嘉会国际医院,https://www.jiahuihealth.com,www.jiahuihealth.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jjhospital.com.cn,health,Jiangjin Central Hospital,http://www.jjhospital.com.cn/,www.jjhospital.com.cn,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jkxlfs.cn,health,Shanxi Taiyuan Jinkang Rheumatism Hospital,http://www.jkxlfs.cn/,www.jkxlfs.cn,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jkyc.com,health,People's Liberation Army No. 150 Hospital,http://www.jkyc.com/ly150rlzyb/index.asp,www.jkyc.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jlhtcm.com,health,长春中医药大学附属医院,http://www.jlhtcm.com/,www.jlhtcm.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jlsnk.com,health,Brain Hospital of Jilin,http://www.jlsnk.com/,www.jlsnk.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jlsyy.net,health,吉林省人民医院,http://www.jlsyy.net/,www.jlsyy.net,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jlszxyy.com,health,Jilin City Central Hospital,http://www.jlszxyy.com/,www.jlszxyy.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jlwch.net,health,吉林市妇幼保健院,http://www.jlwch.net/,www.jlwch.net,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jmsuf.com,health,First Affiliated Hospital of Jiamusi University,http://www.jmsuf.com/,www.jmsuf.com,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jndsyy.cn,health,Fourth People’s Hospital of Jinan,http://www.jndsyy.cn/Web/Main/,www.jndsyy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jnjqzyy.cn,health,中国人民解放军济南军区总医院,http://www.jnjqzyy.cn/,www.jnjqzyy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jnqzyy.com,health,江宁区中医院,http://www.jnqzyy.com/,www.jnqzyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jnrmyy.com,health,Jining First People's Hospital,http://www.jnrmyy.com/index.html,www.jnrmyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jnrmyy.com~2,health,济宁市第一人民医院,https://www.jnrmyy.com/,www.jnrmyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jnskqyy.com,health,Jinan Stomatological Hospital,http://www.jnskqyy.com/,www.jnskqyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jnszyy.com,health,济宁市中医院,http://www.jnszyy.com/,www.jnszyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.js-szyy.com,health,Jiangsu Shengze Hospital,http://www.js-szyy.com/,www.js-szyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jscsyy.cn,health,Changshu No.1 People's Hospital,http://www.jscsyy.cn/,www.jscsyy.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jsczsy.cn,health,常州市第三人民医院,http://www.jsczsy.cn/,www.jsczsy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jshtcm.com,health,江苏省中医院,http://www.jshtcm.com,www.jshtcm.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jshtcm.com~2,health,江苏省中医药研究院,http://www.jshtcm.com/,www.jshtcm.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jsnydefy.com,health,南京大学医学院第二附属医院,http://www.jsnydefy.com/,www.jsnydefy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jsph.net,health,江苏省人民医院,http://www.jsph.net/,www.jsph.net,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jspoh.com,health,江苏省省级机关医院,http://www.jspoh.com/,www.jspoh.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jst-hosp.com.cn,health,Beijing New Century International Hospital for Children,http://www.jst-hosp.com.cn/,www.jst-hosp.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jstxry.com,health,泰兴市人民医院,http://www.jstxry.com/,www.jstxry.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jstzhospital.com,health,泰州市人民医院,http://www.jstzhospital.com/,www.jstzhospital.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jsxyfy.com,health,徐州医学院附属医院,http://www.jsxyfy.com/,www.jsxyfy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jsycsy.com,health,Yancheng Third People's Hospital,http://www.jsycsy.com/,www.jsycsy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jsyxth.com,health,Yixing Tumor Hospital,http://www.jsyxth.com/,www.jsyxth.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jszlyy.com.cn,health,江苏省肿瘤防治研究所,http://www.jszlyy.com.cn/,www.jszlyy.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jtrmyy.com,health,金坛市人民医院,http://www.jtrmyy.com/index.php,www.jtrmyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxcancer.cn,health,江西省肿瘤医院,http://www.jxcancer.cn/,www.jxcancer.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxdyyy.com,health,嘉兴市第一医院,http://www.jxdyyy.com/-2B-75-43-7A-75-47-68-38-55-2F-59-3D/index.htm,www.jxdyyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxjjsdyrmyy.cn,health,Jiujiang First People's Hospital,http://www.jxjjsdyrmyy.cn/?yunsuo_session_verify=8a1aa6ad48046555ce45b6ee0fd86ee7,www.jxjjsdyrmyy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxndefy.cn,health,南昌大学第二附属医院,https://www.jxndefy.cn/,www.jxndefy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxsetyy.cn,health,Jiangxi Provincial Children's Hospital,http://www.jxsetyy.cn/,www.jxsetyy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxsfybjyy.cn,health,江西省妇幼保健院,http://www.jxsfybjyy.cn/,www.jxsfybjyy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jxsrmyy.cn,health,江西省人民医院,http://www.jxsrmyy.cn/,www.jxsrmyy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyfy.com.cn,health,济宁医学院附属医院,http://www.jyfy.com.cn/,www.jyfy.com.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyrmyy.com,health,Jiangyin People's Hospital,http://www.jyrmyy.com/,www.jyrmyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyry.com,health,Taizhou Second People's Hospital,http://www.jyry.com/,www.jyry.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyyfy.com,health,First Affiliated Hospital of Jiangxi Medical College,http://www.jyyfy.com/,www.jyyfy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyyy.com.cn,health,河北医科大学第一医院,http://www.jyyy.com.cn/channel_844.html,www.jyyy.com.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyyyw.com,health,First Affiliated Hospital of Jinzhou Medical University,http://www.jyyyw.com/,www.jyyyw.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jyzyy.com.cn,health,江阴市中医院,https://www.jyzyy.com.cn/,www.jyzyy.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jzefyy.cn,health,江西中医药大学附属第二医院,http://www.jzefyy.cn/index.html,www.jzefyy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jzmu.edu.cn,health,锦州医科大学第三临床医学院,https://www.jzmu.edu.cn/en/info/1017/1215.htm,www.jzmu.edu.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jzszxyy.com,health,Jinzhou Central Hospital,http://www.jzszxyy.com/,www.jzszxyy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jzyy1949.com,health,First People's Hospital of Jingzhou,http://www.jzyy1949.com/user_index.action,www.jzyy1949.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.jzzxyy.com.cn,health,荆州市中心医院,http://www.jzzxyy.com.cn/,www.jzzxyy.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kfetyy.com.cn,health,Kaifeng City Children's Hospital,http://www.kfetyy.com.cn/,www.kfetyy.com.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kj-hospital.com,health,中国人民解放军空军特色医学中心,http://www.kj-hospital.com/,www.kj-hospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.klyy.com,health,Kailuan General Hospital,http://www.klyy.com/,www.klyy.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kmszy.com,health,Kunming Municipal Hospital of Traditional Chinese Medicine,http://www.kmszy.com/,www.kmszy.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kmtrh.org,health,昆明同仁医院,http://www.kmtrh.org/,www.kmtrh.org,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kmyayy.com,health,昆明市延安医院,http://www.kmyayy.com/,www.kmyayy.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kowloonhospital.com,health,Suzhou Kowloon Hospital,http://www.kowloonhospital.com/,www.kowloonhospital.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kpzxyy.com,health,开平市中心医院,http://www.kpzxyy.com/,www.kpzxyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kpzxyy.com~2,health,开平市中心医院,http://www.kpzxyy.com,www.kpzxyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ksrmyy.org,health,First People's Hospital of Kunshan,http://www.ksrmyy.org/,www.ksrmyy.org,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kstcm.org.cn,health,Traditional Chinese Medicine Hospital of Kunshan,http://www.kstcm.org.cn/,www.kstcm.org.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kwh.org.mo,health,鏡湖醫院,http://www.kwh.org.mo/,www.kwh.org.mo,unprobed,,,澳门·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.kyfey.com,health,昆明医科大学第二附属医院,http://www.kyfey.com/,www.kyfey.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lcdsrmyy.com,health,Fourth People's Hospital of Liaocheng,http://www.lcdsrmyy.com/,www.lcdsrmyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lchospital.cn,health,聊城市人民医院,http://www.lchospital.cn/,www.lchospital.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ldyy.net.cn,health,兰州大学第一医院,http://www.ldyy.net.cn/,www.ldyy.net.cn,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lecheng-ruijin.com,health,乐城瑞金海南医院,https://www.lecheng-ruijin.com,www.lecheng-ruijin.com,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lhyz2fy.com,health,Second Affiliated Hospital of Luohe Medical College,http://www.lhyz2fy.com/,www.lhyz2fy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lnlysy.com,health,Third People 's Hospital of Liaoyang,http://www.lnlysy.com/,www.lnlysy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lnph.com,health,辽宁省人民医院,http://www.lnph.com/,www.lnph.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lnszl.com,health,辽宁省肿瘤医院,http://www.lnszl.com/,www.lnszl.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lntcm.com.cn,health,辽宁省中医院,http://www.lntcm.com.cn/en/,www.lntcm.com.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lnyy.com.cn,health,北京老年医院,http://www.lnyy.com.cn/,www.lnyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.longhua.net,health,上海中医药大学附属龙华医院,http://www.longhua.net/,www.longhua.net,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lqsyy.com,health,临清市人民医院,http://www.lqsyy.com/,www.lqsyy.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ls-hospital.com,health,Lishui City People's Hospital,http://www.ls-hospital.com/,www.ls-hospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lsfby.com.cn,health,Lishui Maternity and Child Health Care Hospital,http://www.lsfby.com.cn/,www.lsfby.com.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lshospital.zj.cn,health,丽水市中心医院,http://www.lshospital.zj.cn/,www.lshospital.zj.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lsyljt.com,health,镇海区中医医院,http://www.lsyljt.com/,www.lsyljt.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.luhehospital.com,health,首都医科大学附属北京潞河医院,http://www.luhehospital.com/,www.luhehospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lwsyy.com,health,Laiwu People's Hospital,http://www.lwsyy.com/jj1.asp,www.lwsyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ly120.cn,health,临沂市人民医院,http://www.ly120.cn/,www.ly120.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lyfy666.com,health,浏阳市妇幼保健院首页,http://www.lyfy666.com/,www.lyfy666.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lygdfyy.com.cn,health,连云港市东方医院,http://www.lygdfyy.com.cn/,www.lygdfyy.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lygfybj.com,health,Lianyungang Maternal and Children’s Hospital,http://www.lygfybj.com/,www.lygfybj.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lygyy.com.cn,health,连云港市第一人民医院,http://www.lygyy.com.cn/yw.jsp,www.lygyy.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lykfhospital.com,health,临沂市康复医院,https://www.lykfhospital.com/,www.lykfhospital.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lyrmyy.com,health,溧阳市人民医院,http://www.lyrmyy.com,www.lyrmyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lyszxyy.com,health,Luoyang Central Hospital Affiliated to Zhengzhou University,http://www.lyszxyy.com/,www.lyszxyy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lyzxyy.com.cn,health,烟台莱阳中心医院,http://www.lyzxyy.com.cn/,www.lyzxyy.com.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lzgryy.com,health,柳州市工人医院,http://www.lzgryy.com/,www.lzgryy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lzmhc.com,health,蘭州市第三人民醫院,http://www.lzmhc.com/,www.lzmhc.com,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lzqrmyy.com,health,Linzi District People's Hospital,http://www.lzqrmyy.com/,www.lzqrmyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lzsfy.com,health,柳州市妇幼保健院,http://www.lzsfy.com/,www.lzsfy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.lzush.com.cn,health,兰州大学第二医院,https://www.lzush.com.cn/,www.lzush.com.cn,unprobed,,,甘肃省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.matilda.org,health,明德國際醫院,http://www.matilda.org/,www.matilda.org,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.mh-hospital.sh.cn,health,Minhang District Central Hospital,http://www.mh-hospital.sh.cn/index_yxwen.aspx,www.mh-hospital.sh.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.mhzyy.cn,health,民航总医院,https://www.mhzyy.cn/,www.mhzyy.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.moderncancerhospital.com,health,Modern Cancer Hospital Guangzhou,http://www.moderncancerhospital.com/,www.moderncancerhospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.mtzyy.com.cn,health,应急总医院,http://www.mtzyy.com.cn/,www.mtzyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.mwdhospital.com,health,Hunan Mawangdui Hospital,http://www.mwdhospital.com/index.html,www.mwdhospital.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.myfy.com.cn,health,华北理工大学附属医院,http://www.myfy.com.cn/,www.myfy.com.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.myzxyy.com,health,绵阳市中心医院,http://www.myzxyy.com/,www.myzxyy.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.mzrmyy.com,health,梅州市人民医院,http://www.mzrmyy.com/,www.mzrmyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbdeyy.com,health,宁波市第二医院,http://www.nbdeyy.com/,www.nbdeyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbdlyy.com,health,宁波市第六医院,http://www.nbdlyy.com/,www.nbdlyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbdyyy.com,health,宁波市第一医院,http://www.nbdyyy.com/,www.nbdyyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbeye.com,health,宁波市眼科医院,http://www.nbeye.com/,www.nbeye.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbfeyy.com,health,宁波市妇女儿童医院,http://www.nbfeyy.com/,www.nbfeyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbhcyy.com.cn,health,宁波市华慈医院,http://www.nbhcyy.com.cn/,www.nbhcyy.com.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbkfzx.com,health,宁波市康复医院,http://www.nbkfzx.com/,www.nbkfzx.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nblhlyy.com,health,宁波市医疗中心李惠利医院,http://www.nblhlyy.com,www.nblhlyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbmzyy.com,health,浙江大学明州医院,https://www.nbmzyy.com/,www.nbmzyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbsdjyy.com,health,宁波市第九医院,https://www.nbsdjyy.com/,www.nbsdjyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbsjsby.com,health,宁波市精神病院,http://www.nbsjsby.com/,www.nbsjsby.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbszyy.com.cn,health,宁波市中医院,https://www.nbszyy.com.cn/,www.nbszyy.com.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nbyzyy.com,health,宁波大学附属人民医院,https://www.nbyzyy.com/Page,www.nbyzyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nc120.cn,health,Nanchong Central Hospital,http://www.nc120.cn/,www.nc120.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nc1y.com,health,南昌大学第三附属医院,http://www.nc1y.com/,www.nc1y.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nc2y.cn,health,Second Hospital of Nanchang,http://www.nc2y.cn/,www.nc2y.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ncdjyy.com,health,南昌市第九医院,http://www.ncdjyy.com/#;,www.ncdjyy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ncich.com.cn,health,北京明德医院,https://www.ncich.com.cn,www.ncich.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ncsyy.com,health,Third Hospital of Nanchang,http://www.ncsyy.com/,www.ncsyy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ndfsyy.com,health,宁波大学医学院附属人民医院,http://www.ndfsyy.com/,www.ndfsyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ndknyy.cn,health,宁波市康宁医院,https://www.ndknyy.cn/,www.ndknyy.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nfyy.com,health,南方医科大学南方医院,http://www.nfyy.com/,www.nfyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nhfyyy.com,health,First Affiliated Hospital of University of South China,http://www.nhfyyy.com/,www.nhfyyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nhrmyy.com,health,佛山市南海区人民医院,https://www.nhrmyy.com/,www.nhrmyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njch.com.cn,health,南京市儿童医院,https://www.njch.com.cn/,www.njch.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njfybjy.com,health,南京市妇幼保健医院,http://www.njfybjy.com/,www.njfybjy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njglyy.com,health,南京市鼓楼医院,http://www.njglyy.com,www.njglyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njjnyy.cn,health,Nanjing Jiangning Hospital,http://www.njjnyy.cn/english/1.asp,www.njjnyy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njsech.com,health,Nanjing Second Hospital,http://www.njsech.com/,www.njsech.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njszyy.cn,health,Nanjing Traditional Chinese Medicine Hospital,http://www.njszyy.cn/,www.njszyy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njszyy.cn~2,health,南京市中医院,https://www.njszyy.cn/,www.njszyy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njxkyy.net,health,南京胸科医院,http://www.njxkyy.net/,www.njxkyy.net,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.njzdyy.com,health,Zhongda Hospital Southeast University,http://www.njzdyy.com/,www.njzdyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nmdsyy.com.cn,health,内蒙古第四医院,http://www.nmdsyy.com.cn/,www.nmdsyy.com.cn,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nmgfy.com,health,内蒙古医科大学附属医院,http://www.nmgfy.com/,www.nmgfy.com,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nmgyy.cn,health,内蒙古自治区人民医院,http://www.nmgyy.cn/English/index.html,www.nmgyy.cn,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nmgzmyyy.com,health,内蒙古自治区中医医院,http://www.nmgzmyyy.com/,www.nmgzmyyy.com,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nn1yy.com,health,南宁市第一人民医院,http://www.nn1yy.com/,www.nn1yy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nn2yy.com,health,南宁市第二人民医院,http://www.nn2yy.com/,www.nn2yy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nn4yy.com,health,南宁市第四人民医院,https://www.nn4yy.com/,www.nn4yy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nn8yy.com,health,南宁市第八人民医院,http://www.nn8yy.com/,www.nn8yy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nt2y.com,health,南通市第二人民医院,http://www.nt2y.com/,www.nt2y.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ntfybj.com,health,Nantong Maternity and Child Health Hospital,http://www.ntfybj.com/,www.ntfybj.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nthhospital.com,health,南太湖醫院,http://www.nthhospital.com/,www.nthhospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nxrmyy.com,health,宁夏回族自治区人民医院,http://www.nxrmyy.com/,www.nxrmyy.com,unprobed,,,宁夏回族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nxsyy.com,health,广西纳西山医院,http://www.nxsyy.com/,www.nxsyy.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nyefy.com,health,内蒙古医科大学第二附属医院,http://www.nyefy.com/,www.nyefy.com,unprobed,,,内蒙古自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nyfy.com.cn,health,宁夏医科大学总医院,http://www.nyfy.com.cn/,www.nyfy.com.cn,unprobed,,,宁夏回族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.nysy.com.cn,health,南方医科大学第三附属医院,http://www.nysy.com.cn/#,www.nysy.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.oasishealth.cn,health,OASIS International Hospital,http://www.oasishealth.cn/,www.oasishealth.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.olmh-hk.com,health,聖母醫院,http://www.olmh-hk.com/,www.olmh-hk.com,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.parkwayhealth.cn,health,百汇医疗上海,https://www.parkwayhealth.cn,www.parkwayhealth.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pbh.hk,health,寶血醫院（明愛）,http://www.pbh.hk/,www.pbh.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.peacehospital.com,health,中国人民解放军联勤保障部队第九八〇医院,http://www.peacehospital.com/default.html,www.peacehospital.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.peoplehospital.com,health,荣成人民医院,http://www.peoplehospital.com/,www.peoplehospital.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.phhp.com.cn,health,海南省人民医院,https://www.phhp.com.cn/,www.phhp.com.cn,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pkufh.com,health,北京大学第一医院,https://www.pkufh.com/,www.pkufh.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pkuh6.cn,health,北京大学第六医院,http://www.pkuh6.cn/,www.pkuh6.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pkuph.cn,health,北京大学人民医院,http://www.pkuph.cn/,www.pkuph.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pkuszh.com,health,北京大學深圳醫院,http://www.pkuszh.com/,www.pkuszh.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pla304.cc,health,中国人民解放军总医院第四医学中心,http://www.pla304.cc/,www.pla304.cc,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pokoi.org.hk,health,博愛醫院 (香港),http://www.pokoi.org.hk/en/main.aspx,www.pokoi.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.psycn.com.cn,health,Sixth Hospital of Changchun City,http://www.psycn.com.cn/index.asp,www.psycn.com.cn,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.psyonline.com.cn,health,深圳市康宁医院,http://www.psyonline.com.cn/,www.psyonline.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.puaihospital.net,health,武汉普爱医院,http://www.puaihospital.net/,www.puaihospital.net,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.puh3.net.cn,health,北京大学第三医院,http://www.puh3.net.cn,www.puh3.net.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pumcderm.net,health,中国医学科学院皮肤病研究所,http://www.pumcderm.net/,www.pumcderm.net,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pumch.cn,health,北京协和医院,https://www.pumch.cn/index.html,www.pumch.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.punanhospital.com,health,Punan Hospital,http://www.punanhospital.com/english/,www.punanhospital.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pxsrmyy.cn,health,Jiangxi Pingxiang People's Hospital,http://www.pxsrmyy.cn/,www.pxsrmyy.cn,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.pyhospital.com.cn,health,番禺区中心医院,http://www.pyhospital.com.cn/yywh.asp?classid=005&selectclassid=005008,www.pyhospital.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qdfuer.com,health,青岛市妇女儿童医院,http://www.qdfuer.com/,www.qdfuer.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qdjwzx.com,health,青岛市精神卫生中心,http://www.qdjwzx.com/index.aspx,www.qdjwzx.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qhddeyy.com,health,Qinhuangdao Second Hospital,http://www.qhddeyy.com/,www.qhddeyy.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qhdsdyyy.com,health,First Hospital of Qinhuangdao,http://www.qhdsdyyy.com/,www.qhdsdyyy.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qhrch.com,health,Qinghai Red Cross Hospital,http://www.qhrch.com/,www.qhrch.com,unprobed,,,青海省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qhsrmyy.com,health,青海省人民医院,http://www.qhsrmyy.com/main/index.asp,www.qhsrmyy.com,unprobed,,,青海省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qhuah.com,health,青海大学附属医院,http://www.qhuah.com/,www.qhuah.com,unprobed,,,青海省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qiluhospital.com,health,山东大学齐鲁医院,http://www.qiluhospital.com/site2/eng/09/10101.shtml,www.qiluhospital.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qiluhospital.com~c8,health,山东大学齐鲁医院,https://www.qiluhospital.com/,www.qiluhospital.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qzhospital.com,health,Quzhou City People's Hospital,http://www.qzhospital.com/,www.qzhospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.qzrmyy.com,health,Qingzhou City People's Hospital,http://www.qzrmyy.com/,www.qzrmyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rafflesmedicalgroup.com,health,Raffles医疗上海,https://www.rafflesmedicalgroup.com,www.rafflesmedicalgroup.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rahos.gov.cn,health,Ruian People's Hospital,http://www.rahos.gov.cn/,www.rahos.gov.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rcstar.com,health,淮安市第二人民医院,http://www.rcstar.com/,www.rcstar.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.renji.com,health,上海交通大学医学院附属仁济医院,http://www.renji.com/Index.aspx,www.renji.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rimh.cn,health,Beijing Royal Integrative Medicine Hospital,http://www.rimh.cn/index.html,www.rimh.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rjh.com.cn,health,上海交通大学医学院附属瑞金医院,http://www.rjh.com.cn/,www.rjh.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rmhospital.com,health,武汉大学人民医院,http://www.rmhospital.com/,www.rmhospital.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.rzph.com,health,People’s Hospital of Rizhao,http://www.rzph.com/,www.rzph.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sahcqmu.com,health,重庆医科大学附属第二医院,http://www.sahcqmu.com/,www.sahcqmu.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.samsph.com,health,四川省中医药科学院,http://www.samsph.com/index-eng.asp,www.samsph.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sc4h.com,health,Fourth People's Hospital of Sichuan Province,http://www.sc4h.com/,www.sc4h.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.scmc.com.cn,health,上海交通大学医学院附属上海儿童医学中心,http://www.scmc.com.cn/,www.scmc.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.scmy120.com,health,Mianyang Third People's Hospital,http://www.scmy120.com/,www.scmy120.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sctcm120.com,health,四川省中医院,http://www.sctcm120.com/,www.sctcm120.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdeyei-h.edu,health,山东省眼科研究所青岛与医院,http://www.sdeyei-h.edu/,www.sdeyei-h.edu,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdfey.cn,health,苏州大学附属儿童医院,http://www.sdfey.cn/,www.sdfey.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdfey.com,health,苏州大学附属第二医院,http://www.sdfey.com/web/jsp/front/english.jsp,www.sdfey.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdhospital.com.cn,health,山东省千佛山医院,http://www.sdhospital.com.cn/,www.sdhospital.com.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdrmyy.com,health,The First People's Hospital of Shunde,http://www.sdrmyy.com/,www.sdrmyy.com,unprobed,,,江西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdsjtyy.com,health,Shandong Jiaotong Hospital,http://www.sdsjtyy.com/,www.sdsjtyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdtyfy.com,health,Affiliated Hospital of Taishan Medical University,http://www.sdtyfy.com/,www.sdtyfy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdyfy.cn,health,Affiliated Hospital of Shandong Academy of Medical Sciences,http://www.sdyfy.cn/,www.sdyfy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdyfy.com.cn,health,石河子大学医学院第一附属医院,http://www.sdyfy.com.cn/,www.sdyfy.com.cn,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdzcrmyy.cn,health,邹城市人民医院,http://www.sdzcrmyy.cn/,www.sdzcrmyy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sdzydfy.com,health,山东中医药大学附属医院,http://www.sdzydfy.com/web/index.asp,www.sdzydfy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.semeye.com,health,Shandong Shierming Eye Hospital,http://www.semeye.com/,www.semeye.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sgstlyy.com.cn,health,韶关市铁路医院,https://www.sgstlyy.com.cn/,www.sgstlyy.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sgyy.cn,health,上海中医药大学附属曙光医院,http://www.sgyy.cn/eng/sgeweb_history.html,www.sgyy.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sgyy.com.cn,health,北京大学首钢医院,http://www.sgyy.com.cn/,www.sgyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sh85yy.com,health,第85医院,http://www.sh85yy.com/,www.sh85yy.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sh8y.com,health,上海市第八人民医院,http://www.sh8y.com/,www.sh8y.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shanghaieasthospital.com,health,同济大学附属东方医院,http://www.shanghaieasthospital.com/,www.shanghaieasthospital.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shaphc.org,health,上海公共卫生临床中心,http://www.shaphc.org/default.aspx,www.shaphc.org,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shca.org.cn,health,复旦大学附属肿瘤医院,http://www.shca.org.cn/english,www.shca.org.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shca.org.cn~c4,health,复旦大学附属肿瘤医院,https://www.shca.org.cn/,www.shca.org.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shchildren.com.cn,health,上海市儿童医院,http://www.shchildren.com.cn/shchildren_website/html/shetEnglish/portal/index/index.htm,www.shchildren.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shcnfb.cn,health,上海长宁区妇幼保健院,http://www.shcnfb.cn/,www.shcnfb.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shcz.com,health,海军军医大学第二附属医院（上海长征医院）,https://www.shcz.com/,www.shcz.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shdc.org.cn,health,上海申康医院发展中心,http://www.shdc.org.cn/,www.shdc.org.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shdmu.com,health,大连医科大学附属第二医院,http://www.shdmu.com/,www.shdmu.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shdsyy.com.cn,health,上海市第十人民医院,http://www.shdsyy.com.cn/,www.shdsyy.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shiliyiyuan.cn,health,威海市立医院,http://www.shiliyiyuan.cn/,www.shiliyiyuan.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shouer.com.cn,health,首都医科大学附属首都儿童医学中心,http://www.shouer.com.cn/web/detail.aspx?menuID=17&contentID=47,www.shouer.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shsbyy.com.cn,health,Shanghai Zhabei District Shibei Hospital,http://www.shsbyy.com.cn/,www.shsbyy.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shxkyy.com,health,上海市胸科医院,http://www.shxkyy.com/,www.shxkyy.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.shypzx.com,health,上海市杨浦区中心医院,http://www.shypzx.com/,www.shypzx.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sichuancancer.org,health,四川省肿瘤研究所,http://www.sichuancancer.org/,www.sichuancancer.org,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sj-hospital.org,health,中国医科大学附属盛京医院,http://www.sj-hospital.org,www.sj-hospital.org,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sjtqzxyy.com,health,沈阳市苏家屯区中心医院,http://www.sjtqzxyy.com/,www.sjtqzxyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sjzsdyyy.com,health,石家庄市第一医院,http://www.sjzsdyyy.com/,www.sjzsdyyy.com,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sjzxyy.com,health,Songjiang District Central Hospital,http://www.sjzxyy.com/sjzxyysy/yygk/zzjg/303.shtml,www.sjzxyy.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.skrmyy.com,health,深圳蛇口人民医院,https://www.skrmyy.com,www.skrmyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.slchos.com:8070,health,Shengli Oilfield Central Hospital,http://www.slchos.com:8070/,www.slchos.com:8070,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.smh.cc,health,苏州市立医院,http://www.smh.cc/,www.smh.cc,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.smuszh.com,health,南方医科大学深圳医院,http://www.smuszh.com/en,www.smuszh.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sph.com.cn,health,山东省立医院,http://www.sph.com.cn/,www.sph.com.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.spph-sx.com,health,陕西省人民医院,http://www.spph-sx.com/,www.spph-sx.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sptdch.cn,health,普陀区中心医院,http://www.sptdch.cn/,www.sptdch.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.srrsh.com,health,浙江大学医学院附属邵逸夫医院,http://www.srrsh.com/html/main/gb2312/,www.srrsh.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ssm.gov.mo,health,仁伯爵綜合醫院,https://www.ssm.gov.mo/Portal/portal.aspx?lang=pt,www.ssm.gov.mo,unprobed,,,澳门·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sspph.cn,health,陕西省第二人民医院,http://www.sspph.cn/,www.sspph.cn,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.st120.cn,health,Second Affiliated Hospital of Shantou University Medical College,http://www.st120.cn/,www.st120.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.stcmih.com,health,Shanghai Traditional Chinese Medicine Hospital,http://www.stcmih.com/,www.stcmih.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sth.org.hk,health,聖德肋撒醫院,http://www.sth.org.hk,www.sth.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sthospital.com,health,汕头市中心医院,http://www.sthospital.com/,www.sthospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.stpaul.org.hk,health,聖保祿醫院,http://www.stpaul.org.hk/,www.stpaul.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.stuh.com.cn,health,汕头大学医学院第一附属医院,http://www.stuh.com.cn/,www.stuh.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sumcch.com,health,汕头大学医学院附属肿瘤医院,http://www.sumcch.com/,www.sumcch.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.swmctcm.com,health,西南医科大学附属中医医院,http://www.swmctcm.com/index.html,www.swmctcm.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sx120.com.cn,health,三峡中心医院,http://www.sx120.com.cn/,www.sx120.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sx6y.com,health,绍兴市立医院,http://www.sx6y.com/,www.sx6y.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxatcm.com,health,Shaanxi Provincial Hospital of Traditional Chinese Medicine,http://www.sxatcm.com/,www.sxatcm.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxdeyy.cn,health,绍兴市第二医院,http://www.sxdeyy.cn/index.htm,www.sxdeyy.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxdyy.org,health,山西大医院,http://www.sxdyy.org/,www.sxdyy.org,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxfby.com,health,绍兴市妇幼保健院,http://www.sxfby.com/,www.sxfby.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxsrmyy.com,health,陕西省人民医院,http://www.sxsrmyy.com/,www.sxsrmyy.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxsyk.com,health,Shanxi Eye Hospital,http://www.sxsyk.com/html/yingwenban/,www.sxsyk.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxtmzy.com,health,同煤集团总医院,http://www.sxtmzy.com,www.sxtmzy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxws.cn,health,太原市妇幼保健院,http://www.sxws.cn/fuyou/Index.aspx?UnitID=33509,www.sxws.cn,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxws.cn~2,health,晋中市第二人民医院,http://www.sxws.cn/hos/home/SecondaryPW.aspx?UnitID=34937&set=1,www.sxws.cn,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxxxgyy.com,health,山西省心血管医院,http://www.sxxxgyy.com/,www.sxxxgyy.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxzlyy.com,health,山西省肿瘤医院,http://www.sxzlyy.com/,www.sxzlyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sxzyy.com,health,Shanxi Province Hospital of Traditional Chinese Medicine,http://www.sxzyy.com/Default.aspx,www.sxzyy.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sy242yy.com,health,沈阳二四二医院,http://www.sy242yy.com/,www.sy242yy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sy5y.com.cn,health,沈阳市第五人民医院,http://www.sy5y.com.cn/,www.sy5y.com.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sydey.com,health,山西医科大学第二医院,http://www.sydey.com/,www.sydey.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sydyy.net.cn,health,山西医科大学第一医院,http://www.sydyy.net.cn/,www.sydyy.net.cn,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syfybjy.com.cn,health,Sanya City Women and Children Hospital,http://www.syfybjy.com.cn/,www.syfybjy.com.cn,unprobed,,,海南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sygcyy.cn,health,沉阳肛门医院,http://www.sygcyy.cn/,www.sygcyy.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syhos.cn,health,沈阳市第四人民医院,http://www.syhos.cn/,www.syhos.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syjqzyy.com,health,中国人民解放军北部战区总医院,http://www.syjqzyy.com/index.html,www.syjqzyy.com,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syshospital.com,health,中山大學孫逸仙紀念醫院,http://www.syshospital.com/,www.syshospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sysu8h.com.cn,health,中山大学附属第八医院,http://www.sysu8h.com.cn/,www.sysu8h.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syy.org.cn,health,Zhangjiagang First People's Hospital,http://www.syy.org.cn/,www.syy.org.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syyy.cn,health,沈阳市第一人民医院,http://www.syyy.cn,www.syyy.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.syzxyy.cn,health,沈阳医学院附属中心医院,http://www.syzxyy.cn/,www.syzxyy.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szdxfsrhyy.com,health,Ruihua Affiliated Hospital of Soochow University,http://www.szdxfsrhyy.com/,www.szdxfsrhyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szftzy.com,health,廣州中醫藥大學深圳醫院,http://www.szftzy.com,www.szftzy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szgjyy.com,health,Suzhou Guangji Hospital,http://www.szgjyy.com/en/index01.html,www.szgjyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szhospital.com,health,深圳市人民医院,http://www.szhospital.com/,www.szhospital.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szkid.com.cn,health,深圳市儿童医院,http://www.szkid.com.cn/,www.szkid.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szlgzxyy.com,health,Longgang Central Hospital,http://www.szlgzxyy.com/,www.szlgzxyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szlhyy.com.cn,health,深圳罗湖区人民医院,http://www.szlhyy.com.cn/,www.szlhyy.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szmch.net.cn,health,深圳市妇幼保健院,http://www.szmch.net.cn/,www.szmch.net.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sznsyy.net,health,深圳市第六人民医院,http://www.sznsyy.net/,www.sznsyy.net,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szplgk.com,health,深圳平乐骨伤科医院,http://www.szplgk.com/,www.szplgk.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szrch.com,health,深圳市第二人民医院,http://www.szrch.com/,www.szrch.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szsdsrmyy.com,health,深圳市第三人民医院,http://www.szsdsrmyy.com/,www.szsdsrmyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szsjyy.cn,health,Shenzhen Shajing Affiliated Hospital of Guangzhou Medical University,http://www.szsjyy.cn/,www.szsjyy.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szszxyy.com,health,朔州中心医院,http://www.szszxyy.com/,www.szszxyy.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szszyy.cn,health,深圳市中医院,https://www.szszyy.cn/,www.szszyy.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.sztcm.org.cn,health,苏州中医医院,http://www.sztcm.org.cn/,www.sztcm.org.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szuafh.cn,health,深圳大学附属医院,http://www.szuafh.cn/,www.szuafh.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.szwy.cn,health,苏州市第五人民医院,http://www.szwy.cn/,www.szwy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.t-dsyy.com,health,太原市第四人民医院,http://www.t-dsyy.com/,www.t-dsyy.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.taihehospital.com,health,Taihe Hospital,http://www.taihehospital.com/,www.taihehospital.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tedahospital.com.cn,health,天津市泰达医院,http://www.tedahospital.com.cn/,www.tedahospital.com.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tgz.com.cn,health,Tanggangzi hospital,http://www.tgz.com.cn/yygk.asp,www.tgz.com.cn,unprobed,,,辽宁省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tianhehospital.com,health,天津市天和医院,http://www.tianhehospital.com/,www.tianhehospital.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tj-fch.com,health,天津市第一中心医院,http://www.tj-fch.com/en/index.html,www.tj-fch.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tj3zx.cn,health,天津市第三中心医院,http://www.tj3zx.cn/,www.tj3zx.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjchildrenshospital.com,health,天津市儿童医院,http://www.tjchildrenshospital.com/,www.tjchildrenshospital.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjcrbyy.com,health,天津市第二人民医院,http://www.tjcrbyy.com,www.tjcrbyy.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjh.com.cn,health,武汉同济医院,https://www.tjh.com.cn/,www.tjh.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjidh.com,health,天津市第二人民医院,http://www.tjidh.com/,www.tjidh.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjmuch.com,health,天津市肿瘤医院,http://www.tjmuch.com/,www.tjmuch.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjmugh.com.cn,health,天津医科大学总医院,http://www.tjmugh.com.cn/,www.tjmugh.com.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjnkh.com,health,天津市南开医院,http://www.tjnkh.com/,www.tjnkh.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjnothop.cn,health,天津市天津医院,https://www.tjnothop.cn/,www.tjnothop.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjskq.com,health,天津市口腔医院,http://www.tjskq.com,www.tjskq.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjtcm.cn,health,天津市中医药大学第一附属医院,http://www.tjtcm.cn/english/,www.tjtcm.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tjwzx.cn,health,天津市第五中心医院,http://www.tjwzx.cn/,www.tjwzx.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tmu.edu.cn,health,天津市安定医院,http://www.tmu.edu.cn/jswszx/,www.tmu.edu.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tmuec.com,health,天津医科大学眼科医院,http://www.tmuec.com/,www.tmuec.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tnsi.org,health,天津市环湖医院,http://www.tnsi.org/,www.tnsi.org,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tongjihospital.com.cn,health,同济大学附属同济医院,https://www.tongjihospital.com.cn/,www.tongjihospital.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.trhos.com,health,首都医科大学附属北京同仁医院,http://www.trhos.com,www.trhos.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.trhospital.com,health,Tongren Hospital,http://www.trhospital.com/,www.trhospital.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tsey.com.cn,health,Second Hospital of Tangshan,http://www.tsey.com.cn/,www.tsey.com.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tsrmyy.cn,health,Tangshan People's Hospital,http://www.tsrmyy.cn/,www.tsrmyy.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tufh.com.cn,health,北京华信医院,http://www.tufh.com.cn/,www.tufh.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.twah.org.hk,health,香港港安醫院–荃灣,https://www.twah.org.hk,www.twah.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tyszxyy.com,health,太原市中心医院,http://www.tyszxyy.com/,www.tyszxyy.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tzdsyy.com.cn,health,温岭市第四人民医院,http://www.tzdsyy.com.cn/,www.tzdsyy.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tzhospital.com,health,浙江省台州医院,http://www.tzhospital.com/ywb/index.html,www.tzhospital.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tzmh.com,health,Taizhou Municipal Hospital,http://www.tzmh.com/,www.tzmh.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.tzrmyy.cn,health,台州市第一人民医院,http://www.tzrmyy.cn/,www.tzrmyy.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.umc.net.cn,health,天津市人民医院,http://www.umc.net.cn/,www.umc.net.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.union.org,health,仁安醫院,http://www.union.org/new/eindex.php,www.union.org,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.unitedfamilyhospitals.com,health,北京大学国际医院,http://www.unitedfamilyhospitals.com,www.unitedfamilyhospitals.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wahh.com.cn,health,武汉亚洲心脏病医院,http://www.wahh.com.cn/,www.wahh.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wcch.cn,health,成都市妇女儿童中心医院,http://www.wcch.cn/,www.wcch.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wfph.cn,health,潍坊市人民医院,http://www.wfph.cn/,www.wfph.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wfszyy.com,health,Weifang Chinese Medicine Hospital,http://www.wfszyy.com/plus/list.php?tid=88,www.wfszyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wh5yy.com,health,Fifth Hospital In Wuhan,http://www.wh5yy.com/,www.wh5yy.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wh6yy.com,health,Wuhan Sixth Hospital,http://www.wh6yy.com/,www.wh6yy.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.whsyy.net,health,武汉市第三医院,http://www.whsyy.net/,www.whsyy.net,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.whtcm.com,health,武汉市中国中医医院,http://www.whtcm.com/,www.whtcm.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.whzyy.net,health,中国人民解放军中部战区总医院,http://www.whzyy.net/,www.whzyy.net,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wj-hospital.com,health,中国人民解放军总医院第三医学中心,http://www.wj-hospital.com/,www.wj-hospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wjhospital.com.cn,health,中国中医科学院望京医院,http://www.wjhospital.com.cn/,www.wjhospital.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wjjsyy.cn,health,JiangSu Armed Police General Hospital,http://www.wjjsyy.cn/,www.wjjsyy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wjrmyy.com,health,吴江市第一人民医院,http://www.wjrmyy.com/,www.wjrmyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wnszxyy.com,health,渭南市中心医院,http://www.wnszxyy.com/,www.wnszxyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.womanhospital.cn,health,浙江大学医学院附属妇产科医院,http://www.womanhospital.cn/,www.womanhospital.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wqqyy.com,health,Wuqing District People's Hospital,http://www.wqqyy.com/,www.wqqyy.com,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wr120.com,health,金华文荣医院,https://www.wr120.com,www.wr120.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wszrmyy.com,health,People’s Hospital of Wenshan Prefecture,http://www.wszrmyy.com/,www.wszrmyy.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wuxiph.com,health,无锡市人民医院,http://www.wuxiph.com/,www.wuxiph.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wx101.com,health,解放军第101医院,http://www.wx101.com/,www.wx101.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wx3h.com.cn,health,无锡市第三人民医院,http://www.wx3h.com.cn/yygk/,www.wx3h.com.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wzeye.cn,health,温州医科大学附属眼视光医院,http://www.wzeye.cn/eyehospital/,www.wzeye.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wzhealth.com,health,温州医科大学附属第二医院,http://www.wzhealth.com/en/,www.wzhealth.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wzhh120.com,health,梧州市红十字会医院,http://www.wzhh120.com/,www.wzhh120.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.wzsrmyy.com,health,温州市人民医院,http://www.wzsrmyy.com/,www.wzsrmyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xachyy.com,health,西安儿童医院,http://www.xachyy.com/,www.xachyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xadyyy.com,health,First Hospital of Xi'an,http://www.xadyyy.com/en/,www.xadyyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xahhyy.com,health,西安市红会医院,http://www.xahhyy.com/english/about_1671.aspx,www.xahhyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xajwzx.com,health,西安市精神卫生中心,https://www.xajwzx.com/,www.xajwzx.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xfszxyy.cn,health,Xiangyang Central Hospital,http://www.xfszxyy.cn/,www.xfszxyy.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xfszyy.com,health,襄阳中医医院,http://www.xfszyy.com/,www.xfszyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xhph.com,health,Xinhui People's Hospital,http://www.xhph.com/zh-CN/index.html,www.xhph.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xiameneye.org.cn,health,厦门大学附属厦门眼科中心,https://www.xiameneye.org.cn/,www.xiameneye.org.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xiangya.com.cn,health,中南大学湘雅医院,http://www.xiangya.com.cn/web/#,www.xiangya.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xiangya.com.cn~c11,health,中南大学湘雅医院,https://www.xiangya.com.cn/en/,www.xiangya.com.cn,unprobed,,,湖南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xinhuamed.com.cn,health,上海交通大学医学院附属新华医院,http://www.xinhuamed.com.cn/,www.xinhuamed.com.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xixih.net,health,Hangzhou Xixi hospital,http://www.xixih.net/,www.xixih.net,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xjjqzy.com,health,兰州军区乌鲁木齐总医院,http://www.xjjqzy.com/,www.xjjqzy.com,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xjwyyy.com,health,新疆维吾尔自治区维吾尔医医院,http://www.xjwyyy.com/en/,www.xjwyyy.com,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xjzlyy.com,health,Tumor Hospital of Xinjiang Medical University,http://www.xjzlyy.com/,www.xjzlyy.com,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xkyy.com.cn,health,广州市胸科医院,http://www.xkyy.com.cn/,www.xkyy.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xkyy.org,health,Shandong Chest Hospital,http://www.xkyy.org/,www.xkyy.org,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xmfybj.cn,health,厦门妇幼保健院,https://www.xmfybj.cn/,www.xmfybj.cn,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xmkq.com,health,厦门医学院附属口腔医院,https://www.xmkq.com/,www.xmkq.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xmtcm.com,health,厦门市中医院,https://www.xmtcm.com,www.xmtcm.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xmxy.net,health,仙岳医院,https://www.xmxy.net/,www.xmxy.net,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xqhospital.com.cn,health,新桥医院,http://www.xqhospital.com.cn/,www.xqhospital.com.cn,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xsbnzyy.cn,health,西双版纳傣族自治州人民医院,http://www.xsbnzyy.cn/index/home.html,www.xsbnzyy.cn,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xslmed.net,health,Karamay Central Hospital,http://www.xslmed.net/,www.xslmed.net,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xtrmyy.cn,health,邢台市人民医院,http://www.xtrmyy.cn/,www.xtrmyy.cn,unprobed,,,河北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xtsrmyy.com.cn,health,新泰市人民医院,http://www.xtsrmyy.com.cn/,www.xtsrmyy.com.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xwhosp.com.cn,health,首都医科大学宣武医院,https://www.xwhosp.com.cn/,www.xwhosp.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xwzy.com.cn,health,北京市宣武中医医院,http://www.xwzy.com.cn/english.shtml,www.xwzy.com.cn,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xydwfy.com,health,Fifth Affiliated Hospital of XMU,http://www.xydwfy.com/,www.xydwfy.com,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xyeyy.com,health,中南大学湘雅二医院,http://www.xyeyy.com/English/index.aspx,www.xyeyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xyeyy.com~c0,health,中南大学湘雅二医院,http://www.xyeyy.com/index.htm,www.xyeyy.com,unprobed,,,医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xyhospital.com,health,中国中医科学院西苑医院,http://www.xyhospital.com/,www.xyhospital.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xyyfy.com,health,First Affiliated Hospital of Xinxiang Medical University,http://www.xyyfy.com/,www.xyyfy.com,unprobed,,,重庆市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzch.cn,health,Xuzhou Central Hospital,http://www.xzch.cn/,www.xzch.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzetyy.cn,health,徐州市儿童医院,http://www.xzetyy.cn/,www.xzetyy.cn,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzfybjy.com,health,徐州市妇幼保健院,http://www.xzfybjy.com/,www.xzfybjy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzkwjtzyy.com,health,徐州医学院第二附属医院,http://www.xzkwjtzyy.com/index.aspx,www.xzkwjtzyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzsdyyy.com,health,徐州市第一人民医院,http://www.xzsdyyy.com/,www.xzsdyyy.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzzlyy.com,health,Xuzhou Cancer Hospital,http://www.xzzlyy.com/,www.xzzlyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.xzzzqzyy.com,health,西藏自治区藏医院,http://www.xzzzqzyy.com/,www.xzzzqzyy.com,unprobed,,,西藏自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yanbianhospital.com,health,延边大学附属医院,http://www.yanbianhospital.com,www.yanbianhospital.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yanbianhospital.com~2,health,Yanbian University Hospital,http://www.yanbianhospital.com/,www.yanbianhospital.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yanchai.org.hk,health,仁濟醫院,http://www.yanchai.org.hk/,www.yanchai.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ybyy.net,health,粤北人民医院,http://www.ybyy.net/,www.ybyy.net,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yc-hospital.com.cn,health,宜昌市中心人民医院,http://www.yc-hospital.com.cn,www.yc-hospital.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yc1yy.com,health,银川第一人民医院,http://www.yc1yy.com/,www.yc1yy.com,unprobed,,,宁夏回族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yc2e.com,health,宜昌市第二人民医院,http://www.yc2e.com,www.yc2e.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yccdc.cn,health,宜昌市疾病预防控制中心,http://www.yccdc.cn,www.yccdc.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ycfb.cn,health,宜昌市妇幼保健院,http://www.ycfb.cn/,www.ycfb.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ycrh.com,health,三峡大学附属仁和医院,http://www.ycrh.com,www.ycrh.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ycylyy.com,health,宜昌市夷陵医院,http://www.ycylyy.com/,www.ycylyy.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ycyy.com.cn,health,宜昌市第一人民医院,http://www.ycyy.com.cn,www.ycyy.com.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yd2y.com.cn,health,天津医科大学第二医院,http://www.yd2y.com.cn/,www.yd2y.com.cn,unprobed,,,天津市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ydsy.cn,health,哈尔滨医科大学附属第四医院,http://www.ydsy.cn/,www.ydsy.cn,unprobed,,,黑龙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ydyy.cn,health,昆明医科大学第一附属医院,http://www.ydyy.cn/,www.ydyy.cn,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ydyyasyy.com,health,鞍山市铁西医院,http://www.ydyyasyy.com/,www.ydyyasyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yhfh.com,health,杭州市余杭区第一人民医院,http://www.yhfh.com/,www.yhfh.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yhrmyy.cn,health,玉环市人民医院,http://www.yhrmyy.cn/,www.yhrmyy.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yjbys.com,health,新疆维吾尔自治区妇幼保健院,http://www.yjbys.com/company/7462770.html,www.yjbys.com,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yjsyy.com,health,First Affiliated Hospital of Wannan Medical College,http://www.yjsyy.com/,www.yjsyy.com,unprobed,,,安徽省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ykdlfy.com,health,Sixth Affiliated Hospital of XMU,http://www.ykdlfy.com/,www.ykdlfy.com,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ykhospital.com.cn,health,中国中医科学院眼科医院,http://www.ykhospital.com.cn/,www.ykhospital.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ylgk.com,health,玉林市中西医结合骨科医院,http://www.ylgk.com/,www.ylgk.com,unprobed,,,广西壮族自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ylzyyyy.com,health,Yili Friendship Hospital,http://www.ylzyyyy.com/,www.ylzyyyy.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yn-tcm-hospital.com,health,云南省中医医院,http://www.yn-tcm-hospital.com/sitefiles/services/cms/page.aspx?s=1&n=1292,www.yn-tcm-hospital.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ynshhyy.com,health,云南省第二人民医院,http://www.ynshhyy.com/,www.ynshhyy.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ypfph.com,health,云南省第一人民医院,http://www.ypfph.com/,www.ypfph.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yqrmyy.com,health,乐清人民医院,http://www.yqrmyy.com/,www.yqrmyy.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ytcrb.com,health,Yantai Infectious Diseases Hospital,http://www.ytcrb.com/,www.ytcrb.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ytsyy.com,health,Yantaishan Hospital,http://www.ytsyy.com/,www.ytsyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ytyhdyy.com,health,烟台毓璜顶医院,http://www.ytyhdyy.com/,www.ytyhdyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yueyangyy.com,health,上海中医药大学附属岳阳中西医结合医院,http://www.yueyangyy.com/,www.yueyangyy.com,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yuquanhosp.com,health,清华大学玉泉医院,http://www.yuquanhosp.com/,www.yuquanhosp.com,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yxhospital.com,health,玉溪市人民医院,http://www.yxhospital.com/,www.yxhospital.com,unprobed,,,云南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yxph.com,health,Yixing People's Hospital,http://www.yxph.com/,www.yxph.com,unprobed,,,山西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.yz2y.com,health,宁波市鄞州第二医院,http://www.yz2y.com/,www.yz2y.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zbszxyy.com,health,淄博市中心医院,http://www.zbszxyy.com/,www.zbszxyy.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zchospital.com,health,浙江省肿瘤医院,http://www.zchospital.com/#,www.zchospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zdkqyy.com,health,中山大学附属口腔医院,https://www.zdkqyy.com/,www.zdkqyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zdsfy.net,health,郑州大学第三附属医院,http://www.zdsfy.net/,www.zdsfy.net,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zgno1hos.com.cn,health,自贡市第一人民医院,http://www.zgno1hos.com.cn/,www.zgno1hos.com.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zgwhfe.com,health,武汉市儿童医院|武汉市妇幼保健院,http://www.zgwhfe.com/,www.zgwhfe.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zhengxing.com.cn,health,Plastic Surgery Hospital,http://www.zhengxing.com.cn/ArticleListEn.aspx?ClassID=206,www.zhengxing.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zhhospital.cn,health,珠海市人民医院,http://www.zhhospital.cn/,www.zhhospital.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zhmedcenter.com,health,镇海区人民医院,http://www.zhmedcenter.com/,www.zhmedcenter.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zhongyihospital.com,health,临沂市中医医院,http://www.zhongyihospital.com/,www.zhongyihospital.com,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zj4y.net,health,镇江市第四人民医院,http://www.zj4y.net/,www.zj4y.net,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjhospital.com,health,湛江中心人民医院,http://www.zjhospital.com/,www.zjhospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjhospital.com.cn,health,浙江医院,https://www.zjhospital.com.cn/,www.zjhospital.com.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjkq.com.cn,health,浙江大学医学院附属口腔医院,https://www.zjkq.com.cn/,www.zjkq.com.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjtongde.com,health,浙江省第二中医院,http://www.zjtongde.com/cms/englishdefault.aspx,www.zjtongde.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zju4h.com,health,浙江大学医学院附属第四医院,http://www.zju4h.com/,www.zju4h.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjuch.cn,health,浙江大学医学院附属儿童医院,http://www.zjuch.cn/,www.zjuch.cn,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjxsh.com,health,浙江萧山医院,http://www.zjxsh.com/,www.zjxsh.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjyy.com.cn,health,珠江医院,http://www.zjyy.com.cn/en/,www.zjyy.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zjztyy.com,health,浙江中医药大学附属第三医院,http://www.zjztyy.com/,www.zjztyy.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zmchospital.com.cn,health,遵义医学院附属医院,http://www.zmchospital.com.cn/,www.zmchospital.com.cn,unprobed,,,贵州省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zmdszxyy.cn,health,Zhumadian Central Hospital,http://www.zmdszxyy.cn/,www.zmdszxyy.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.znhospital.cn,health,武汉大学中南医院,http://www.znhospital.cn/,www.znhospital.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zphospital.com,health,Zhoupu Hospital,https://www.zphospital.com/,www.zphospital.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zqrmyy.net,health,Zhangqiu City People's Hospital,http://www.zqrmyy.net/,www.zqrmyy.net,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zqts.com,health,肇庆市第一人民医院,http://www.zqts.com,www.zqts.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zryhyy.com.cn,health,中日友好医院,https://www.zryhyy.com.cn/,www.zryhyy.com.cn,unprobed,,,北京市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zs-hospital.com,health,Zhoushan Hospital,http://www.zs-hospital.com/,www.zs-hospital.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zs-hospital.sh.cn,health,复旦大学附属中山医院,http://www.zs-hospital.sh.cn,www.zs-hospital.sh.cn,unprobed,,,上海市·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zs6y.com,health,中山大学附属第六医院,http://www.zs6y.com/,www.zs6y.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zsboai.com,health,中山市博爱医院,http://www.zsboai.com/,www.zsboai.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zsmw.net,health,Shenzhen Zhongshan Urological Hospital,http://www.zsmw.net/cn/index.aspx,www.zsmw.net,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zsph.com,health,中山市人民医院,http://www.zsph.com/,www.zsph.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zssph.com,health,中山市第二人民医院,http://www.zssph.com/list1_1_2.html,www.zssph.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zssy.com.cn,health,中山大学附属第三医院,http://www.zssy.com.cn/,www.zssy.com.cn,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zsufivehos.com,health,中山大學附屬第五醫院,http://www.zsufivehos.com,www.zsufivehos.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zsxmhospital.com,health,复旦大学附属中山医院（厦门）,http://www.zsxmhospital.com/,www.zsxmhospital.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.ztzy.com,health,郑州大学第五附属医院,http://www.ztzy.com/,www.ztzy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zunyihospital.com,health,First People’s Hospital of Zunyi,http://www.zunyihospital.com/,www.zunyihospital.com,unprobed,,,贵州省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zxhospital.com,health,武汉市中心医院,http://www.zxhospital.com,www.zxhospital.com,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zxxyyy.cn,health,中信湘雅生殖与遗传专科医院有限公司,http://www.zxxyyy.cn/,www.zxxyyy.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zxyy.cn,health,济南中心医院,http://www.zxyy.cn/,www.zxyy.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zxyy999.com,health,Panzhihua Central Hospital,http://www.zxyy999.com/,www.zxyy999.com,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zy91.com,health,浙江大学医学院附属第一医院,http://www.zy91.com/,www.zy91.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zybfzy.com,health,Shenzhen Occupational Disease Prevention Hospital,http://www.zybfzy.com/about/index_13.html,www.zybfzy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zydey.com.cn,health,山东中医药大学第二附属医院,http://www.zydey.com.cn/,www.zydey.com.cn,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzemss.com,health,郑州市紧急医疗救援中心,https://www.zzemss.com/,www.zzemss.com,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzfh.com,health,福建省漳州市医院,http://www.zzfh.com/,www.zzfh.com,unprobed,,,福建省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzrmyy.com,health,郑州人民医院,http://www.zzrmyy.com/,www.zzrmyy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzsetyy.cn,health,河南省儿童医院,http://www.zzsetyy.cn/,www.zzsetyy.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzszxyy.cn,health,株洲市中心医院,http://www.zzszxyy.cn/,www.zzszxyy.cn,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzszxyy.com,health,郑州市中心医院,http://www.zzszxyy.com/,www.zzszxyy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzszyy.com,health,郑州市中医院,http://www.zzszyy.com/,www.zzszyy.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www.zzusah.com,health,郑州大学第二附属医院,http://www.zzusah.com/,www.zzusah.com,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www1.xjmu.edu.cn,health,新疆医科大学第一附属医院,http://www1.xjmu.edu.cn/gjjyxyen/detail_page_ind.asp?articleid=683,www1.xjmu.edu.cn,unprobed,,,新疆维吾尔自治区·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk,health,天水圍醫院,http://www3.ha.org.hk/tswh/en/,www3.ha.org.hk,unprobed,,,None·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~10,health,香港眼科醫院,https://www3.ha.org.hk/hkeh/eng/main/index.htm,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~2,health,伊利沙伯醫院,http://www3.ha.org.hk/qeh/,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~3,health,基督教聯合醫院,http://www3.ha.org.hk/uch/internet/,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~4,health,大口環根德公爵夫人兒童醫院,http://www3.ha.org.hk/dkch/,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~5,health,屯門醫院,https://www3.ha.org.hk/tmh,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~6,health,東華醫院,https://www3.ha.org.hk/twh/,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~7,health,沙田醫院,https://www3.ha.org.hk/sh/index.asp,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~8,health,雅麗氏何妙齡那打素醫院,https://www3.ha.org.hk/ahnh/index_e.asp,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:www3.ha.org.hk~9,health,青山醫院,http://www3.ha.org.hk/cph/en/,www3.ha.org.hk,unprobed,,,香港·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:wwwold.hospitalstar.com,health,浙江省人民医院,http://wwwold.hospitalstar.com/,wwwold.hospitalstar.com,unprobed,,,浙江省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:xaszxyy.com,health,西安市中心医院,http://xaszxyy.com/,xaszxyy.com,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:xjwww.fmmu.edu.cn,health,西京医院,http://xjwww.fmmu.edu.cn/,xjwww.fmmu.edu.cn,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:yanjihospital.com,health,延吉市医院,http://yanjihospital.com,yanjihospital.com,unprobed,,,吉林省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:yb120.cn,health,Second People’s Hospital of Yibin,http://yb120.cn/,yb120.cn,unprobed,,,四川省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:yfy.haust.edu.cn,health,First Affiliated Hospital of Henan University of Science and Technology,http://yfy.haust.edu.cn/,yfy.haust.edu.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:ynswsjkw.yn.gov.cn,health,中国人民解放军联勤保障部队第九二〇医院,http://ynswsjkw.yn.gov.cn/,ynswsjkw.yn.gov.cn,unprobed,,,云南省·医院名录入口,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:yy.69jk.cn,health,中国人民解放军空军第九八六医院,http://yy.69jk.cn/hospital/01hv5.html,yy.69jk.cn,unprobed,,,陕西省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:yyy.hbxc.cn,health,孝昌县第一人民医院,http://yyy.hbxc.cn/xcyy/Index.asp,yyy.hbxc.cn,unprobed,,,湖北省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:yzsbh.com,health,江苏省苏北人民医院,https://yzsbh.com/,yzsbh.com,unprobed,,,江苏省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:zhsdsrmyy.com,health,珠海市第三人民医院,https://zhsdsrmyy.com/,zhsdsrmyy.com,unprobed,,,广东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:zzyq.lyzhenggu.cn,health,河南省洛阳正骨医院 版权所有,http://zzyq.lyzhenggu.cn/english/html/77_233.shtml,zzyq.lyzhenggu.cn,unprobed,,,河南省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
+health:临沂经济技术开发区人民医院.公益,health,临沂市第三人民医院,http://临沂经济技术开发区人民医院.公益/,临沂经济技术开发区人民医院.公益,unprobed,,,山东省·医院官网,枚举:Wikidata SPARQL(中国医院P31/P17+P856官网) 2026-10
