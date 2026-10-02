@@ -1,458 +1,458 @@
 id,tier,name,url,host,status,http_code,probe_date,note,ref
-intl:adelaide.edu.au,intl,阿德莱德大学（University of Adelaide）,https://www.adelaide.edu.au/,adelaide.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:aei.org,intl,美国企业公共政策研究所（AEI）,https://www.aei.org/,aei.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:afec-asso.fr,intl,法国汉学协会（AFEC）,https://www.afec-asso.fr/,afec-asso.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:aichi-u.ac.jp,intl,爱知大学（Aichi University）,https://www.aichi-u.ac.jp/,aichi-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:aiia.asn.au,intl,澳大利亚国际事务研究院（AIIA）,https://www.aiia.asn.au/,aiia.asn.au,unprobed,,,澳大利亚·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:aks.ac.kr,intl,韩国学中央研究院（Academy of Korean Studies）,https://www.aks.ac.kr/,aks.ac.kr,unprobed,,,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:americanorientalsociety.org,intl,美国东方学会（American Oriental Society）,https://www.americanorientalsociety.org/,americanorientalsociety.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ankara.edu.tr,intl,安卡拉大学（Ankara University）,https://www.ankara.edu.tr/,ankara.edu.tr,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:anu.edu.au,intl,"澳大利亚国立大学中华全球研究中心（Australian Centre on China in the World, CIW）",https://ciw.anu.edu.au/,anu.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:anu.edu.au~2,intl,澳大利亚国立大学科拉尔贝尔亚太事务学院（Coral Bell School）,https://bell-school.anu.edu.au/,anu.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:anu.edu.au~3,intl,澳大利亚国立大学（ANU）,https://www.anu.edu.au/,anu.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:aoyama.ac.jp,intl,青山学院大学（Aoyama Gakuin University）,https://www.aoyama.ac.jp/,aoyama.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:archive.org,intl,互联网档案馆（Internet Archive）,https://archive.org/,archive.org,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:archives.go.kr,intl,韩国国家记录院（National Archives of Korea）,https://www.archives.go.kr/,archives.go.kr,unprobed,,,韩国·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:archives.gov.tw,intl,国家发展委员会档案管理局（National Archives Administration）,https://www.archives.gov.tw/,archives.gov.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:arizona.edu,intl,亚利桑那大学东亚研究系（East Asian Studies）,https://eastasianstudies.arizona.edu/,arizona.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:asaa.asn.au,intl,澳大利亚亚洲研究协会（ASAA）,https://asaa.asn.au/,asaa.asn.au,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:asia-u.ac.jp,intl,亚细亚大学（Asia University）,https://www.asia-u.ac.jp/,asia-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:asianart.org,intl,旧金山亚洲艺术博物馆（Asian Art Museum）,https://asianart.org/,asianart.org,unprobed,,,美国·亚洲艺术/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:asianstudies.org,intl,亚洲研究协会（Association for Asian Studies）,https://www.asianstudies.org/,asianstudies.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:asianz.org.nz,intl,新西兰亚洲基金会（Asia New Zealand Foundation）,https://www.asianz.org.nz/,asianz.org.nz,unprobed,,,新西兰·机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:asiasociety.org,intl,亚洲协会（Asia Society）,https://asiasociety.org/,asiasociety.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ateneo.edu,intl,雅典耀马尼拉大学（Ateneo de Manila University）,https://www.ateneo.edu/,ateneo.edu,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:au.dk,intl,奥胡斯大学（Aarhus University）,https://www.au.dk/,au.dk,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:auckland.ac.nz,intl,奥克兰大学（University of Auckland）,https://www.auckland.ac.nz/,auckland.ac.nz,unprobed,,,新西兰·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:berkeley.edu,intl,加州大学伯克利分校中国研究中心（Center for Chinese Studies）,https://ieas.berkeley.edu/ccs,berkeley.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:berkeley.edu~2,intl,加州大学伯克利分校东亚研究所（Institute of East Asian Studies）,https://ieas.berkeley.edu/,berkeley.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:berkeley.edu~3,intl,加州大学伯克利分校斯塔尔东亚图书馆（C.V. Starr East Asian Library）,https://www.lib.berkeley.edu/collections/east-asian,berkeley.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bg.ac.rs,intl,贝尔格莱德大学（University of Belgrade）,https://www.bg.ac.rs/,bg.ac.rs,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:birmingham.ac.uk,intl,"伯明翰大学中国研究（Chinese Studies, Birmingham）",https://www.birmingham.ac.uk/,birmingham.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bl.uk,intl,大英图书馆中文馆藏（British Library Chinese Collections）,https://www.bl.uk/collection-guides/chinese-collections,bl.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bl.uk~2,intl,大英图书馆濒危档案项目（Endangered Archives Programme）,https://eap.bl.uk/,bl.uk,unprobed,,,英国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bnf.fr,intl,法国国家图书馆中文馆藏（BnF）,https://www.bnf.fr/,bnf.fr,unprobed,,,法国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bogazici.edu.tr,intl,博斯普鲁斯大学（Boğaziçi University）,https://bogazici.edu.tr/,bogazici.edu.tr,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:brandeis.edu,intl,布兰迪斯大学东亚研究项目（East Asian Studies）,https://www.brandeis.edu/east-asian-studies/,brandeis.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:brill.com,intl,博睿学术出版社（Brill）,https://brill.com/,brill.com,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:britishmuseum.org,intl,"大英博物馆中国馆藏（British Museum, China）",https://www.britishmuseum.org/collection/galleries/china,britishmuseum.org,unprobed,,,英国·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:brookings.edu,intl,布鲁金斯学会约翰·桑顿中国中心（John L. Thornton China Center）,https://www.brookings.edu/center/john-l-thornton-china-center/,brookings.edu,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:brown.edu,intl,布朗大学东亚研究系（East Asian Studies）,https://eastasianstudies.brown.edu/,brown.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bsb-muenchen.de,intl,巴伐利亚州立图书馆东亚馆藏（BSB）,https://www.bsb-muenchen.de/,bsb-muenchen.de,unprobed,,,德国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bu.edu,intl,波士顿大学亚洲研究中心（Center for the Study of Asia）,https://www.bu.edu/asia/,bu.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:bulac.fr,intl,巴黎东方语言与文明图书馆（BULAC）,https://www.bulac.fr/,bulac.fr,unprobed,,,法国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:caluniv.ac.in,intl,加尔各答大学（University of Calcutta）,https://www.caluniv.ac.in/,caluniv.ac.in,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cam.ac.uk,intl,"剑桥大学亚洲与中东研究学院（FAMES, Cambridge）",https://www.ames.cam.ac.uk/,cam.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cam.ac.uk~2,intl,剑桥大学图书馆中文部（Cambridge University Library Chinese）,https://www.lib.cam.ac.uk/collections/departments/chinese,cam.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cam.ac.uk~3,intl,李约瑟研究所（Needham Research Institute）,https://www.nri.cam.ac.uk/,cam.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cambridge.org,intl,《中国季刊》（The China Quarterly）,https://www.cambridge.org/core/journals/china-quarterly,cambridge.org,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:carleton.ca,intl,卡尔顿大学（Carleton University）,https://carleton.ca/,carleton.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:carnegieendowment.org,intl,卡内基国际和平研究院（Carnegie Endowment）,https://carnegieendowment.org/,carnegieendowment.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cas.cz,intl,捷克科学院东方研究所（Oriental Institute CAS）,https://orient.cas.cz/,cas.cz,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:casaasia.es,intl,西班牙亚洲之家（Casa Asia）,https://www.casaasia.es/,casaasia.es,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cau.ac.kr,intl,中央大学（韩国，Chung-Ang University）,https://www.cau.ac.kr/,cau.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cckf.org,intl,蒋经国国际学术交流基金会（Chiang Ching-kuo Foundation）,https://www.cckf.org/,cckf.org,unprobed,,,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cdlib.org,intl,加州在线档案馆（Online Archive of California）,https://oac.cdlib.org/,cdlib.org,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cfr.org,intl,外交关系委员会（Council on Foreign Relations）,https://www.cfr.org/,cfr.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chathamhouse.org,intl,查塔姆研究所亚太项目（Chatham House Asia-Pacific）,https://www.chathamhouse.org/about-us/our-departments/asia-pacific-programme,chathamhouse.org,unprobed,,,英国·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chinadialogue.net,intl,中外对话（China Dialogue）,https://chinadialogue.net/,chinadialogue.net,unprobed,,,英国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chinadigitaltimes.net,intl,中国数字时代（China Digital Times）,https://chinadigitaltimes.net/,chinadigitaltimes.net,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chinafile.com,intl,中参馆（ChinaFile）,https://www.chinafile.com/,chinafile.com,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chinavitae.com,intl,China Vitae 中国人物数据库,https://www.chinavitae.com/,chinavitae.com,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chinesestudies.eu,intl,欧洲汉学学会（European Association for Chinese Studies）,https://chinesestudies.eu/,chinesestudies.eu,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chineseupress.com,intl,香港中文大学出版社（Chinese University Press）,https://www.chineseupress.com/,chineseupress.com,unprobed,,,香港·出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chula.ac.th,intl,朱拉隆功大学（Chulalongkorn University）,https://www.chula.ac.th/,chula.ac.th,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:chuo-u.ac.jp,intl,中央大学（Chuo University）,https://www.chuo-u.ac.jp/,chuo-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cityu.edu.hk,intl,香港城市大学（City University of Hong Kong）,https://www.cityu.edu.hk/,cityu.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cityu.edu.mo,intl,澳门城市大学（City University of Macau）,https://www.cityu.edu.mo/,cityu.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:clta-us.org,intl,美国中文教师学会（CLTA）,https://clta-us.org/,clta-us.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cmu.ac.th,intl,清迈大学（Chiang Mai University）,https://www.cmu.ac.th/,cmu.ac.th,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cnrs.fr,intl,法国国家科研中心（CNRS）,https://www.cnrs.fr/,cnrs.fr,unprobed,,,法国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:college-de-france.fr,intl,法兰西学院汉学研究所（Institut des Hautes Études Chinoises）,https://www.college-de-france.fr/,college-de-france.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:colmex.mx,intl,墨西哥学院（El Colegio de México）,https://www.colmex.mx/,colmex.mx,unprobed,,,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:colorado.edu,intl,科罗拉多大学亚洲研究中心（Center for Asian Studies）,https://www.colorado.edu/center/asianstudies/,colorado.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:columbia.edu,intl,哥伦比亚大学魏德海东亚研究所（Weatherhead East Asian Institute）,https://weai.columbia.edu/,columbia.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:columbia.edu~2,intl,哥伦比亚大学东亚语言与文化系（EALAC）,https://ealac.columbia.edu/,columbia.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:columbia.edu~3,intl,哥伦比亚大学斯塔尔东亚图书馆（C.V. Starr East Asian Library）,https://library.columbia.edu/libraries/eastasian.html,columbia.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cornell.edu,intl,康奈尔大学东亚项目（East Asia Program）,https://eap.cornell.edu/,cornell.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cornell.edu~2,intl,康奈尔大学克罗克亚洲特藏（Kroch Asia Collections）,https://asia.library.cornell.edu/,cornell.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:crossasia.org,intl,柏林国家图书馆东亚部/CrossAsia（Staatsbibliothek zu Berlin）,https://crossasia.org/,crossasia.org,unprobed,,,德国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:csis.org,intl,战略与国际研究中心中国力量项目（CSIS China Power）,https://chinapower.csis.org/,csis.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ctext.org,intl,中国哲学书电子化计划（Chinese Text Project）,https://ctext.org/,ctext.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cu.edu.eg,intl,开罗大学（Cairo University）,https://cu.edu.eg/,cu.edu.eg,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuhk.edu.hk,intl,香港中文大学（CUHK）,https://www.cuhk.edu.hk/,cuhk.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuhk.edu.hk~2,intl,香港中文大学中国文化研究所（Institute of Chinese Studies）,https://www.ics.cuhk.edu.hk/,cuhk.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuhk.edu.hk~3,intl,"香港中文大学中国研究服务中心（Universities Service Centre, USC）",https://www.usc.cuhk.edu.hk/,cuhk.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuhk.edu.hk~4,intl,香港中文大学翻译研究中心（Research Centre for Translation）,https://www.cuhk.edu.hk/rct/,cuhk.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuhk.edu.hk~5,intl,香港中文大学亚太研究所（Hong Kong Institute of Asia-Pacific Studies）,https://www.hkiaps.cuhk.edu.hk/,cuhk.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuhk.edu.hk~6,intl,香港中文大学图书馆（CUHK Library）,https://www.lib.cuhk.edu.hk/,cuhk.edu.hk,unprobed,,,香港·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:cuni.cz,intl,布拉格查理大学（Charles University）,https://cuni.cz/,cuni.cz,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:daito.ac.jp,intl,大东文化大学（Daito Bunka University）,https://www.daito.ac.jp/,daito.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:deutsche-chinagesellschaft.de,intl,德国汉学协会（DVCS）,https://www.deutsche-chinagesellschaft.de/,deutsche-chinagesellschaft.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:digitalarchives.tw,intl,中研院数位典藏（Academia Sinica Digital Archives）,https://digitalarchives.tw/,digitalarchives.tw,unprobed,,,台湾·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:dlsu.edu.ph,intl,德拉萨大学（De La Salle University）,https://www.dlsu.edu.ph/,dlsu.edu.ph,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:doshisha.ac.jp,intl,同志社大学（Doshisha University）,https://www.doshisha.ac.jp/,doshisha.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:drnh.gov.tw,intl,国史馆（Academia Historica）,https://www.drnh.gov.tw/,drnh.gov.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:du.ac.in,intl,德里大学（University of Delhi）,https://www.du.ac.in/,du.ac.in,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:duke.edu,intl,杜克大学亚洲/太平洋研究所（APSI）,https://apsi.duke.edu/,duke.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:durham.ac.uk,intl,"杜伦大学中国研究（Chinese Studies, Durham）",https://www.durham.ac.uk/,durham.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:eastlib.org,intl,东亚图书馆理事会（Council on East Asian Libraries）,https://www.eastlib.org/,eastlib.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:eastwestcenter.org,intl,东西方中心（East-West Center）,https://www.eastwestcenter.org/,eastwestcenter.org,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ed.ac.uk,intl,"爱丁堡大学亚洲研究系（Asian Studies, Edinburgh）",https://www.ed.ac.uk/asian-studies,ed.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:eduhk.hk,intl,香港教育大学（EdUHK）,https://www.eduhk.hk/,eduhk.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:efeo.fr,intl,法国远东学院（EFEO）,https://www.efeo.fr/,efeo.fr,unprobed,,,法国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:elte.hu,intl,"罗兰大学（ELTE, Budapest）",https://www.elte.hu/,elte.hu,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:emory.edu,intl,埃默里大学东亚研究项目（East Asian Studies）,https://asianstudies.emory.edu/,emory.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ens-lyon.fr,intl,里昂高等师范学院东亚研究（ENS Lyon）,https://www.ens-lyon.fr/,ens-lyon.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:europeana.eu,intl,Europeana 欧洲数字文化遗产,https://www.europeana.eu/,europeana.eu,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ewha.ac.kr,intl,梨花女子大学（Ewha Womans University）,https://www.ewha.ac.kr/,ewha.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:fcu.edu.tw,intl,逢甲大学（Feng Chia University）,https://www.fcu.edu.tw/,fcu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:fju.edu.tw,intl,辅仁大学（Fu Jen Catholic University）,https://www.fju.edu.tw/,fju.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:fmac.org.mo,intl,澳门基金会（Macao Foundation）,https://www.fmac.org.mo/,fmac.org.mo,unprobed,,,澳门·机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:fu-berlin.de,intl,"柏林自由大学汉学研究所（Institute of Chinese Studies, FU Berlin）",https://www.geschkult.fu-berlin.de/en/e/sinologie/,fu-berlin.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:gbcc.org.uk,intl,英中协会（Great Britain-China Centre）,https://www.gbcc.org.uk/,gbcc.org.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:genron-npo.net,intl,言论NPO（Genron NPO）,https://www.genron-npo.net/,genron-npo.net,unprobed,,,日本·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:georgetown.edu,intl,乔治城大学亚洲研究项目（Asian Studies Program）,https://asianstudies.georgetown.edu/,georgetown.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:getty.edu,intl,盖蒂研究所（Getty Research Institute）,https://www.getty.edu/research/,getty.edu,unprobed,,,美国·研究机构/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:giga-hamburg.de,intl,德国全球与区域研究所亚洲研究所（GIGA Institute of Asian Studies）,https://www.giga-hamburg.de/en/institute-of-asian-studies,giga-hamburg.de,unprobed,,,德国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:gla.ac.uk,intl,"格拉斯哥大学中国研究（Chinese Studies, Glasgow）",https://www.gla.ac.uk/,gla.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:griffith.edu.au,intl,格里菲斯大学（Griffith University）,https://www.griffith.edu.au/,griffith.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:grips.ac.jp,intl,政策研究大学院大学（GRIPS）,https://www.grips.ac.jp/,grips.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:guimet.fr,intl,吉美国立亚洲艺术博物馆（Musée Guimet）,https://www.guimet.fr/,guimet.fr,unprobed,,,法国·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:gwu.edu,intl,乔治·华盛顿大学西格尔亚洲研究中心（Sigur Center for Asian Studies）,https://elliott.gwu.edu/sigur-center,gwu.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hanyang.ac.kr,intl,汉阳大学（Hanyang University）,https://www.hanyang.ac.kr/,hanyang.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard-yenching.org,intl,哈佛燕京学社（Harvard-Yenching Institute）,https://www.harvard-yenching.org/,harvard-yenching.org,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu,intl,"费正清中国研究中心（Fairbank Center for Chinese Studies, Harvard）",https://fairbank.fas.harvard.edu/,harvard.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu~2,intl,"哈佛大学东亚语言与文明系（EALC, Harvard）",https://ealc.fas.harvard.edu/,harvard.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu~3,intl,哈佛大学亚洲中心（Harvard Asia Center）,https://asiacenter.harvard.edu/,harvard.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu~4,intl,哈佛大学赖肖尔日本研究所（Reischauer Institute）,https://rijs.fas.harvard.edu/,harvard.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu~5,intl,哈佛燕京图书馆（Harvard-Yenching Library）,https://library.harvard.edu/libraries/harvard-yenching,harvard.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu~6,intl,"中国研究图书数据库（China Biographical Database, CBDB）",https://projects.iq.harvard.edu/cbdb,harvard.edu,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:harvard.edu~7,intl,中国历史地理信息系统（CHGIS）,https://chgis.fas.harvard.edu/,harvard.edu,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hathitrust.org,intl,HathiTrust 数字图书馆,https://www.hathitrust.org/,hathitrust.org,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hawaii.edu,intl,夏威夷大学中国研究中心（Center for Chinese Studies）,https://www.chinesestudies.hawaii.edu/,hawaii.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:helsinki.fi,intl,赫尔辛基大学（University of Helsinki）,https://www.helsinki.fi/,helsinki.fi,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:heritage.org,intl,传统基金会（Heritage Foundation）,https://www.heritage.org/,heritage.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:heritagemuseum.gov.hk,intl,香港文化博物馆（Hong Kong Heritage Museum）,https://www.heritagemuseum.gov.hk/,heritagemuseum.gov.hk,unprobed,,,香港·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hiroshima-u.ac.jp,intl,广岛大学（Hiroshima University）,https://www.hiroshima-u.ac.jp/,hiroshima-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:history.go.kr,intl,韩国史数据库（Korean History Database）,https://db.history.go.kr/,history.go.kr,unprobed,,,韩国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:history.museum,intl,香港历史博物馆（Hong Kong Museum of History）,https://hk.history.museum/,history.museum,unprobed,,,香港·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hit-u.ac.jp,intl,一桥大学（Hitotsubashi University）,https://www.hit-u.ac.jp/,hit-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hkbu.edu.hk,intl,香港浸会大学（HKBU）,https://www.hkbu.edu.hk/,hkbu.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hkbu.edu.hk~2,intl,香港浸会大学林思齐东西学术交流研究所（LEWI）,https://lewi.hkbu.edu.hk/,hkbu.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hkmemory.hk,intl,香港记忆（Hong Kong Memory）,https://www.hkmemory.hk/,hkmemory.hk,unprobed,,,香港·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hkmu.edu.hk,intl,香港都会大学（Hong Kong Metropolitan University）,https://www.hkmu.edu.hk/,hkmu.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hkpl.gov.hk,intl,香港公共图书馆（Hong Kong Public Libraries）,https://www.hkpl.gov.hk/,hkpl.gov.hk,unprobed,,,香港·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hku.hk,intl,香港大学（University of Hong Kong）,https://www.hku.hk/,hku.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hku.hk~2,intl,"香港大学中文学院（School of Chinese, HKU）",https://www.chinese.hku.hk/,hku.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hku.hk~3,intl,香港大学香港人文社会研究所（HKIHSS）,https://www.hkihss.hku.hk/,hku.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hku.hk~4,intl,香港大学图书馆（HKU Libraries）,https://lib.hku.hk/,hku.hk,unprobed,,,香港·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hkust.edu.hk,intl,"香港科技大学人文学部（Division of Humanities, HKUST）",https://shss.hkust.edu.hk/,hkust.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hokudai.ac.jp,intl,北海道大学（Hokkaido University）,https://www.hokudai.ac.jp/,hokudai.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hpcbristol.net,intl,中国历史照片（Historical Photographs of China）,https://www.hpcbristol.net/,hpcbristol.net,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hse.ru,intl,俄罗斯高等经济学院（HSE University）,https://www.hse.ru/,hse.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:hu-berlin.de,intl,柏林洪堡大学亚非研究（HU Berlin）,https://www.hu-berlin.de/,hu-berlin.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:huji.ac.il,intl,耶路撒冷希伯来大学（Hebrew University of Jerusalem）,https://new.huji.ac.il/,huji.ac.il,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:iacl.net,intl,国际中国语言学学会（IACL）,https://iacl.net/,iacl.net,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:icas.asia,intl,亚洲研究国际联合会（ICAS）,https://www.icas.asia/,icas.asia,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:iccaras.ru,intl,俄罗斯科学院中国与当代亚洲研究所（IKSA RAS）,https://www.iccaras.ru/,iccaras.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:icm.gov.mo,intl,澳门文化局（Cultural Affairs Bureau of Macao）,https://www.icm.gov.mo/,icm.gov.mo,unprobed,,,澳门·文化机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:icsin.org,intl,"中国研究所（Institute of Chinese Studies, Delhi）",https://www.icsin.org/,icsin.org,unprobed,,,印度·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ide.go.jp,intl,亚洲经济研究所（IDE-JETRO）,https://www.ide.go.jp/,ide.go.jp,unprobed,,,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ifes-ras.ru,intl,俄罗斯科学院远东研究所（IFES RAS）,https://www.ifes-ras.ru/,ifes-ras.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:iias.asia,intl,国际亚洲研究所（IIAS）,https://www.iias.asia/,iias.asia,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:illinois.edu,intl,伊利诺伊大学东亚与太平洋研究中心（CEAPS）,https://ceaps.illinois.edu/,illinois.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:inalco.fr,intl,法国东方语言文化学院（INALCO）,https://www.inalco.fr/,inalco.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:indiana.edu,intl,印第安纳大学东亚研究中心（East Asian Studies Center）,https://easc.indiana.edu/,indiana.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:iseas.edu.sg,intl,尤索夫伊萨东南亚研究院（ISEAS-Yusof Ishak Institute）,https://www.iseas.edu.sg/,iseas.edu.sg,unprobed,,,新加坡·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ismeo.eu,intl,意大利非洲与东方研究所（ISMEO）,https://www.ismeo.eu/,ismeo.eu,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ivran.ru,intl,俄罗斯科学院东方学研究所（Institute of Oriental Studies RAS）,https://www.ivran.ru/,ivran.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:jaas.or.jp,intl,日本亚洲政经学会（JAAS）,https://www.jaas.or.jp/,jaas.or.jp,unprobed,,,日本·学会,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:jamestown.org,intl,詹姆斯敦基金会（Jamestown Foundation）,https://jamestown.org/,jamestown.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:jetro.go.jp,intl,日本贸易振兴机构（JETRO）,https://www.jetro.go.jp/,jetro.go.jp,unprobed,,,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:jhu.edu,intl,约翰霍普金斯大学东亚研究项目（East Asian Studies）,https://easia.jhu.edu/,jhu.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:jiia.or.jp,intl,日本国际问题研究所（JIIA）,https://www.jiia.or.jp/,jiia.or.jp,unprobed,,,日本·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:jnu.ac.in,intl,尼赫鲁大学（Jawaharlal Nehru University）,https://www.jnu.ac.in/,jnu.ac.in,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kanagawa-u.ac.jp,intl,神奈川大学（Kanagawa University）,https://www.kanagawa-u.ac.jp/,kanagawa-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kansai-u.ac.jp,intl,关西大学（Kansai University）,https://www.kansai-u.ac.jp/,kansai-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kb.nl,intl,荷兰皇家图书馆（KB）,https://www.kb.nl/,kb.nl,unprobed,,,荷兰·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kcl.ac.uk,intl,"伦敦国王学院刘氏中国研究院（Lau China Institute, KCL）",https://www.kcl.ac.uk/lau-china-institute,kcl.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kdi.re.kr,intl,韩国开发研究院（KDI）,https://www.kdi.re.kr/,kdi.re.kr,unprobed,,,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:keio.ac.jp,intl,庆应义塾大学（Keio University）,https://www.keio.ac.jp/,keio.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kf.or.kr,intl,韩国国际交流财团（Korea Foundation）,https://www.kf.or.kr/,kf.or.kr,unprobed,,,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:khu.ac.kr,intl,庆熙大学（Kyung Hee University）,https://www.khu.ac.kr/,khu.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kinu.or.kr,intl,韩国统一研究院（KINU）,https://www.kinu.or.kr/,kinu.or.kr,unprobed,,,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kitlv.nl,intl,荷兰皇家东南亚与加勒比研究院（KITLV）,https://www.kitlv.nl/,kitlv.nl,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kobe-u.ac.jp,intl,神户大学（Kobe University）,https://www.kobe-u.ac.jp/,kobe-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kokugakuin.ac.jp,intl,国学院大学（Kokugakuin University）,https://www.kokugakuin.ac.jp/,kokugakuin.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:komazawa-u.ac.jp,intl,驹泽大学（Komazawa University）,https://www.komazawa-u.ac.jp/,komazawa-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:korea.ac.kr,intl,高丽大学（Korea University）,https://www.korea.ac.kr/,korea.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ku.dk,intl,北欧亚洲研究所（NIAS）,https://nias.ku.dk/,ku.dk,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ku.dk~2,intl,哥本哈根大学（University of Copenhagen）,https://www.ku.dk/,ku.dk,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ku.edu,intl,堪萨斯大学东亚研究中心（Center for East Asian Studies）,https://ceas.ku.edu/,ku.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kuis.ac.jp,intl,神田外语大学（Kanda University of International Studies）,https://www.kuis.ac.jp/,kuis.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kuleuven.be,intl,鲁汶大学（KU Leuven）,https://www.kuleuven.be/,kuleuven.be,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kwansei.ac.jp,intl,关西学院大学（Kwansei Gakuin University）,https://www.kwansei.ac.jp/,kwansei.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kyoto-u.ac.jp,intl,京都大学人文科学研究所（Institute for Research in Humanities）,https://www.zinbun.kyoto-u.ac.jp/,kyoto-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kyoto-u.ac.jp~2,intl,京都大学亚洲非洲区域研究研究科（ASAFAS）,https://www.asafas.kyoto-u.ac.jp/,kyoto-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kyungnam.ac.kr,intl,"庆南大学远东问题研究所（IFES, Kyungnam University）",https://www.ifes.kyungnam.ac.kr/,kyungnam.ac.kr,unprobed,,,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:kyushu-u.ac.jp,intl,九州大学（Kyushu University）,https://www.kyushu-u.ac.jp/,kyushu-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:latrobe.edu.au,intl,拉筹伯大学（La Trobe University）,https://www.latrobe.edu.au/,latrobe.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:leeds.ac.uk,intl,"利兹大学东亚研究系（East Asian Studies, Leeds）",https://ahc.leeds.ac.uk/east-asian-studies,leeds.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:library.gov.mo,intl,澳门公共图书馆（Macao Public Library）,https://www.library.gov.mo/,library.gov.mo,unprobed,,,澳门·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ln.edu.hk,intl,岭南大学（Lingnan University）,https://www.ln.edu.hk/,ln.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:loc.gov,intl,"美国国会图书馆亚洲部（Asian Division, Library of Congress）",https://www.loc.gov/research-centers/asian/,loc.gov,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:loc.gov~2,intl,美国国会图书馆中文善本数字馆藏（Chinese Rare Book Digital Collection）,https://www.loc.gov/collections/chinese-rare-book-digital-collection/,loc.gov,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:lowyinstitute.org,intl,罗伊研究所（Lowy Institute）,https://www.lowyinstitute.org/,lowyinstitute.org,unprobed,,,澳大利亚·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:lse.ac.uk,intl,伦敦政治经济学院亚洲研究中心（LSE Asia Research Centre）,https://www.lse.ac.uk/asia-research-centre,lse.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:lu.lv,intl,拉脱维亚大学（University of Latvia）,https://www.lu.lv/,lu.lv,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:lu.se,intl,隆德大学（Lund University）,https://www.lunduniversity.lu.se/,lu.se,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mac.gov.tw,intl,大陆委员会（Mainland Affairs Council）,https://www.mac.gov.tw/,mac.gov.tw,unprobed,,,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:macaumemory.mo,intl,澳门记忆（Macau Memory）,https://www.macaumemory.mo/,macaumemory.mo,unprobed,,,澳门·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:macaumuseum.gov.mo,intl,澳门博物馆（Macao Museum）,https://www.macaumuseum.gov.mo/,macaumuseum.gov.mo,unprobed,,,澳门·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mahidol.ac.th,intl,玛希隆大学（Mahidol University）,https://www.mahidol.ac.th/,mahidol.ac.th,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:manchester.ac.uk,intl,"曼彻斯特大学中国研究（Chinese Studies, Manchester）",https://www.manchester.ac.uk/,manchester.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:maryknollmissionarchives.org,intl,玛利诺会档案馆（Maryknoll Mission Archives）,https://maryknollmissionarchives.org/,maryknollmissionarchives.org,unprobed,,,美国·教会档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mcgill.ca,intl,麦吉尔大学（McGill University）,https://www.mcgill.ca/,mcgill.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:meiji.ac.jp,intl,明治大学（Meiji University）,https://www.meiji.ac.jp/,meiji.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:merics.org,intl,墨卡托中国研究中心（MERICS）,https://merics.org/,merics.org,unprobed,,,德国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:metmuseum.org,intl,"大都会艺术博物馆亚洲艺术部（Metropolitan Museum of Art, Asian Art）",https://www.metmuseum.org/about-the-met/collection-areas/asian-art,metmuseum.org,unprobed,,,美国·亚洲艺术/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:minpaku.ac.jp,intl,国立民族学博物馆（Minpaku）,https://www.minpaku.ac.jp/,minpaku.ac.jp,unprobed,,,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mod.go.jp,intl,防卫研究所（National Institute for Defense Studies）,https://www.nids.mod.go.jp/,mod.go.jp,unprobed,,,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:monash.edu,intl,莫纳什大学（Monash University）,https://www.monash.edu/,monash.edu,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mpg.de,intl,马克斯·普朗克社会人类学研究所（MPI for Social Anthropology）,https://www.eth.mpg.de/,mpg.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mpg.de~2,intl,马克斯·普朗克科学史研究所（MPIWG）,https://www.mpiwg-berlin.mpg.de/,mpg.de,unprobed,,,德国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:mpu.edu.mo,intl,澳门理工大学（Macao Polytechnic University）,https://www.mpu.edu.mo/,mpu.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:msu.edu,intl,密歇根州立大学亚洲研究中心（Asian Studies Center）,https://asianstudies.msu.edu/,msu.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:msu.ru,intl,莫斯科国立大学（Moscow State University）,https://www.msu.ru/,msu.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:must.edu.mo,intl,澳门科技大学（MUST）,https://www.must.edu.mo/,must.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:naa.gov.au,intl,澳大利亚国家档案馆（National Archives of Australia）,https://www.naa.gov.au/,naa.gov.au,unprobed,,,澳大利亚·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nagoya-u.ac.jp,intl,名古屋大学（Nagoya University）,https://www.nagoya-u.ac.jp/,nagoya-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nahf.or.kr,intl,东北亚历史财团（Northeast Asian History Foundation）,https://www.nahf.or.kr/,nahf.or.kr,unprobed,,,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nanet.go.kr,intl,韩国国会图书馆（National Assembly Library）,https://www.nanet.go.kr/,nanet.go.kr,unprobed,,,韩国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nas.gov.sg,intl,新加坡国家档案馆（National Archives of Singapore）,https://www.nas.gov.sg/,nas.gov.sg,unprobed,,,新加坡·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nationalarchives.gov.uk,intl,"英国国家档案馆（The National Archives, UK）",https://www.nationalarchives.gov.uk/,nationalarchives.gov.uk,unprobed,,,英国·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nationallibrary.gov.in,intl,印度国家图书馆（National Library of India）,https://www.nationallibrary.gov.in/,nationallibrary.gov.in,unprobed,,,印度·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:natlib.govt.nz,intl,新西兰国家图书馆（National Library of New Zealand）,https://natlib.govt.nz/,natlib.govt.nz,unprobed,,,新西兰·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nb.no,intl,挪威国家图书馆（National Library of Norway）,https://www.nb.no/,nb.no,unprobed,,,挪威·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nccu.edu.tw,intl,政治大学（National Chengchi University）,https://www.nccu.edu.tw/,nccu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nccu.edu.tw~2,intl,"政治大学东亚研究所（Institute of East Asian Studies, NCCU）",https://eastasia.nccu.edu.tw/,nccu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nchu.edu.tw,intl,中兴大学（National Chung Hsing University）,https://www.nchu.edu.tw/,nchu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncku.edu.tw,intl,成功大学（National Cheng Kung University）,https://www.ncku.edu.tw/,ncku.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncl.ac.uk,intl,"纽卡斯尔大学中国研究（Chinese Studies, Newcastle）",https://www.ncl.ac.uk/,ncl.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncl.edu.tw,intl,"国家图书馆汉学研究中心（Center for Chinese Studies, NCL）",https://ccs.ncl.edu.tw/,ncl.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncl.edu.tw~2,intl,国家图书馆（National Central Library）,https://www.ncl.edu.tw/,ncl.edu.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncl.edu.tw~3,intl,台湾书目资讯中心（TBMC）,https://tbmc.ncl.edu.tw/,ncl.edu.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncu.edu.tw,intl,中央大学（National Central University）,https://www.ncu.edu.tw/,ncu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ncuser.org,intl,美中关系全国委员会（NCUSCR）,https://www.ncuser.org/,ncuser.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nd.edu,intl,圣母大学刘氏亚洲与亚洲研究学院（Liu Institute）,https://asia.nd.edu/,nd.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ndhu.edu.tw,intl,东华大学（National Dong Hwa University）,https://www.ndhu.edu.tw/,ndhu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nehrumemorial.nic.in,intl,尼赫鲁纪念博物馆与图书馆（Nehru Memorial Museum and Library）,https://nehrumemorial.nic.in/,nehrumemorial.nic.in,unprobed,,,印度·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:newera.edu.my,intl,新纪元大学学院（New Era University College）,https://www.newera.edu.my/,newera.edu.my,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nihon-u.ac.jp,intl,日本大学（Nihon University）,https://www.nihon-u.ac.jp/,nihon-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nishogakusha-u.ac.jp,intl,二松学舍大学（Nishogakusha University）,https://www.nishogakusha-u.ac.jp/,nishogakusha-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nl.go.kr,intl,韩国国立中央图书馆（National Library of Korea）,https://www.nl.go.kr/,nl.go.kr,unprobed,,,韩国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nla.gov.au,intl,澳大利亚国家图书馆（National Library of Australia）,https://www.nla.gov.au/,nla.gov.au,unprobed,,,澳大利亚·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nlb.gov.sg,intl,新加坡国家图书馆管理局（NLB）,https://www.nlb.gov.sg/,nlb.gov.sg,unprobed,,,新加坡·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nlpi.edu.tw,intl,国立公共资讯图书馆（National Library of Public Information）,https://www.nlpi.edu.tw/,nlpi.edu.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nmh.gov.tw,intl,国立历史博物馆（National Museum of History）,https://www.nmh.gov.tw/,nmh.gov.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nmth.gov.tw,intl,国立台湾历史博物馆（National Museum of Taiwan History）,https://www.nmth.gov.tw/,nmth.gov.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nottingham.ac.uk,intl,"诺丁汉大学中国研究（Chinese Studies, Nottingham）",https://www.nottingham.ac.uk/,nottingham.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:npf.org.tw,intl,国家政策研究基金会（National Policy Foundation）,https://www.npf.org.tw/,npf.org.tw,unprobed,,,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:npm.gov.tw,intl,国立故宫博物院（National Palace Museum）,https://www.npm.gov.tw/,npm.gov.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nsw.gov.au,intl,新南威尔士州立图书馆（State Library of NSW）,https://www.sl.nsw.gov.au/,nsw.gov.au,unprobed,,,澳大利亚·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nsysu.edu.tw,intl,中山大学（National Sun Yat-sen University）,https://www.nsysu.edu.tw/,nsysu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nthu.edu.tw,intl,清华大学（National Tsing Hua University）,https://www.nthu.edu.tw/,nthu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ntnu.edu.tw,intl,台湾师范大学（National Taiwan Normal University）,https://www.ntnu.edu.tw/,ntnu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ntu.edu.sg,intl,"南洋理工大学人文学院（School of Humanities, NTU）",https://soh.ntu.edu.sg/,ntu.edu.sg,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ntu.edu.sg~2,intl,"南洋理工大学华裔馆（Chinese Heritage Centre, NTU）",https://www.ntu.edu.sg/chc,ntu.edu.sg,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ntu.edu.tw,intl,台湾大学（National Taiwan University）,https://www.ntu.edu.tw/,ntu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ntu.edu.tw~2,intl,"台湾大学历史学系（Department of History, NTU）",https://homepage.ntu.edu.tw/,ntu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nus.edu.sg,intl,"新加坡国立大学东亚研究所（East Asian Institute, NUS）",https://www.eai.nus.edu.sg/,nus.edu.sg,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nus.edu.sg~2,intl,"新加坡国立大学中文系（Department of Chinese Studies, NUS）",https://fass.nus.edu.sg/cs/,nus.edu.sg,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nus.edu.sg~3,intl,"新加坡国立大学中文图书馆（Chinese Library, NUS）",https://libportal.nus.edu.sg/,nus.edu.sg,unprobed,,,新加坡·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nycu.edu.tw,intl,阳明交通大学（NYCU）,https://www.nycu.edu.tw/,nycu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nypl.org,intl,纽约公共图书馆（New York Public Library）,https://www.nypl.org/,nypl.org,unprobed,,,美国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:nyu.edu,intl,"纽约大学东亚研究系（East Asian Studies, NYU）",https://as.nyu.edu/eas.html,nyu.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:obirin.ac.jp,intl,樱美林大学（J. F. Oberlin University）,https://www.obirin.ac.jp/,obirin.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:oeaw.ac.at,intl,奥地利科学院（Austrian Academy of Sciences）,https://www.oeaw.ac.at/,oeaw.ac.at,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:orientalstudies.ru,intl,俄罗斯科学院东方文献研究所（Institute of Oriental Manuscripts）,https://www.orientalstudies.ru/,orientalstudies.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:osaka-u.ac.jp,intl,大阪大学（Osaka University）,https://www.osaka-u.ac.jp/,osaka-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:osu.edu,intl,俄亥俄州立大学东亚研究中心（East Asian Studies Center）,https://easc.osu.edu/,osu.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:osu.edu~2,intl,中国现代文学与文化（MCLC）,https://u.osu.edu/mclc/,osu.edu,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:otago.ac.nz,intl,奥塔哥大学（University of Otago）,https://www.otago.ac.nz/,otago.ac.nz,unprobed,,,新西兰·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ourhkfoundation.org.hk,intl,团结香港基金（Our Hong Kong Foundation）,https://www.ourhkfoundation.org.hk/,ourhkfoundation.org.hk,unprobed,,,香港·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ox.ac.uk,intl,牛津大学中国中心（University of Oxford China Centre）,https://www.chinacentre.ox.ac.uk/,ox.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ox.ac.uk~2,intl,牛津大学亚洲与中东研究学院（Faculty of Asian and Middle Eastern Studies）,https://www.orinst.ox.ac.uk/,ox.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ox.ac.uk~3,intl,牛津大学博德利图书馆中文馆藏（Bodleian Chinese Studies）,https://www.bodleian.ox.ac.uk/chinese,ox.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:pccu.edu.tw,intl,中国文化大学（Chinese Culture University）,https://www.pccu.edu.tw/,pccu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:piie.com,intl,彼得森国际经济研究所（PIIE）,https://www.piie.com/,piie.com,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:pitt.edu,intl,匹兹堡大学亚洲研究中心（Asian Studies Center）,https://www.ucis.pitt.edu/asc,pitt.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:polyu.edu.hk,intl,香港理工大学（PolyU）,https://www.polyu.edu.hk/,polyu.edu.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:princeton.edu,intl,普林斯顿大学东亚研究系（Department of East Asian Studies）,https://eas.princeton.edu/,princeton.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:princeton.edu~2,intl,普林斯顿大学当代中国研究中心（Center on Contemporary China）,https://ccc.princeton.edu/,princeton.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:princeton.edu~3,intl,普林斯顿大学葛斯德东亚图书馆（Gest East Asian Library）,https://library.princeton.edu/eastasian,princeton.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:pucp.edu.pe,intl,秘鲁天主教大学（PUCP）,https://www.pucp.edu.pe/,pucp.edu.pe,unprobed,,,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:rand.org,intl,兰德公司中国研究（RAND China）,https://www.rand.org/topics/china.html,rand.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:reitaku-u.ac.jp,intl,丽泽大学（Reitaku University）,https://www.reitaku-u.ac.jp/,reitaku-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:riccimac.org,intl,澳门利氏学社（Macau Ricci Institute）,https://www.riccimac.org/,riccimac.org,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:rice.edu,intl,莱斯大学赵廷箴亚洲研究中心（Chao Center for Asian Studies）,https://chaocenter.rice.edu/,rice.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:rikkyo.ac.jp,intl,立教大学（Rikkyo University）,https://www.rikkyo.ac.jp/,rikkyo.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ritsumei.ac.jp,intl,立命馆大学（Ritsumeikan University）,https://www.ritsumei.ac.jp/,ritsumei.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sciencespo.fr,intl,"巴黎政治学院国际研究中心（CERI, Sciences Po）",https://www.sciencespo.fr/ceri/,sciencespo.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:scu.edu.tw,intl,东吴大学（Soochow University）,https://www.scu.edu.tw/,scu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sef.org.tw,intl,海峡交流基金会（Straits Exchange Foundation）,https://www.sef.org.tw/,sef.org.tw,unprobed,,,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sejong.org,intl,世宗研究所（Sejong Institute）,https://www.sejong.org/,sejong.org,unprobed,,,韩国·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sfu.ca,intl,西蒙菲莎大学（Simon Fraser University）,https://www.sfu.ca/,sfu.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sheffield.ac.uk,intl,"谢菲尔德大学东亚研究学院（SEAS, Sheffield）",https://www.sheffield.ac.uk/seas,sheffield.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:si.edu,intl,史密森尼国家亚洲艺术博物馆（National Museum of Asian Art）,https://asia.si.edu/,si.edu,unprobed,,,美国·亚洲艺术/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:singaporeccc.org.sg,intl,新加坡华族文化中心（Singapore Chinese Cultural Centre）,https://singaporeccc.org.sg/,singaporeccc.org.sg,unprobed,,,新加坡·机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw,intl,中央研究院（Academia Sinica）,https://www.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw~2,intl,中研院近代史研究所（Institute of Modern History）,https://www.mh.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw~3,intl,中研院历史语言研究所（Institute of History and Philology）,https://www.ihp.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw~4,intl,中研院台湾史研究所（Institute of Taiwan History）,https://www.ith.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw~5,intl,中研院中国文哲研究所（Institute of Chinese Literature and Philosophy）,https://www.litphil.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw~6,intl,中研院人文社会科学研究中心（RCHSS）,https://www.rchss.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sinica.edu.tw~7,intl,中研院政治学研究所（Institute of Political Science）,https://www.ipsas.sinica.edu.tw/,sinica.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sixthtone.com,intl,Sixth Tone,https://www.sixthtone.com/,sixthtone.com,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:skku.edu,intl,成均馆大学（Sungkyunkwan University）,https://www.skku.edu/,skku.edu,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:snu.ac.kr,intl,首尔国立大学（Seoul National University）,https://www.snu.ac.kr/,snu.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:soas.ac.uk,intl,伦敦大学亚非学院中国研究院（SOAS China Institute）,https://www.soas.ac.uk/china-institute,soas.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:soas.ac.uk~2,intl,伦敦大学亚非学院东亚语言与文化系（SOAS EALC）,https://www.soas.ac.uk/east-asia,soas.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:soas.ac.uk~3,intl,伦敦大学亚非学院图书馆（SOAS Library）,https://www.soas.ac.uk/library,soas.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sogang.ac.kr,intl,西江大学（Sogang University）,https://www.sogang.ac.kr/,sogang.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:soka.ac.jp,intl,创价大学（Soka University）,https://www.soka.ac.jp/,soka.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sophia.ac.jp,intl,上智大学（Sophia University）,https://www.sophia.ac.jp/,sophia.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sorbonne-universite.fr,intl,索邦大学（Sorbonne Université）,https://www.sorbonne-universite.fr/,sorbonne-universite.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:spbu.ru,intl,圣彼得堡国立大学（Saint Petersburg State University）,https://spbu.ru/,spbu.ru,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:st-andrews.ac.uk,intl,"圣安德鲁斯大学中国研究（Chinese Studies, St Andrews）",https://www.st-andrews.ac.uk/,st-andrews.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:stanford.edu,intl,斯坦福大学东亚研究中心（Center for East Asian Studies）,https://ceas.stanford.edu/,stanford.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:stanford.edu~2,intl,斯坦福大学肖伦斯坦亚太研究中心（APARC）,https://aparc.fsi.stanford.edu/,stanford.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:stanford.edu~3,intl,斯坦福大学东亚图书馆（East Asia Library）,https://library.stanford.edu/eal,stanford.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:stimson.org,intl,史汀生中心（Stimson Center）,https://www.stimson.org/,stimson.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:su.se,intl,斯德哥尔摩大学（Stockholm University）,https://www.su.se/,su.se,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sun.ac.za,intl,斯泰伦博斯大学（Stellenbosch University）,https://www.sun.ac.za/,sun.ac.za,unprobed,,,非洲·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:suss.edu.sg,intl,新加坡新跃社科大学（SUSS）,https://www.suss.edu.sg/,suss.edu.sg,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:swp-berlin.org,intl,德国国际与安全事务研究所（SWP）,https://www.swp-berlin.org/,swp-berlin.org,unprobed,,,德国·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:sydney.edu.au,intl,悉尼大学（University of Sydney）,https://www.sydney.edu.au/,sydney.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:taiwanthinktank.org,intl,台湾智库（Taiwan Thinktank）,https://www.taiwanthinktank.org/,taiwanthinktank.org,unprobed,,,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:takushoku-u.ac.jp,intl,拓殖大学（Takushoku University）,https://www.takushoku-u.ac.jp/,takushoku-u.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tau.ac.il,intl,特拉维夫大学（Tel Aviv University）,https://www.tau.ac.il/,tau.ac.il,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:th.gov.tw,intl,国史馆台湾文献馆（Taiwan Historica）,https://www.th.gov.tw/,th.gov.tw,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:thechinaproject.com,intl,中国项目（The China Project）,https://thechinaproject.com/,thechinaproject.com,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:thu.edu.tw,intl,东海大学（Tunghai University）,https://www.thu.edu.tw/,thu.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tku.edu.tw,intl,淡江大学（Tamkang University）,https://www.tku.edu.tw/,tku.edu.tw,unprobed,,,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tlu.ee,intl,塔林大学（Tallinn University）,https://www.tlu.ee/,tlu.ee,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tohoku.ac.jp,intl,东北大学（Tohoku University）,https://www.tohoku.ac.jp/,tohoku.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:toyo-bunko.or.jp,intl,东洋文库（Toyo Bunko）,https://www.toyo-bunko.or.jp/,toyo-bunko.or.jp,unprobed,,,日本·图书馆/研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:toyo.ac.jp,intl,东洋大学（Toyo University）,https://www.toyo.ac.jp/,toyo.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tpml.gov.taipei,intl,台北市立图书馆（Taipei Public Library）,https://tpml.gov.taipei/,tpml.gov.taipei,unprobed,,,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tsukuba.ac.jp,intl,筑波大学（University of Tsukuba）,https://www.tsukuba.ac.jp/,tsukuba.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tu.ac.th,intl,法政大学（Thammasat University）,https://www.tu.ac.th/,tu.ac.th,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:tufs.ac.jp,intl,东京外国语大学（Tokyo University of Foreign Studies）,https://www.tufs.ac.jp/,tufs.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:u-bordeaux.fr,intl,波尔多大学（Université de Bordeaux）,https://www.u-bordeaux.fr/,u-bordeaux.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:u-paris.fr,intl,巴黎西岱大学（Université Paris Cité）,https://u-paris.fr/,u-paris.fr,unprobed,,,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:u-tokyo.ac.jp,intl,东京大学东洋文化研究所（Institute for Advanced Studies on Asia）,https://www.ioc.u-tokyo.ac.jp/,u-tokyo.ac.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uab.cat,intl,巴塞罗那自治大学（UAB）,https://www.uab.cat/,uab.cat,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ualberta.ca,intl,阿尔伯塔大学（University of Alberta）,https://www.ualberta.ca/,ualberta.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ub.edu,intl,巴塞罗那大学（University of Barcelona）,https://www.ub.edu/,ub.edu,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uba.ar,intl,布宜诺斯艾利斯大学（University of Buenos Aires）,https://www.uba.ar/,uba.ar,unprobed,,,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ubc.ca,intl,"不列颠哥伦比亚大学亚洲研究所（Institute of Asian Research, UBC）",https://iar.ubc.ca/,ubc.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ubc.ca~2,intl,"不列颠哥伦比亚大学亚洲图书馆（Asian Library, UBC）",https://asian.library.ubc.ca/,ubc.ca,unprobed,,,加拿大·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ucdavis.edu,intl,加州大学戴维斯分校东亚研究项目（East Asian Studies）,https://eastasian.ucdavis.edu/,ucdavis.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uchicago.edu,intl,芝加哥大学东亚研究中心（Center for East Asian Studies）,https://ceas.uchicago.edu/,uchicago.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uchicago.edu~2,intl,"芝加哥大学东亚馆藏（East Asian Collection, Regenstein）",https://www.lib.uchicago.edu/e/easia/,uchicago.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uchile.cl,intl,智利大学（Universidad de Chile）,https://www.uchile.cl/,uchile.cl,unprobed,,,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uci.edu,intl,加州大学尔湾分校东亚研究系（East Asian Studies）,https://www.humanities.uci.edu/eastasian/,uci.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ucla.edu,intl,"加州大学洛杉矶分校中国研究中心（Center for Chinese Studies, UCLA）",https://www.international.ucla.edu/ccs,ucla.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ucla.edu~2,intl,"加州大学洛杉矶分校亚太中心（Asia Pacific Center, UCLA）",https://www.international.ucla.edu/apc,ucla.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ucla.edu~3,intl,加州大学洛杉矶分校鲁道夫东亚图书馆（Richard C. Rudolph East Asian Library）,https://www.library.ucla.edu/eastasian,ucla.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ucsb.edu,intl,加州大学圣塔芭芭拉分校东亚语言与文化研究系（EALCS）,https://www.eastasian.ucsb.edu/,ucsb.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ucsd.edu,intl,加州大学圣地亚哥分校中国研究项目（Chinese Studies Program）,https://chinese-studies.ucsd.edu/,ucsd.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ugent.be,intl,根特大学（Ghent University）,https://www.ugent.be/,ugent.be,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ugm.ac.id,intl,加查马达大学（Universitas Gadjah Mada）,https://ugm.ac.id/,ugm.ac.id,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ui.ac.id,intl,印度尼西亚大学（Universitas Indonesia）,https://www.ui.ac.id/,ui.ac.id,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uio.no,intl,奥斯陆大学（University of Oslo）,https://www.uio.no/,uio.no,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uj.edu.pl,intl,雅盖隆大学（Jagiellonian University）,https://www.uj.edu.pl/,uj.edu.pl,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ulisboa.pt,intl,里斯本大学（University of Lisbon）,https://www.ulisboa.pt/,ulisboa.pt,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:um.edu.mo,intl,澳门大学（University of Macau）,https://www.um.edu.mo/,um.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:um.edu.mo~2,intl,"澳门大学中文系（Department of Chinese, UM）",https://www.um.edu.mo/fah/dc/,um.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:um.edu.mo~3,intl,澳门大学中国历史文化中心（Centre for Chinese History and Culture）,https://cchc.fah.um.edu.mo/,um.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:um.edu.my,intl,马来亚大学（University of Malaya）,https://www.um.edu.my/,um.edu.my,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:umich.edu,intl,密歇根大学李侃如-罗睿驰中国研究中心（LRCCS）,https://ii.umich.edu/lrccs,umich.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:umich.edu~2,intl,"密歇根大学亚洲图书馆（Asia Library, Michigan）",https://www.lib.umich.edu/asia-library,umich.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:umn.edu,intl,明尼苏达大学亚洲与中东研究系（AMES）,https://cla.umn.edu/asian-middle-eastern,umn.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:umontreal.ca,intl,蒙特利尔大学（Université de Montréal）,https://www.umontreal.ca/,umontreal.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unam.mx,intl,墨西哥国立自治大学（UNAM）,https://www.unam.mx/,unam.mx,unprobed,,,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unc.edu,intl,北卡罗来纳大学卡罗来纳亚洲中心（Carolina Asia Center）,https://carolinaasiacenter.unc.edu/,unc.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-bonn.de,intl,"波恩大学东亚研究（East Asian Studies, Bonn）",https://www.uni-bonn.de/,uni-bonn.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-goettingen.de,intl,"哥廷根大学东亚研究（East Asian Studies, Göttingen）",https://www.uni-goettingen.de/,uni-goettingen.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-hamburg.de,intl,汉堡大学亚非研究所（Asien-Afrika-Institut）,https://www.aai.uni-hamburg.de/,uni-hamburg.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-heidelberg.de,intl,"海德堡大学汉学研究所（Institute of Chinese Studies, Heidelberg）",https://www.zo.uni-heidelberg.de/sinologie/,uni-heidelberg.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-heidelberg.de~2,intl,海德堡大学亚洲与跨文化研究中心（CATS）,https://www.cats.uni-heidelberg.de/,uni-heidelberg.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-heidelberg.de~3,intl,海德堡大学中国研究数字档案（DACHS）,https://projects.zo.uni-heidelberg.de/dachs/,uni-heidelberg.de,unprobed,,,德国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-koeln.de,intl,"科隆大学东亚研究（East Asian Studies, Cologne）",https://ostasien.uni-koeln.de/,uni-koeln.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-leipzig.de,intl,"莱比锡大学东亚研究所（East Asian Institute, Leipzig）",https://www.uni-leipzig.de/,uni-leipzig.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-lj.si,intl,卢布尔雅那大学（University of Ljubljana）,https://www.uni-lj.si/,uni-lj.si,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-muenchen.de,intl,"慕尼黑大学汉学系（Sinology, LMU Munich）",https://www.sinologie.uni-muenchen.de/,uni-muenchen.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-sofia.bg,intl,索菲亚大学（Sofia University）,https://www.uni-sofia.bg/,uni-sofia.bg,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uni-tuebingen.de,intl,"图宾根大学中国研究（Chinese Studies, Tübingen）",https://uni-tuebingen.de/,uni-tuebingen.de,unprobed,,,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uniba.sk,intl,考门斯基大学（Comenius University）,https://uniba.sk/,uniba.sk,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unibas.ch,intl,巴塞尔大学（University of Basel）,https://www.unibas.ch/,unibas.ch,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unibuc.ro,intl,布加勒斯特大学（University of Bucharest）,https://www.unibuc.ro/,unibuc.ro,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unige.ch,intl,日内瓦大学（University of Geneva）,https://www.unige.ch/,unige.ch,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unimelb.edu.au,intl,"墨尔本大学亚洲研究院（Asia Institute, Melbourne）",https://arts.unimelb.edu.au/asia-institute,unimelb.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unior.it,intl,那不勒斯东方大学（University of Naples L'Orientale）,https://www.unior.it/,unior.it,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uniroma1.it,intl,罗马第一大学（Sapienza University of Rome）,https://www.uniroma1.it/,uniroma1.it,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unisa.ac.za,intl,南非大学（University of South Africa）,https://www.unisa.ac.za/,unisa.ac.za,unprobed,,,非洲·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unito.it,intl,都灵大学（University of Turin）,https://www.unito.it/,unito.it,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unive.it,intl,威尼斯卡福斯卡里大学（Ca' Foscari University of Venice）,https://www.unive.it/,unive.it,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:universiteitleiden.nl,intl,莱顿大学区域研究所（Leiden Institute for Area Studies）,https://www.universiteitleiden.nl/en/humanities/leiden-institute-for-area-studies,universiteitleiden.nl,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:universiteitleiden.nl~2,intl,"莱顿大学汉学图书馆（Sinological Library, Leiden）",https://www.universiteitleiden.nl/en/library,universiteitleiden.nl,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:univie.ac.at,intl,维也纳大学东亚研究系（University of Vienna）,https://www.univie.ac.at/,univie.ac.at,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unizg.hr,intl,萨格勒布大学（University of Zagreb）,https://www.unizg.hr/,unizg.hr,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:unsw.edu.au,intl,新南威尔士大学（UNSW Sydney）,https://www.unsw.edu.au/,unsw.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uoregon.edu,intl,俄勒冈大学亚洲研究项目（Asian Studies）,https://asianstudies.uoregon.edu/,uoregon.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:up.edu.ph,intl,菲律宾大学（University of the Philippines）,https://up.edu.ph/,up.edu.ph,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:upenn.edu,intl,宾夕法尼亚大学东亚研究中心（Center for East Asian Studies）,https://ceas.sas.upenn.edu/,upenn.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uq.edu.au,intl,昆士兰大学（University of Queensland）,https://www.uq.edu.au/,uq.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:usc.edu,intl,"南加州大学东亚研究中心（East Asian Studies Center, USC）",https://dornsife.usc.edu/easc/,usc.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:usfca.edu,intl,"旧金山大学利玛窦中西文化历史研究所（Ricci Institute, USF）",https://www.usfca.edu/ricci,usfca.edu,unprobed,,,美国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:usj.edu.mo,intl,圣若瑟大学（University of Saint Joseph）,https://www.usj.edu.mo/,usj.edu.mo,unprobed,,,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:usp.br,intl,圣保罗大学（University of São Paulo）,https://www.usp.br/,usp.br,unprobed,,,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ust.hk,intl,香港科技大学（HKUST）,https://www.ust.hk/,ust.hk,unprobed,,,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:ut.ac.ir,intl,德黑兰大学（University of Tehran）,https://ut.ac.ir/,ut.ac.ir,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:utar.edu.my,intl,拉曼大学（Universiti Tunku Abdul Rahman）,https://www.utar.edu.my/,utar.edu.my,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:utexas.edu,intl,德克萨斯大学奥斯汀分校东亚研究中心（CEAS）,https://liberalarts.utexas.edu/ceas/,utexas.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:utoronto.ca,intl,"多伦多大学亚洲研究院（Asian Institute, Toronto）",https://www.asianstudies.utoronto.ca/,utoronto.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:utoronto.ca~2,intl,多伦多大学郑裕彤东亚图书馆（Cheng Yu Tung East Asian Library）,https://www.library.utoronto.ca/east,utoronto.ca,unprobed,,,加拿大·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uts.edu.au,intl,悉尼科技大学（UTS）,https://www.uts.edu.au/,uts.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uu.nl,intl,乌得勒支大学（Utrecht University）,https://www.uu.nl/,uu.nl,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uu.se,intl,乌普萨拉大学（Uppsala University）,https://www.uu.se/,uu.se,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uva.nl,intl,阿姆斯特丹大学（University of Amsterdam）,https://www.uva.nl/,uva.nl,unprobed,,,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uvic.ca,intl,维多利亚大学（University of Victoria）,https://www.uvic.ca/,uvic.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uw.edu.pl,intl,华沙大学（University of Warsaw）,https://www.uw.edu.pl/,uw.edu.pl,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uwa.edu.au,intl,西澳大学（University of Western Australia）,https://www.uwa.edu.au/,uwa.edu.au,unprobed,,,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:uzh.ch,intl,苏黎世大学（University of Zurich）,https://www.uzh.ch/,uzh.ch,unprobed,,,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:vam.ac.uk,intl,维多利亚与艾尔伯特博物馆（V&A）,https://www.vam.ac.uk/,vam.ac.uk,unprobed,,,英国·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:vanderbilt.edu,intl,范德堡大学亚洲研究系（Asian Studies）,https://as.vanderbilt.edu/asianstudies/,vanderbilt.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:vass.gov.vn,intl,越南社会科学院（VASS）,https://www.vass.gov.vn/,vass.gov.vn,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:virginia.edu,intl,弗吉尼亚大学东亚中心（East Asia Center）,https://eastasiacenter.as.virginia.edu/,virginia.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:virtualshanghai.net,intl,虚拟上海（Virtual Shanghai）,https://www.virtualshanghai.net/,virtualshanghai.net,unprobed,,,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:visva-bharati.ac.in,intl,国际大学（Visva-Bharati）,https://www.visva-bharati.ac.in/,visva-bharati.ac.in,unprobed,,,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:vnu.edu.vn,intl,"河内国家大学（Vietnam National University, Hanoi）",https://vnu.edu.vn/,vnu.edu.vn,unprobed,,,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:vu.lt,intl,维尔纽斯大学（Vilnius University）,https://www.vu.lt/,vu.lt,unprobed,,,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:warwick.ac.uk,intl,"华威大学中国研究（Chinese Studies, Warwick）",https://warwick.ac.uk/,warwick.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:waseda.jp,intl,早稻田大学（Waseda University）,https://www.waseda.jp/,waseda.jp,unprobed,,,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:washington.edu,intl,"华盛顿大学东亚中心（East Asia Center, UW）",https://jsis.washington.edu/eac/,washington.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:washington.edu~2,intl,"华盛顿大学东亚图书馆（East Asia Library, UW）",https://lib.washington.edu/east-asia,washington.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:westminster.ac.uk,intl,威斯敏斯特大学中国传媒中心（China Media Centre）,https://www.westminster.ac.uk/,westminster.ac.uk,unprobed,,,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:wgtn.ac.nz,intl,惠灵顿维多利亚大学（Victoria University of Wellington）,https://www.wgtn.ac.nz/,wgtn.ac.nz,unprobed,,,新西兰·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:wilsoncenter.org,intl,威尔逊中心基辛格中美研究所（Kissinger Institute）,https://www.wilsoncenter.org/program/kissinger-institute-china-and-united-states,wilsoncenter.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:wilsoncenter.org~2,intl,威尔逊中心亚洲项目（Wilson Center Asia Program）,https://www.wilsoncenter.org/program/asia-program,wilsoncenter.org,unprobed,,,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:wisc.edu,intl,威斯康星大学麦迪逊分校东亚研究中心（CEAS）,https://ceas.wisc.edu/,wisc.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:yale.edu,intl,耶鲁大学东亚研究理事会（Council on East Asian Studies）,https://ceas.yale.edu/,yale.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:yale.edu~2,intl,耶鲁大学麦克米伦国际与地区研究中心（MacMillan Center）,https://macmillan.yale.edu/,yale.edu,unprobed,,,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:yale.edu~3,intl,"耶鲁大学东亚图书馆（East Asian Library, Yale）",https://guides.library.yale.edu/eastasian,yale.edu,unprobed,,,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:yonsei.ac.kr,intl,延世大学（Yonsei University）,https://www.yonsei.ac.kr/,yonsei.ac.kr,unprobed,,,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
-intl:yorku.ca,intl,约克大学（York University）,https://www.yorku.ca/,yorku.ca,unprobed,,,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:adelaide.edu.au,intl,阿德莱德大学（University of Adelaide）,https://www.adelaide.edu.au/,adelaide.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:aei.org,intl,美国企业公共政策研究所（AEI）,https://www.aei.org/,aei.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:afec-asso.fr,intl,法国汉学协会（AFEC）,https://www.afec-asso.fr/,afec-asso.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:aichi-u.ac.jp,intl,爱知大学（Aichi University）,https://www.aichi-u.ac.jp/,aichi-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:aiia.asn.au,intl,澳大利亚国际事务研究院（AIIA）,https://www.aiia.asn.au/,aiia.asn.au,probed-3xx,301,2026-10-03,澳大利亚·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:aks.ac.kr,intl,韩国学中央研究院（Academy of Korean Studies）,https://www.aks.ac.kr/,aks.ac.kr,probed-2xx,200,2026-10-03,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:americanorientalsociety.org,intl,美国东方学会（American Oriental Society）,https://www.americanorientalsociety.org/,americanorientalsociety.org,probed-4xx,404,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ankara.edu.tr,intl,安卡拉大学（Ankara University）,https://www.ankara.edu.tr/,ankara.edu.tr,probed-2xx,200,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:anu.edu.au,intl,"澳大利亚国立大学中华全球研究中心（Australian Centre on China in the World, CIW）",https://ciw.anu.edu.au/,anu.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:anu.edu.au~2,intl,澳大利亚国立大学科拉尔贝尔亚太事务学院（Coral Bell School）,https://bell-school.anu.edu.au/,anu.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:anu.edu.au~3,intl,澳大利亚国立大学（ANU）,https://www.anu.edu.au/,anu.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:aoyama.ac.jp,intl,青山学院大学（Aoyama Gakuin University）,https://www.aoyama.ac.jp/,aoyama.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:archive.org,intl,互联网档案馆（Internet Archive）,https://archive.org/,archive.org,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:archives.go.kr,intl,韩国国家记录院（National Archives of Korea）,https://www.archives.go.kr/,archives.go.kr,probed-2xx,200,2026-10-03,韩国·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:archives.gov.tw,intl,国家发展委员会档案管理局（National Archives Administration）,https://www.archives.gov.tw/,archives.gov.tw,probed-000,000,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:arizona.edu,intl,亚利桑那大学东亚研究系（East Asian Studies）,https://eastasianstudies.arizona.edu/,arizona.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:asaa.asn.au,intl,澳大利亚亚洲研究协会（ASAA）,https://asaa.asn.au/,asaa.asn.au,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:asia-u.ac.jp,intl,亚细亚大学（Asia University）,https://www.asia-u.ac.jp/,asia-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:asianart.org,intl,旧金山亚洲艺术博物馆（Asian Art Museum）,https://asianart.org/,asianart.org,probed-4xx,403,2026-10-03,美国·亚洲艺术/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:asianstudies.org,intl,亚洲研究协会（Association for Asian Studies）,https://www.asianstudies.org/,asianstudies.org,probed-4xx,403,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:asianz.org.nz,intl,新西兰亚洲基金会（Asia New Zealand Foundation）,https://www.asianz.org.nz/,asianz.org.nz,probed-2xx,200,2026-10-03,新西兰·机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:asiasociety.org,intl,亚洲协会（Asia Society）,https://asiasociety.org/,asiasociety.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ateneo.edu,intl,雅典耀马尼拉大学（Ateneo de Manila University）,https://www.ateneo.edu/,ateneo.edu,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:au.dk,intl,奥胡斯大学（Aarhus University）,https://www.au.dk/,au.dk,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:auckland.ac.nz,intl,奥克兰大学（University of Auckland）,https://www.auckland.ac.nz/,auckland.ac.nz,probed-2xx,200,2026-10-03,新西兰·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:berkeley.edu,intl,加州大学伯克利分校中国研究中心（Center for Chinese Studies）,https://ieas.berkeley.edu/ccs,berkeley.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:berkeley.edu~2,intl,加州大学伯克利分校东亚研究所（Institute of East Asian Studies）,https://ieas.berkeley.edu/,berkeley.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:berkeley.edu~3,intl,加州大学伯克利分校斯塔尔东亚图书馆（C.V. Starr East Asian Library）,https://www.lib.berkeley.edu/collections/east-asian,berkeley.edu,probed-2xx,200,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bg.ac.rs,intl,贝尔格莱德大学（University of Belgrade）,https://www.bg.ac.rs/,bg.ac.rs,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:birmingham.ac.uk,intl,"伯明翰大学中国研究（Chinese Studies, Birmingham）",https://www.birmingham.ac.uk/,birmingham.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bl.uk,intl,大英图书馆中文馆藏（British Library Chinese Collections）,https://www.bl.uk/collection-guides/chinese-collections,bl.uk,probed-4xx,404,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bl.uk~2,intl,大英图书馆濒危档案项目（Endangered Archives Programme）,https://eap.bl.uk/,bl.uk,probed-4xx,404,2026-10-03,英国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bnf.fr,intl,法国国家图书馆中文馆藏（BnF）,https://www.bnf.fr/,bnf.fr,probed-2xx,200,2026-10-03,法国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bogazici.edu.tr,intl,博斯普鲁斯大学（Boğaziçi University）,https://bogazici.edu.tr/,bogazici.edu.tr,probed-2xx,200,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:brandeis.edu,intl,布兰迪斯大学东亚研究项目（East Asian Studies）,https://www.brandeis.edu/east-asian-studies/,brandeis.edu,probed-4xx,404,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:brill.com,intl,博睿学术出版社（Brill）,https://brill.com/,brill.com,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:britishmuseum.org,intl,"大英博物馆中国馆藏（British Museum, China）",https://www.britishmuseum.org/collection/galleries/china,britishmuseum.org,probed-4xx,403,2026-10-03,英国·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:brookings.edu,intl,布鲁金斯学会约翰·桑顿中国中心（John L. Thornton China Center）,https://www.brookings.edu/center/john-l-thornton-china-center/,brookings.edu,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:brown.edu,intl,布朗大学东亚研究系（East Asian Studies）,https://eastasianstudies.brown.edu/,brown.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bsb-muenchen.de,intl,巴伐利亚州立图书馆东亚馆藏（BSB）,https://www.bsb-muenchen.de/,bsb-muenchen.de,probed-2xx,200,2026-10-03,德国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bu.edu,intl,波士顿大学亚洲研究中心（Center for the Study of Asia）,https://www.bu.edu/asia/,bu.edu,probed-4xx,404,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:bulac.fr,intl,巴黎东方语言与文明图书馆（BULAC）,https://www.bulac.fr/,bulac.fr,probed-2xx,200,2026-10-03,法国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:caluniv.ac.in,intl,加尔各答大学（University of Calcutta）,https://www.caluniv.ac.in/,caluniv.ac.in,probed-3xx,307,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cam.ac.uk,intl,"剑桥大学亚洲与中东研究学院（FAMES, Cambridge）",https://www.ames.cam.ac.uk/,cam.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cam.ac.uk~2,intl,剑桥大学图书馆中文部（Cambridge University Library Chinese）,https://www.lib.cam.ac.uk/collections/departments/chinese,cam.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cam.ac.uk~3,intl,李约瑟研究所（Needham Research Institute）,https://www.nri.cam.ac.uk/,cam.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cambridge.org,intl,《中国季刊》（The China Quarterly）,https://www.cambridge.org/core/journals/china-quarterly,cambridge.org,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:carleton.ca,intl,卡尔顿大学（Carleton University）,https://carleton.ca/,carleton.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:carnegieendowment.org,intl,卡内基国际和平研究院（Carnegie Endowment）,https://carnegieendowment.org/,carnegieendowment.org,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cas.cz,intl,捷克科学院东方研究所（Oriental Institute CAS）,https://orient.cas.cz/,cas.cz,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:casaasia.es,intl,西班牙亚洲之家（Casa Asia）,https://www.casaasia.es/,casaasia.es,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cau.ac.kr,intl,中央大学（韩国，Chung-Ang University）,https://www.cau.ac.kr/,cau.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cckf.org,intl,蒋经国国际学术交流基金会（Chiang Ching-kuo Foundation）,https://www.cckf.org/,cckf.org,probed-000,000,2026-10-03,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cdlib.org,intl,加州在线档案馆（Online Archive of California）,https://oac.cdlib.org/,cdlib.org,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cfr.org,intl,外交关系委员会（Council on Foreign Relations）,https://www.cfr.org/,cfr.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chathamhouse.org,intl,查塔姆研究所亚太项目（Chatham House Asia-Pacific）,https://www.chathamhouse.org/about-us/our-departments/asia-pacific-programme,chathamhouse.org,probed-000,000,2026-10-03,英国·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chinadialogue.net,intl,中外对话（China Dialogue）,https://chinadialogue.net/,chinadialogue.net,probed-4xx,403,2026-10-03,英国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chinadigitaltimes.net,intl,中国数字时代（China Digital Times）,https://chinadigitaltimes.net/,chinadigitaltimes.net,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chinafile.com,intl,中参馆（ChinaFile）,https://www.chinafile.com/,chinafile.com,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chinavitae.com,intl,China Vitae 中国人物数据库,https://www.chinavitae.com/,chinavitae.com,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chinesestudies.eu,intl,欧洲汉学学会（European Association for Chinese Studies）,https://chinesestudies.eu/,chinesestudies.eu,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chineseupress.com,intl,香港中文大学出版社（Chinese University Press）,https://www.chineseupress.com/,chineseupress.com,probed-000,000,2026-10-03,香港·出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chula.ac.th,intl,朱拉隆功大学（Chulalongkorn University）,https://www.chula.ac.th/,chula.ac.th,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:chuo-u.ac.jp,intl,中央大学（Chuo University）,https://www.chuo-u.ac.jp/,chuo-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cityu.edu.hk,intl,香港城市大学（City University of Hong Kong）,https://www.cityu.edu.hk/,cityu.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cityu.edu.mo,intl,澳门城市大学（City University of Macau）,https://www.cityu.edu.mo/,cityu.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:clta-us.org,intl,美国中文教师学会（CLTA）,https://clta-us.org/,clta-us.org,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cmu.ac.th,intl,清迈大学（Chiang Mai University）,https://www.cmu.ac.th/,cmu.ac.th,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cnrs.fr,intl,法国国家科研中心（CNRS）,https://www.cnrs.fr/,cnrs.fr,probed-000,000,2026-10-03,法国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:college-de-france.fr,intl,法兰西学院汉学研究所（Institut des Hautes Études Chinoises）,https://www.college-de-france.fr/,college-de-france.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:colmex.mx,intl,墨西哥学院（El Colegio de México）,https://www.colmex.mx/,colmex.mx,probed-000,000,2026-10-03,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:colorado.edu,intl,科罗拉多大学亚洲研究中心（Center for Asian Studies）,https://www.colorado.edu/center/asianstudies/,colorado.edu,probed-4xx,404,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:columbia.edu,intl,哥伦比亚大学魏德海东亚研究所（Weatherhead East Asian Institute）,https://weai.columbia.edu/,columbia.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:columbia.edu~2,intl,哥伦比亚大学东亚语言与文化系（EALAC）,https://ealac.columbia.edu/,columbia.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:columbia.edu~3,intl,哥伦比亚大学斯塔尔东亚图书馆（C.V. Starr East Asian Library）,https://library.columbia.edu/libraries/eastasian.html,columbia.edu,probed-4xx,403,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cornell.edu,intl,康奈尔大学东亚项目（East Asia Program）,https://eap.cornell.edu/,cornell.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cornell.edu~2,intl,康奈尔大学克罗克亚洲特藏（Kroch Asia Collections）,https://asia.library.cornell.edu/,cornell.edu,probed-000,000,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:crossasia.org,intl,柏林国家图书馆东亚部/CrossAsia（Staatsbibliothek zu Berlin）,https://crossasia.org/,crossasia.org,probed-2xx,200,2026-10-03,德国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:csis.org,intl,战略与国际研究中心中国力量项目（CSIS China Power）,https://chinapower.csis.org/,csis.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ctext.org,intl,中国哲学书电子化计划（Chinese Text Project）,https://ctext.org/,ctext.org,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cu.edu.eg,intl,开罗大学（Cairo University）,https://cu.edu.eg/,cu.edu.eg,probed-2xx,200,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuhk.edu.hk,intl,香港中文大学（CUHK）,https://www.cuhk.edu.hk/,cuhk.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuhk.edu.hk~2,intl,香港中文大学中国文化研究所（Institute of Chinese Studies）,https://www.ics.cuhk.edu.hk/,cuhk.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuhk.edu.hk~3,intl,"香港中文大学中国研究服务中心（Universities Service Centre, USC）",https://www.usc.cuhk.edu.hk/,cuhk.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuhk.edu.hk~4,intl,香港中文大学翻译研究中心（Research Centre for Translation）,https://www.cuhk.edu.hk/rct/,cuhk.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuhk.edu.hk~5,intl,香港中文大学亚太研究所（Hong Kong Institute of Asia-Pacific Studies）,https://www.hkiaps.cuhk.edu.hk/,cuhk.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuhk.edu.hk~6,intl,香港中文大学图书馆（CUHK Library）,https://www.lib.cuhk.edu.hk/,cuhk.edu.hk,probed-2xx,200,2026-10-03,香港·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:cuni.cz,intl,布拉格查理大学（Charles University）,https://cuni.cz/,cuni.cz,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:daito.ac.jp,intl,大东文化大学（Daito Bunka University）,https://www.daito.ac.jp/,daito.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:deutsche-chinagesellschaft.de,intl,德国汉学协会（DVCS）,https://www.deutsche-chinagesellschaft.de/,deutsche-chinagesellschaft.de,probed-000,000,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:digitalarchives.tw,intl,中研院数位典藏（Academia Sinica Digital Archives）,https://digitalarchives.tw/,digitalarchives.tw,probed-2xx,200,2026-10-03,台湾·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:dlsu.edu.ph,intl,德拉萨大学（De La Salle University）,https://www.dlsu.edu.ph/,dlsu.edu.ph,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:doshisha.ac.jp,intl,同志社大学（Doshisha University）,https://www.doshisha.ac.jp/,doshisha.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:drnh.gov.tw,intl,国史馆（Academia Historica）,https://www.drnh.gov.tw/,drnh.gov.tw,probed-000,000,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:du.ac.in,intl,德里大学（University of Delhi）,https://www.du.ac.in/,du.ac.in,probed-4xx,403,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:duke.edu,intl,杜克大学亚洲/太平洋研究所（APSI）,https://apsi.duke.edu/,duke.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:durham.ac.uk,intl,"杜伦大学中国研究（Chinese Studies, Durham）",https://www.durham.ac.uk/,durham.ac.uk,probed-2xx,202,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:eastlib.org,intl,东亚图书馆理事会（Council on East Asian Libraries）,https://www.eastlib.org/,eastlib.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:eastwestcenter.org,intl,东西方中心（East-West Center）,https://www.eastwestcenter.org/,eastwestcenter.org,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ed.ac.uk,intl,"爱丁堡大学亚洲研究系（Asian Studies, Edinburgh）",https://www.ed.ac.uk/asian-studies,ed.ac.uk,probed-4xx,404,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:eduhk.hk,intl,香港教育大学（EdUHK）,https://www.eduhk.hk/,eduhk.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:efeo.fr,intl,法国远东学院（EFEO）,https://www.efeo.fr/,efeo.fr,probed-2xx,200,2026-10-03,法国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:elte.hu,intl,"罗兰大学（ELTE, Budapest）",https://www.elte.hu/,elte.hu,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:emory.edu,intl,埃默里大学东亚研究项目（East Asian Studies）,https://asianstudies.emory.edu/,emory.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ens-lyon.fr,intl,里昂高等师范学院东亚研究（ENS Lyon）,https://www.ens-lyon.fr/,ens-lyon.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:europeana.eu,intl,Europeana 欧洲数字文化遗产,https://www.europeana.eu/,europeana.eu,probed-4xx,403,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ewha.ac.kr,intl,梨花女子大学（Ewha Womans University）,https://www.ewha.ac.kr/,ewha.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:fcu.edu.tw,intl,逢甲大学（Feng Chia University）,https://www.fcu.edu.tw/,fcu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:fju.edu.tw,intl,辅仁大学（Fu Jen Catholic University）,https://www.fju.edu.tw/,fju.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:fmac.org.mo,intl,澳门基金会（Macao Foundation）,https://www.fmac.org.mo/,fmac.org.mo,probed-000,000,2026-10-03,澳门·机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:fu-berlin.de,intl,"柏林自由大学汉学研究所（Institute of Chinese Studies, FU Berlin）",https://www.geschkult.fu-berlin.de/en/e/sinologie/,fu-berlin.de,probed-4xx,404,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:gbcc.org.uk,intl,英中协会（Great Britain-China Centre）,https://www.gbcc.org.uk/,gbcc.org.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:genron-npo.net,intl,言论NPO（Genron NPO）,https://www.genron-npo.net/,genron-npo.net,probed-2xx,200,2026-10-03,日本·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:georgetown.edu,intl,乔治城大学亚洲研究项目（Asian Studies Program）,https://asianstudies.georgetown.edu/,georgetown.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:getty.edu,intl,盖蒂研究所（Getty Research Institute）,https://www.getty.edu/research/,getty.edu,probed-2xx,200,2026-10-03,美国·研究机构/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:giga-hamburg.de,intl,德国全球与区域研究所亚洲研究所（GIGA Institute of Asian Studies）,https://www.giga-hamburg.de/en/institute-of-asian-studies,giga-hamburg.de,probed-4xx,429,2026-10-03,德国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:gla.ac.uk,intl,"格拉斯哥大学中国研究（Chinese Studies, Glasgow）",https://www.gla.ac.uk/,gla.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:griffith.edu.au,intl,格里菲斯大学（Griffith University）,https://www.griffith.edu.au/,griffith.edu.au,probed-4xx,403,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:grips.ac.jp,intl,政策研究大学院大学（GRIPS）,https://www.grips.ac.jp/,grips.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:guimet.fr,intl,吉美国立亚洲艺术博物馆（Musée Guimet）,https://www.guimet.fr/,guimet.fr,probed-2xx,200,2026-10-03,法国·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:gwu.edu,intl,乔治·华盛顿大学西格尔亚洲研究中心（Sigur Center for Asian Studies）,https://elliott.gwu.edu/sigur-center,gwu.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hanyang.ac.kr,intl,汉阳大学（Hanyang University）,https://www.hanyang.ac.kr/,hanyang.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard-yenching.org,intl,哈佛燕京学社（Harvard-Yenching Institute）,https://www.harvard-yenching.org/,harvard-yenching.org,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu,intl,"费正清中国研究中心（Fairbank Center for Chinese Studies, Harvard）",https://fairbank.fas.harvard.edu/,harvard.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu~2,intl,"哈佛大学东亚语言与文明系（EALC, Harvard）",https://ealc.fas.harvard.edu/,harvard.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu~3,intl,哈佛大学亚洲中心（Harvard Asia Center）,https://asiacenter.harvard.edu/,harvard.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu~4,intl,哈佛大学赖肖尔日本研究所（Reischauer Institute）,https://rijs.fas.harvard.edu/,harvard.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu~5,intl,哈佛燕京图书馆（Harvard-Yenching Library）,https://library.harvard.edu/libraries/harvard-yenching,harvard.edu,probed-2xx,200,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu~6,intl,"中国研究图书数据库（China Biographical Database, CBDB）",https://projects.iq.harvard.edu/cbdb,harvard.edu,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:harvard.edu~7,intl,中国历史地理信息系统（CHGIS）,https://chgis.fas.harvard.edu/,harvard.edu,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hathitrust.org,intl,HathiTrust 数字图书馆,https://www.hathitrust.org/,hathitrust.org,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hawaii.edu,intl,夏威夷大学中国研究中心（Center for Chinese Studies）,https://www.chinesestudies.hawaii.edu/,hawaii.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:helsinki.fi,intl,赫尔辛基大学（University of Helsinki）,https://www.helsinki.fi/,helsinki.fi,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:heritage.org,intl,传统基金会（Heritage Foundation）,https://www.heritage.org/,heritage.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:heritagemuseum.gov.hk,intl,香港文化博物馆（Hong Kong Heritage Museum）,https://www.heritagemuseum.gov.hk/,heritagemuseum.gov.hk,probed-2xx,200,2026-10-03,香港·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hiroshima-u.ac.jp,intl,广岛大学（Hiroshima University）,https://www.hiroshima-u.ac.jp/,hiroshima-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:history.go.kr,intl,韩国史数据库（Korean History Database）,https://db.history.go.kr/,history.go.kr,probed-2xx,200,2026-10-03,韩国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:history.museum,intl,香港历史博物馆（Hong Kong Museum of History）,https://hk.history.museum/,history.museum,probed-2xx,200,2026-10-03,香港·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hit-u.ac.jp,intl,一桥大学（Hitotsubashi University）,https://www.hit-u.ac.jp/,hit-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hkbu.edu.hk,intl,香港浸会大学（HKBU）,https://www.hkbu.edu.hk/,hkbu.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hkbu.edu.hk~2,intl,香港浸会大学林思齐东西学术交流研究所（LEWI）,https://lewi.hkbu.edu.hk/,hkbu.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hkmemory.hk,intl,香港记忆（Hong Kong Memory）,https://www.hkmemory.hk/,hkmemory.hk,probed-2xx,200,2026-10-03,香港·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hkmu.edu.hk,intl,香港都会大学（Hong Kong Metropolitan University）,https://www.hkmu.edu.hk/,hkmu.edu.hk,probed-4xx,403,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hkpl.gov.hk,intl,香港公共图书馆（Hong Kong Public Libraries）,https://www.hkpl.gov.hk/,hkpl.gov.hk,probed-2xx,200,2026-10-03,香港·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hku.hk,intl,香港大学（University of Hong Kong）,https://www.hku.hk/,hku.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hku.hk~2,intl,"香港大学中文学院（School of Chinese, HKU）",https://www.chinese.hku.hk/,hku.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hku.hk~3,intl,香港大学香港人文社会研究所（HKIHSS）,https://www.hkihss.hku.hk/,hku.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hku.hk~4,intl,香港大学图书馆（HKU Libraries）,https://lib.hku.hk/,hku.hk,probed-2xx,200,2026-10-03,香港·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hkust.edu.hk,intl,"香港科技大学人文学部（Division of Humanities, HKUST）",https://shss.hkust.edu.hk/,hkust.edu.hk,probed-000,000,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hokudai.ac.jp,intl,北海道大学（Hokkaido University）,https://www.hokudai.ac.jp/,hokudai.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hpcbristol.net,intl,中国历史照片（Historical Photographs of China）,https://www.hpcbristol.net/,hpcbristol.net,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hse.ru,intl,俄罗斯高等经济学院（HSE University）,https://www.hse.ru/,hse.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:hu-berlin.de,intl,柏林洪堡大学亚非研究（HU Berlin）,https://www.hu-berlin.de/,hu-berlin.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:huji.ac.il,intl,耶路撒冷希伯来大学（Hebrew University of Jerusalem）,https://new.huji.ac.il/,huji.ac.il,probed-2xx,200,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:iacl.net,intl,国际中国语言学学会（IACL）,https://iacl.net/,iacl.net,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:icas.asia,intl,亚洲研究国际联合会（ICAS）,https://www.icas.asia/,icas.asia,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:iccaras.ru,intl,俄罗斯科学院中国与当代亚洲研究所（IKSA RAS）,https://www.iccaras.ru/,iccaras.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:icm.gov.mo,intl,澳门文化局（Cultural Affairs Bureau of Macao）,https://www.icm.gov.mo/,icm.gov.mo,probed-2xx,200,2026-10-03,澳门·文化机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:icsin.org,intl,"中国研究所（Institute of Chinese Studies, Delhi）",https://www.icsin.org/,icsin.org,probed-000,000,2026-10-03,印度·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ide.go.jp,intl,亚洲经济研究所（IDE-JETRO）,https://www.ide.go.jp/,ide.go.jp,probed-2xx,200,2026-10-03,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ifes-ras.ru,intl,俄罗斯科学院远东研究所（IFES RAS）,https://www.ifes-ras.ru/,ifes-ras.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:iias.asia,intl,国际亚洲研究所（IIAS）,https://www.iias.asia/,iias.asia,probed-000,000,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:illinois.edu,intl,伊利诺伊大学东亚与太平洋研究中心（CEAPS）,https://ceaps.illinois.edu/,illinois.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:inalco.fr,intl,法国东方语言文化学院（INALCO）,https://www.inalco.fr/,inalco.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:indiana.edu,intl,印第安纳大学东亚研究中心（East Asian Studies Center）,https://easc.indiana.edu/,indiana.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:iseas.edu.sg,intl,尤索夫伊萨东南亚研究院（ISEAS-Yusof Ishak Institute）,https://www.iseas.edu.sg/,iseas.edu.sg,probed-2xx,200,2026-10-03,新加坡·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ismeo.eu,intl,意大利非洲与东方研究所（ISMEO）,https://www.ismeo.eu/,ismeo.eu,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ivran.ru,intl,俄罗斯科学院东方学研究所（Institute of Oriental Studies RAS）,https://www.ivran.ru/,ivran.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:jaas.or.jp,intl,日本亚洲政经学会（JAAS）,https://www.jaas.or.jp/,jaas.or.jp,probed-2xx,200,2026-10-03,日本·学会,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:jamestown.org,intl,詹姆斯敦基金会（Jamestown Foundation）,https://jamestown.org/,jamestown.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:jetro.go.jp,intl,日本贸易振兴机构（JETRO）,https://www.jetro.go.jp/,jetro.go.jp,probed-2xx,200,2026-10-03,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:jhu.edu,intl,约翰霍普金斯大学东亚研究项目（East Asian Studies）,https://easia.jhu.edu/,jhu.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:jiia.or.jp,intl,日本国际问题研究所（JIIA）,https://www.jiia.or.jp/,jiia.or.jp,probed-000,000,2026-10-03,日本·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:jnu.ac.in,intl,尼赫鲁大学（Jawaharlal Nehru University）,https://www.jnu.ac.in/,jnu.ac.in,probed-000,000,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kanagawa-u.ac.jp,intl,神奈川大学（Kanagawa University）,https://www.kanagawa-u.ac.jp/,kanagawa-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kansai-u.ac.jp,intl,关西大学（Kansai University）,https://www.kansai-u.ac.jp/,kansai-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kb.nl,intl,荷兰皇家图书馆（KB）,https://www.kb.nl/,kb.nl,probed-4xx,403,2026-10-03,荷兰·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kcl.ac.uk,intl,"伦敦国王学院刘氏中国研究院（Lau China Institute, KCL）",https://www.kcl.ac.uk/lau-china-institute,kcl.ac.uk,probed-4xx,404,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kdi.re.kr,intl,韩国开发研究院（KDI）,https://www.kdi.re.kr/,kdi.re.kr,probed-000,000,2026-10-03,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:keio.ac.jp,intl,庆应义塾大学（Keio University）,https://www.keio.ac.jp/,keio.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kf.or.kr,intl,韩国国际交流财团（Korea Foundation）,https://www.kf.or.kr/,kf.or.kr,probed-2xx,200,2026-10-03,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:khu.ac.kr,intl,庆熙大学（Kyung Hee University）,https://www.khu.ac.kr/,khu.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kinu.or.kr,intl,韩国统一研究院（KINU）,https://www.kinu.or.kr/,kinu.or.kr,probed-2xx,200,2026-10-03,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kitlv.nl,intl,荷兰皇家东南亚与加勒比研究院（KITLV）,https://www.kitlv.nl/,kitlv.nl,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kobe-u.ac.jp,intl,神户大学（Kobe University）,https://www.kobe-u.ac.jp/,kobe-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kokugakuin.ac.jp,intl,国学院大学（Kokugakuin University）,https://www.kokugakuin.ac.jp/,kokugakuin.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:komazawa-u.ac.jp,intl,驹泽大学（Komazawa University）,https://www.komazawa-u.ac.jp/,komazawa-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:korea.ac.kr,intl,高丽大学（Korea University）,https://www.korea.ac.kr/,korea.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ku.dk,intl,北欧亚洲研究所（NIAS）,https://nias.ku.dk/,ku.dk,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ku.dk~2,intl,哥本哈根大学（University of Copenhagen）,https://www.ku.dk/,ku.dk,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ku.edu,intl,堪萨斯大学东亚研究中心（Center for East Asian Studies）,https://ceas.ku.edu/,ku.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kuis.ac.jp,intl,神田外语大学（Kanda University of International Studies）,https://www.kuis.ac.jp/,kuis.ac.jp,probed-000,000,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kuleuven.be,intl,鲁汶大学（KU Leuven）,https://www.kuleuven.be/,kuleuven.be,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kwansei.ac.jp,intl,关西学院大学（Kwansei Gakuin University）,https://www.kwansei.ac.jp/,kwansei.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kyoto-u.ac.jp,intl,京都大学人文科学研究所（Institute for Research in Humanities）,https://www.zinbun.kyoto-u.ac.jp/,kyoto-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kyoto-u.ac.jp~2,intl,京都大学亚洲非洲区域研究研究科（ASAFAS）,https://www.asafas.kyoto-u.ac.jp/,kyoto-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kyungnam.ac.kr,intl,"庆南大学远东问题研究所（IFES, Kyungnam University）",https://www.ifes.kyungnam.ac.kr/,kyungnam.ac.kr,probed-000,000,2026-10-03,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:kyushu-u.ac.jp,intl,九州大学（Kyushu University）,https://www.kyushu-u.ac.jp/,kyushu-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:latrobe.edu.au,intl,拉筹伯大学（La Trobe University）,https://www.latrobe.edu.au/,latrobe.edu.au,probed-4xx,403,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:leeds.ac.uk,intl,"利兹大学东亚研究系（East Asian Studies, Leeds）",https://ahc.leeds.ac.uk/east-asian-studies,leeds.ac.uk,probed-4xx,404,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:library.gov.mo,intl,澳门公共图书馆（Macao Public Library）,https://www.library.gov.mo/,library.gov.mo,probed-2xx,200,2026-10-03,澳门·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ln.edu.hk,intl,岭南大学（Lingnan University）,https://www.ln.edu.hk/,ln.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:loc.gov,intl,"美国国会图书馆亚洲部（Asian Division, Library of Congress）",https://www.loc.gov/research-centers/asian/,loc.gov,probed-4xx,403,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:loc.gov~2,intl,美国国会图书馆中文善本数字馆藏（Chinese Rare Book Digital Collection）,https://www.loc.gov/collections/chinese-rare-book-digital-collection/,loc.gov,probed-4xx,403,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:lowyinstitute.org,intl,罗伊研究所（Lowy Institute）,https://www.lowyinstitute.org/,lowyinstitute.org,probed-000,000,2026-10-03,澳大利亚·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:lse.ac.uk,intl,伦敦政治经济学院亚洲研究中心（LSE Asia Research Centre）,https://www.lse.ac.uk/asia-research-centre,lse.ac.uk,probed-4xx,404,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:lu.lv,intl,拉脱维亚大学（University of Latvia）,https://www.lu.lv/,lu.lv,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:lu.se,intl,隆德大学（Lund University）,https://www.lunduniversity.lu.se/,lu.se,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mac.gov.tw,intl,大陆委员会（Mainland Affairs Council）,https://www.mac.gov.tw/,mac.gov.tw,probed-000,000,2026-10-03,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:macaumemory.mo,intl,澳门记忆（Macau Memory）,https://www.macaumemory.mo/,macaumemory.mo,probed-2xx,200,2026-10-03,澳门·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:macaumuseum.gov.mo,intl,澳门博物馆（Macao Museum）,https://www.macaumuseum.gov.mo/,macaumuseum.gov.mo,probed-2xx,200,2026-10-03,澳门·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mahidol.ac.th,intl,玛希隆大学（Mahidol University）,https://www.mahidol.ac.th/,mahidol.ac.th,probed-4xx,403,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:manchester.ac.uk,intl,"曼彻斯特大学中国研究（Chinese Studies, Manchester）",https://www.manchester.ac.uk/,manchester.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:maryknollmissionarchives.org,intl,玛利诺会档案馆（Maryknoll Mission Archives）,https://maryknollmissionarchives.org/,maryknollmissionarchives.org,probed-2xx,200,2026-10-03,美国·教会档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mcgill.ca,intl,麦吉尔大学（McGill University）,https://www.mcgill.ca/,mcgill.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:meiji.ac.jp,intl,明治大学（Meiji University）,https://www.meiji.ac.jp/,meiji.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:merics.org,intl,墨卡托中国研究中心（MERICS）,https://merics.org/,merics.org,probed-000,000,2026-10-03,德国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:metmuseum.org,intl,"大都会艺术博物馆亚洲艺术部（Metropolitan Museum of Art, Asian Art）",https://www.metmuseum.org/about-the-met/collection-areas/asian-art,metmuseum.org,probed-4xx,429,2026-10-03,美国·亚洲艺术/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:minpaku.ac.jp,intl,国立民族学博物馆（Minpaku）,https://www.minpaku.ac.jp/,minpaku.ac.jp,probed-2xx,200,2026-10-03,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mod.go.jp,intl,防卫研究所（National Institute for Defense Studies）,https://www.nids.mod.go.jp/,mod.go.jp,probed-2xx,200,2026-10-03,日本·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:monash.edu,intl,莫纳什大学（Monash University）,https://www.monash.edu/,monash.edu,probed-4xx,403,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mpg.de,intl,马克斯·普朗克社会人类学研究所（MPI for Social Anthropology）,https://www.eth.mpg.de/,mpg.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mpg.de~2,intl,马克斯·普朗克科学史研究所（MPIWG）,https://www.mpiwg-berlin.mpg.de/,mpg.de,probed-2xx,200,2026-10-03,德国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:mpu.edu.mo,intl,澳门理工大学（Macao Polytechnic University）,https://www.mpu.edu.mo/,mpu.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:msu.edu,intl,密歇根州立大学亚洲研究中心（Asian Studies Center）,https://asianstudies.msu.edu/,msu.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:msu.ru,intl,莫斯科国立大学（Moscow State University）,https://www.msu.ru/,msu.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:must.edu.mo,intl,澳门科技大学（MUST）,https://www.must.edu.mo/,must.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:naa.gov.au,intl,澳大利亚国家档案馆（National Archives of Australia）,https://www.naa.gov.au/,naa.gov.au,probed-000,000,2026-10-03,澳大利亚·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nagoya-u.ac.jp,intl,名古屋大学（Nagoya University）,https://www.nagoya-u.ac.jp/,nagoya-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nahf.or.kr,intl,东北亚历史财团（Northeast Asian History Foundation）,https://www.nahf.or.kr/,nahf.or.kr,probed-2xx,200,2026-10-03,韩国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nanet.go.kr,intl,韩国国会图书馆（National Assembly Library）,https://www.nanet.go.kr/,nanet.go.kr,probed-2xx,200,2026-10-03,韩国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nas.gov.sg,intl,新加坡国家档案馆（National Archives of Singapore）,https://www.nas.gov.sg/,nas.gov.sg,probed-2xx,202,2026-10-03,新加坡·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nationalarchives.gov.uk,intl,"英国国家档案馆（The National Archives, UK）",https://www.nationalarchives.gov.uk/,nationalarchives.gov.uk,probed-4xx,405,2026-10-03,英国·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nationallibrary.gov.in,intl,印度国家图书馆（National Library of India）,https://www.nationallibrary.gov.in/,nationallibrary.gov.in,probed-000,000,2026-10-03,印度·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:natlib.govt.nz,intl,新西兰国家图书馆（National Library of New Zealand）,https://natlib.govt.nz/,natlib.govt.nz,probed-2xx,200,2026-10-03,新西兰·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nb.no,intl,挪威国家图书馆（National Library of Norway）,https://www.nb.no/,nb.no,probed-2xx,200,2026-10-03,挪威·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nccu.edu.tw,intl,政治大学（National Chengchi University）,https://www.nccu.edu.tw/,nccu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nccu.edu.tw~2,intl,"政治大学东亚研究所（Institute of East Asian Studies, NCCU）",https://eastasia.nccu.edu.tw/,nccu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nchu.edu.tw,intl,中兴大学（National Chung Hsing University）,https://www.nchu.edu.tw/,nchu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncku.edu.tw,intl,成功大学（National Cheng Kung University）,https://www.ncku.edu.tw/,ncku.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncl.ac.uk,intl,"纽卡斯尔大学中国研究（Chinese Studies, Newcastle）",https://www.ncl.ac.uk/,ncl.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncl.edu.tw,intl,"国家图书馆汉学研究中心（Center for Chinese Studies, NCL）",https://ccs.ncl.edu.tw/,ncl.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncl.edu.tw~2,intl,国家图书馆（National Central Library）,https://www.ncl.edu.tw/,ncl.edu.tw,probed-2xx,200,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncl.edu.tw~3,intl,台湾书目资讯中心（TBMC）,https://tbmc.ncl.edu.tw/,ncl.edu.tw,probed-2xx,200,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncu.edu.tw,intl,中央大学（National Central University）,https://www.ncu.edu.tw/,ncu.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ncuser.org,intl,美中关系全国委员会（NCUSCR）,https://www.ncuser.org/,ncuser.org,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nd.edu,intl,圣母大学刘氏亚洲与亚洲研究学院（Liu Institute）,https://asia.nd.edu/,nd.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ndhu.edu.tw,intl,东华大学（National Dong Hwa University）,https://www.ndhu.edu.tw/,ndhu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nehrumemorial.nic.in,intl,尼赫鲁纪念博物馆与图书馆（Nehru Memorial Museum and Library）,https://nehrumemorial.nic.in/,nehrumemorial.nic.in,probed-000,000,2026-10-03,印度·档案馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:newera.edu.my,intl,新纪元大学学院（New Era University College）,https://www.newera.edu.my/,newera.edu.my,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nihon-u.ac.jp,intl,日本大学（Nihon University）,https://www.nihon-u.ac.jp/,nihon-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nishogakusha-u.ac.jp,intl,二松学舍大学（Nishogakusha University）,https://www.nishogakusha-u.ac.jp/,nishogakusha-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nl.go.kr,intl,韩国国立中央图书馆（National Library of Korea）,https://www.nl.go.kr/,nl.go.kr,probed-2xx,200,2026-10-03,韩国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nla.gov.au,intl,澳大利亚国家图书馆（National Library of Australia）,https://www.nla.gov.au/,nla.gov.au,probed-2xx,200,2026-10-03,澳大利亚·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nlb.gov.sg,intl,新加坡国家图书馆管理局（NLB）,https://www.nlb.gov.sg/,nlb.gov.sg,probed-2xx,202,2026-10-03,新加坡·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nlpi.edu.tw,intl,国立公共资讯图书馆（National Library of Public Information）,https://www.nlpi.edu.tw/,nlpi.edu.tw,probed-2xx,200,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nmh.gov.tw,intl,国立历史博物馆（National Museum of History）,https://www.nmh.gov.tw/,nmh.gov.tw,probed-2xx,200,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nmth.gov.tw,intl,国立台湾历史博物馆（National Museum of Taiwan History）,https://www.nmth.gov.tw/,nmth.gov.tw,probed-2xx,200,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nottingham.ac.uk,intl,"诺丁汉大学中国研究（Chinese Studies, Nottingham）",https://www.nottingham.ac.uk/,nottingham.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:npf.org.tw,intl,国家政策研究基金会（National Policy Foundation）,https://www.npf.org.tw/,npf.org.tw,probed-000,000,2026-10-03,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:npm.gov.tw,intl,国立故宫博物院（National Palace Museum）,https://www.npm.gov.tw/,npm.gov.tw,probed-000,000,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nsw.gov.au,intl,新南威尔士州立图书馆（State Library of NSW）,https://www.sl.nsw.gov.au/,nsw.gov.au,probed-2xx,200,2026-10-03,澳大利亚·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nsysu.edu.tw,intl,中山大学（National Sun Yat-sen University）,https://www.nsysu.edu.tw/,nsysu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nthu.edu.tw,intl,清华大学（National Tsing Hua University）,https://www.nthu.edu.tw/,nthu.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ntnu.edu.tw,intl,台湾师范大学（National Taiwan Normal University）,https://www.ntnu.edu.tw/,ntnu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ntu.edu.sg,intl,"南洋理工大学人文学院（School of Humanities, NTU）",https://soh.ntu.edu.sg/,ntu.edu.sg,probed-000,000,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ntu.edu.sg~2,intl,"南洋理工大学华裔馆（Chinese Heritage Centre, NTU）",https://www.ntu.edu.sg/chc,ntu.edu.sg,probed-000,000,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ntu.edu.tw,intl,台湾大学（National Taiwan University）,https://www.ntu.edu.tw/,ntu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ntu.edu.tw~2,intl,"台湾大学历史学系（Department of History, NTU）",https://homepage.ntu.edu.tw/,ntu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nus.edu.sg,intl,"新加坡国立大学东亚研究所（East Asian Institute, NUS）",https://www.eai.nus.edu.sg/,nus.edu.sg,probed-000,000,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nus.edu.sg~2,intl,"新加坡国立大学中文系（Department of Chinese Studies, NUS）",https://fass.nus.edu.sg/cs/,nus.edu.sg,probed-000,000,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nus.edu.sg~3,intl,"新加坡国立大学中文图书馆（Chinese Library, NUS）",https://libportal.nus.edu.sg/,nus.edu.sg,probed-000,000,2026-10-03,新加坡·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nycu.edu.tw,intl,阳明交通大学（NYCU）,https://www.nycu.edu.tw/,nycu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nypl.org,intl,纽约公共图书馆（New York Public Library）,https://www.nypl.org/,nypl.org,probed-2xx,200,2026-10-03,美国·图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:nyu.edu,intl,"纽约大学东亚研究系（East Asian Studies, NYU）",https://as.nyu.edu/eas.html,nyu.edu,probed-2xx,202,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:obirin.ac.jp,intl,樱美林大学（J. F. Oberlin University）,https://www.obirin.ac.jp/,obirin.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:oeaw.ac.at,intl,奥地利科学院（Austrian Academy of Sciences）,https://www.oeaw.ac.at/,oeaw.ac.at,probed-4xx,403,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:orientalstudies.ru,intl,俄罗斯科学院东方文献研究所（Institute of Oriental Manuscripts）,https://www.orientalstudies.ru/,orientalstudies.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:osaka-u.ac.jp,intl,大阪大学（Osaka University）,https://www.osaka-u.ac.jp/,osaka-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:osu.edu,intl,俄亥俄州立大学东亚研究中心（East Asian Studies Center）,https://easc.osu.edu/,osu.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:osu.edu~2,intl,中国现代文学与文化（MCLC）,https://u.osu.edu/mclc/,osu.edu,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:otago.ac.nz,intl,奥塔哥大学（University of Otago）,https://www.otago.ac.nz/,otago.ac.nz,probed-4xx,403,2026-10-03,新西兰·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ourhkfoundation.org.hk,intl,团结香港基金（Our Hong Kong Foundation）,https://www.ourhkfoundation.org.hk/,ourhkfoundation.org.hk,probed-2xx,200,2026-10-03,香港·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ox.ac.uk,intl,牛津大学中国中心（University of Oxford China Centre）,https://www.chinacentre.ox.ac.uk/,ox.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ox.ac.uk~2,intl,牛津大学亚洲与中东研究学院（Faculty of Asian and Middle Eastern Studies）,https://www.orinst.ox.ac.uk/,ox.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ox.ac.uk~3,intl,牛津大学博德利图书馆中文馆藏（Bodleian Chinese Studies）,https://www.bodleian.ox.ac.uk/chinese,ox.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:pccu.edu.tw,intl,中国文化大学（Chinese Culture University）,https://www.pccu.edu.tw/,pccu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:piie.com,intl,彼得森国际经济研究所（PIIE）,https://www.piie.com/,piie.com,probed-4xx,403,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:pitt.edu,intl,匹兹堡大学亚洲研究中心（Asian Studies Center）,https://www.ucis.pitt.edu/asc,pitt.edu,probed-3xx,301,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:polyu.edu.hk,intl,香港理工大学（PolyU）,https://www.polyu.edu.hk/,polyu.edu.hk,probed-2xx,200,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:princeton.edu,intl,普林斯顿大学东亚研究系（Department of East Asian Studies）,https://eas.princeton.edu/,princeton.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:princeton.edu~2,intl,普林斯顿大学当代中国研究中心（Center on Contemporary China）,https://ccc.princeton.edu/,princeton.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:princeton.edu~3,intl,普林斯顿大学葛斯德东亚图书馆（Gest East Asian Library）,https://library.princeton.edu/eastasian,princeton.edu,probed-4xx,403,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:pucp.edu.pe,intl,秘鲁天主教大学（PUCP）,https://www.pucp.edu.pe/,pucp.edu.pe,probed-4xx,403,2026-10-03,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:rand.org,intl,兰德公司中国研究（RAND China）,https://www.rand.org/topics/china.html,rand.org,probed-2xx,200,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:reitaku-u.ac.jp,intl,丽泽大学（Reitaku University）,https://www.reitaku-u.ac.jp/,reitaku-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:riccimac.org,intl,澳门利氏学社（Macau Ricci Institute）,https://www.riccimac.org/,riccimac.org,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:rice.edu,intl,莱斯大学赵廷箴亚洲研究中心（Chao Center for Asian Studies）,https://chaocenter.rice.edu/,rice.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:rikkyo.ac.jp,intl,立教大学（Rikkyo University）,https://www.rikkyo.ac.jp/,rikkyo.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ritsumei.ac.jp,intl,立命馆大学（Ritsumeikan University）,https://www.ritsumei.ac.jp/,ritsumei.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sciencespo.fr,intl,"巴黎政治学院国际研究中心（CERI, Sciences Po）",https://www.sciencespo.fr/ceri/,sciencespo.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:scu.edu.tw,intl,东吴大学（Soochow University）,https://www.scu.edu.tw/,scu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sef.org.tw,intl,海峡交流基金会（Straits Exchange Foundation）,https://www.sef.org.tw/,sef.org.tw,probed-000,000,2026-10-03,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sejong.org,intl,世宗研究所（Sejong Institute）,https://www.sejong.org/,sejong.org,probed-000,000,2026-10-03,韩国·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sfu.ca,intl,西蒙菲莎大学（Simon Fraser University）,https://www.sfu.ca/,sfu.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sheffield.ac.uk,intl,"谢菲尔德大学东亚研究学院（SEAS, Sheffield）",https://www.sheffield.ac.uk/seas,sheffield.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:si.edu,intl,史密森尼国家亚洲艺术博物馆（National Museum of Asian Art）,https://asia.si.edu/,si.edu,probed-4xx,403,2026-10-03,美国·亚洲艺术/档案,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:singaporeccc.org.sg,intl,新加坡华族文化中心（Singapore Chinese Cultural Centre）,https://singaporeccc.org.sg/,singaporeccc.org.sg,probed-2xx,200,2026-10-03,新加坡·机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw,intl,中央研究院（Academia Sinica）,https://www.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw~2,intl,中研院近代史研究所（Institute of Modern History）,https://www.mh.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw~3,intl,中研院历史语言研究所（Institute of History and Philology）,https://www.ihp.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw~4,intl,中研院台湾史研究所（Institute of Taiwan History）,https://www.ith.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw~5,intl,中研院中国文哲研究所（Institute of Chinese Literature and Philosophy）,https://www.litphil.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw~6,intl,中研院人文社会科学研究中心（RCHSS）,https://www.rchss.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sinica.edu.tw~7,intl,中研院政治学研究所（Institute of Political Science）,https://www.ipsas.sinica.edu.tw/,sinica.edu.tw,probed-000,000,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sixthtone.com,intl,Sixth Tone,https://www.sixthtone.com/,sixthtone.com,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:skku.edu,intl,成均馆大学（Sungkyunkwan University）,https://www.skku.edu/,skku.edu,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:snu.ac.kr,intl,首尔国立大学（Seoul National University）,https://www.snu.ac.kr/,snu.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:soas.ac.uk,intl,伦敦大学亚非学院中国研究院（SOAS China Institute）,https://www.soas.ac.uk/china-institute,soas.ac.uk,probed-000,000,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:soas.ac.uk~2,intl,伦敦大学亚非学院东亚语言与文化系（SOAS EALC）,https://www.soas.ac.uk/east-asia,soas.ac.uk,probed-000,000,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:soas.ac.uk~3,intl,伦敦大学亚非学院图书馆（SOAS Library）,https://www.soas.ac.uk/library,soas.ac.uk,probed-000,000,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sogang.ac.kr,intl,西江大学（Sogang University）,https://www.sogang.ac.kr/,sogang.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:soka.ac.jp,intl,创价大学（Soka University）,https://www.soka.ac.jp/,soka.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sophia.ac.jp,intl,上智大学（Sophia University）,https://www.sophia.ac.jp/,sophia.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sorbonne-universite.fr,intl,索邦大学（Sorbonne Université）,https://www.sorbonne-universite.fr/,sorbonne-universite.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:spbu.ru,intl,圣彼得堡国立大学（Saint Petersburg State University）,https://spbu.ru/,spbu.ru,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:st-andrews.ac.uk,intl,"圣安德鲁斯大学中国研究（Chinese Studies, St Andrews）",https://www.st-andrews.ac.uk/,st-andrews.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:stanford.edu,intl,斯坦福大学东亚研究中心（Center for East Asian Studies）,https://ceas.stanford.edu/,stanford.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:stanford.edu~2,intl,斯坦福大学肖伦斯坦亚太研究中心（APARC）,https://aparc.fsi.stanford.edu/,stanford.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:stanford.edu~3,intl,斯坦福大学东亚图书馆（East Asia Library）,https://library.stanford.edu/eal,stanford.edu,probed-2xx,200,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:stimson.org,intl,史汀生中心（Stimson Center）,https://www.stimson.org/,stimson.org,probed-4xx,403,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:su.se,intl,斯德哥尔摩大学（Stockholm University）,https://www.su.se/,su.se,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sun.ac.za,intl,斯泰伦博斯大学（Stellenbosch University）,https://www.sun.ac.za/,sun.ac.za,probed-2xx,200,2026-10-03,非洲·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:suss.edu.sg,intl,新加坡新跃社科大学（SUSS）,https://www.suss.edu.sg/,suss.edu.sg,probed-4xx,403,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:swp-berlin.org,intl,德国国际与安全事务研究所（SWP）,https://www.swp-berlin.org/,swp-berlin.org,probed-2xx,200,2026-10-03,德国·智库,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:sydney.edu.au,intl,悉尼大学（University of Sydney）,https://www.sydney.edu.au/,sydney.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:taiwanthinktank.org,intl,台湾智库（Taiwan Thinktank）,https://www.taiwanthinktank.org/,taiwanthinktank.org,probed-000,000,2026-10-03,台湾·智库/机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:takushoku-u.ac.jp,intl,拓殖大学（Takushoku University）,https://www.takushoku-u.ac.jp/,takushoku-u.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tau.ac.il,intl,特拉维夫大学（Tel Aviv University）,https://www.tau.ac.il/,tau.ac.il,probed-2xx,200,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:th.gov.tw,intl,国史馆台湾文献馆（Taiwan Historica）,https://www.th.gov.tw/,th.gov.tw,probed-000,000,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:thechinaproject.com,intl,中国项目（The China Project）,https://thechinaproject.com/,thechinaproject.com,probed-000,000,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:thu.edu.tw,intl,东海大学（Tunghai University）,https://www.thu.edu.tw/,thu.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tku.edu.tw,intl,淡江大学（Tamkang University）,https://www.tku.edu.tw/,tku.edu.tw,probed-2xx,200,2026-10-03,台湾·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tlu.ee,intl,塔林大学（Tallinn University）,https://www.tlu.ee/,tlu.ee,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tohoku.ac.jp,intl,东北大学（Tohoku University）,https://www.tohoku.ac.jp/,tohoku.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:toyo-bunko.or.jp,intl,东洋文库（Toyo Bunko）,https://www.toyo-bunko.or.jp/,toyo-bunko.or.jp,probed-2xx,200,2026-10-03,日本·图书馆/研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:toyo.ac.jp,intl,东洋大学（Toyo University）,https://www.toyo.ac.jp/,toyo.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tpml.gov.taipei,intl,台北市立图书馆（Taipei Public Library）,https://tpml.gov.taipei/,tpml.gov.taipei,probed-000,000,2026-10-03,台湾·图书馆/档案馆/博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tsukuba.ac.jp,intl,筑波大学（University of Tsukuba）,https://www.tsukuba.ac.jp/,tsukuba.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tu.ac.th,intl,法政大学（Thammasat University）,https://www.tu.ac.th/,tu.ac.th,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:tufs.ac.jp,intl,东京外国语大学（Tokyo University of Foreign Studies）,https://www.tufs.ac.jp/,tufs.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:u-bordeaux.fr,intl,波尔多大学（Université de Bordeaux）,https://www.u-bordeaux.fr/,u-bordeaux.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:u-paris.fr,intl,巴黎西岱大学（Université Paris Cité）,https://u-paris.fr/,u-paris.fr,probed-2xx,200,2026-10-03,法国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:u-tokyo.ac.jp,intl,东京大学东洋文化研究所（Institute for Advanced Studies on Asia）,https://www.ioc.u-tokyo.ac.jp/,u-tokyo.ac.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uab.cat,intl,巴塞罗那自治大学（UAB）,https://www.uab.cat/,uab.cat,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ualberta.ca,intl,阿尔伯塔大学（University of Alberta）,https://www.ualberta.ca/,ualberta.ca,probed-2xx,202,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ub.edu,intl,巴塞罗那大学（University of Barcelona）,https://www.ub.edu/,ub.edu,probed-4xx,403,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uba.ar,intl,布宜诺斯艾利斯大学（University of Buenos Aires）,https://www.uba.ar/,uba.ar,probed-4xx,403,2026-10-03,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ubc.ca,intl,"不列颠哥伦比亚大学亚洲研究所（Institute of Asian Research, UBC）",https://iar.ubc.ca/,ubc.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ubc.ca~2,intl,"不列颠哥伦比亚大学亚洲图书馆（Asian Library, UBC）",https://asian.library.ubc.ca/,ubc.ca,probed-2xx,200,2026-10-03,加拿大·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ucdavis.edu,intl,加州大学戴维斯分校东亚研究项目（East Asian Studies）,https://eastasian.ucdavis.edu/,ucdavis.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uchicago.edu,intl,芝加哥大学东亚研究中心（Center for East Asian Studies）,https://ceas.uchicago.edu/,uchicago.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uchicago.edu~2,intl,"芝加哥大学东亚馆藏（East Asian Collection, Regenstein）",https://www.lib.uchicago.edu/e/easia/,uchicago.edu,probed-2xx,200,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uchile.cl,intl,智利大学（Universidad de Chile）,https://www.uchile.cl/,uchile.cl,probed-2xx,200,2026-10-03,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uci.edu,intl,加州大学尔湾分校东亚研究系（East Asian Studies）,https://www.humanities.uci.edu/eastasian/,uci.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ucla.edu,intl,"加州大学洛杉矶分校中国研究中心（Center for Chinese Studies, UCLA）",https://www.international.ucla.edu/ccs,ucla.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ucla.edu~2,intl,"加州大学洛杉矶分校亚太中心（Asia Pacific Center, UCLA）",https://www.international.ucla.edu/apc,ucla.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ucla.edu~3,intl,加州大学洛杉矶分校鲁道夫东亚图书馆（Richard C. Rudolph East Asian Library）,https://www.library.ucla.edu/eastasian,ucla.edu,probed-2xx,200,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ucsb.edu,intl,加州大学圣塔芭芭拉分校东亚语言与文化研究系（EALCS）,https://www.eastasian.ucsb.edu/,ucsb.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ucsd.edu,intl,加州大学圣地亚哥分校中国研究项目（Chinese Studies Program）,https://chinese-studies.ucsd.edu/,ucsd.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ugent.be,intl,根特大学（Ghent University）,https://www.ugent.be/,ugent.be,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ugm.ac.id,intl,加查马达大学（Universitas Gadjah Mada）,https://ugm.ac.id/,ugm.ac.id,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ui.ac.id,intl,印度尼西亚大学（Universitas Indonesia）,https://www.ui.ac.id/,ui.ac.id,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uio.no,intl,奥斯陆大学（University of Oslo）,https://www.uio.no/,uio.no,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uj.edu.pl,intl,雅盖隆大学（Jagiellonian University）,https://www.uj.edu.pl/,uj.edu.pl,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ulisboa.pt,intl,里斯本大学（University of Lisbon）,https://www.ulisboa.pt/,ulisboa.pt,probed-4xx,403,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:um.edu.mo,intl,澳门大学（University of Macau）,https://www.um.edu.mo/,um.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:um.edu.mo~2,intl,"澳门大学中文系（Department of Chinese, UM）",https://www.um.edu.mo/fah/dc/,um.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:um.edu.mo~3,intl,澳门大学中国历史文化中心（Centre for Chinese History and Culture）,https://cchc.fah.um.edu.mo/,um.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:um.edu.my,intl,马来亚大学（University of Malaya）,https://www.um.edu.my/,um.edu.my,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:umich.edu,intl,密歇根大学李侃如-罗睿驰中国研究中心（LRCCS）,https://ii.umich.edu/lrccs,umich.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:umich.edu~2,intl,"密歇根大学亚洲图书馆（Asia Library, Michigan）",https://www.lib.umich.edu/asia-library,umich.edu,probed-4xx,403,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:umn.edu,intl,明尼苏达大学亚洲与中东研究系（AMES）,https://cla.umn.edu/asian-middle-eastern,umn.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:umontreal.ca,intl,蒙特利尔大学（Université de Montréal）,https://www.umontreal.ca/,umontreal.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unam.mx,intl,墨西哥国立自治大学（UNAM）,https://www.unam.mx/,unam.mx,probed-4xx,403,2026-10-03,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unc.edu,intl,北卡罗来纳大学卡罗来纳亚洲中心（Carolina Asia Center）,https://carolinaasiacenter.unc.edu/,unc.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-bonn.de,intl,"波恩大学东亚研究（East Asian Studies, Bonn）",https://www.uni-bonn.de/,uni-bonn.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-goettingen.de,intl,"哥廷根大学东亚研究（East Asian Studies, Göttingen）",https://www.uni-goettingen.de/,uni-goettingen.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-hamburg.de,intl,汉堡大学亚非研究所（Asien-Afrika-Institut）,https://www.aai.uni-hamburg.de/,uni-hamburg.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-heidelberg.de,intl,"海德堡大学汉学研究所（Institute of Chinese Studies, Heidelberg）",https://www.zo.uni-heidelberg.de/sinologie/,uni-heidelberg.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-heidelberg.de~2,intl,海德堡大学亚洲与跨文化研究中心（CATS）,https://www.cats.uni-heidelberg.de/,uni-heidelberg.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-heidelberg.de~3,intl,海德堡大学中国研究数字档案（DACHS）,https://projects.zo.uni-heidelberg.de/dachs/,uni-heidelberg.de,probed-2xx,200,2026-10-03,德国·数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-koeln.de,intl,"科隆大学东亚研究（East Asian Studies, Cologne）",https://ostasien.uni-koeln.de/,uni-koeln.de,probed-000,000,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-leipzig.de,intl,"莱比锡大学东亚研究所（East Asian Institute, Leipzig）",https://www.uni-leipzig.de/,uni-leipzig.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-lj.si,intl,卢布尔雅那大学（University of Ljubljana）,https://www.uni-lj.si/,uni-lj.si,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-muenchen.de,intl,"慕尼黑大学汉学系（Sinology, LMU Munich）",https://www.sinologie.uni-muenchen.de/,uni-muenchen.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-sofia.bg,intl,索菲亚大学（Sofia University）,https://www.uni-sofia.bg/,uni-sofia.bg,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uni-tuebingen.de,intl,"图宾根大学中国研究（Chinese Studies, Tübingen）",https://uni-tuebingen.de/,uni-tuebingen.de,probed-2xx,200,2026-10-03,德国·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uniba.sk,intl,考门斯基大学（Comenius University）,https://uniba.sk/,uniba.sk,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unibas.ch,intl,巴塞尔大学（University of Basel）,https://www.unibas.ch/,unibas.ch,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unibuc.ro,intl,布加勒斯特大学（University of Bucharest）,https://www.unibuc.ro/,unibuc.ro,probed-000,000,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unige.ch,intl,日内瓦大学（University of Geneva）,https://www.unige.ch/,unige.ch,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unimelb.edu.au,intl,"墨尔本大学亚洲研究院（Asia Institute, Melbourne）",https://arts.unimelb.edu.au/asia-institute,unimelb.edu.au,probed-4xx,403,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unior.it,intl,那不勒斯东方大学（University of Naples L'Orientale）,https://www.unior.it/,unior.it,probed-4xx,405,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uniroma1.it,intl,罗马第一大学（Sapienza University of Rome）,https://www.uniroma1.it/,uniroma1.it,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unisa.ac.za,intl,南非大学（University of South Africa）,https://www.unisa.ac.za/,unisa.ac.za,probed-2xx,200,2026-10-03,非洲·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unito.it,intl,都灵大学（University of Turin）,https://www.unito.it/,unito.it,probed-4xx,403,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unive.it,intl,威尼斯卡福斯卡里大学（Ca' Foscari University of Venice）,https://www.unive.it/,unive.it,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:universiteitleiden.nl,intl,莱顿大学区域研究所（Leiden Institute for Area Studies）,https://www.universiteitleiden.nl/en/humanities/leiden-institute-for-area-studies,universiteitleiden.nl,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:universiteitleiden.nl~2,intl,"莱顿大学汉学图书馆（Sinological Library, Leiden）",https://www.universiteitleiden.nl/en/library,universiteitleiden.nl,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:univie.ac.at,intl,维也纳大学东亚研究系（University of Vienna）,https://www.univie.ac.at/,univie.ac.at,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unizg.hr,intl,萨格勒布大学（University of Zagreb）,https://www.unizg.hr/,unizg.hr,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:unsw.edu.au,intl,新南威尔士大学（UNSW Sydney）,https://www.unsw.edu.au/,unsw.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uoregon.edu,intl,俄勒冈大学亚洲研究项目（Asian Studies）,https://asianstudies.uoregon.edu/,uoregon.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:up.edu.ph,intl,菲律宾大学（University of the Philippines）,https://up.edu.ph/,up.edu.ph,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:upenn.edu,intl,宾夕法尼亚大学东亚研究中心（Center for East Asian Studies）,https://ceas.sas.upenn.edu/,upenn.edu,probed-4xx,403,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uq.edu.au,intl,昆士兰大学（University of Queensland）,https://www.uq.edu.au/,uq.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:usc.edu,intl,"南加州大学东亚研究中心（East Asian Studies Center, USC）",https://dornsife.usc.edu/easc/,usc.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:usfca.edu,intl,"旧金山大学利玛窦中西文化历史研究所（Ricci Institute, USF）",https://www.usfca.edu/ricci,usfca.edu,probed-4xx,404,2026-10-03,美国·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:usj.edu.mo,intl,圣若瑟大学（University of Saint Joseph）,https://www.usj.edu.mo/,usj.edu.mo,probed-2xx,200,2026-10-03,澳门·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:usp.br,intl,圣保罗大学（University of São Paulo）,https://www.usp.br/,usp.br,probed-2xx,200,2026-10-03,拉美·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ust.hk,intl,香港科技大学（HKUST）,https://www.ust.hk/,ust.hk,probed-000,000,2026-10-03,香港·研究机构,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:ut.ac.ir,intl,德黑兰大学（University of Tehran）,https://ut.ac.ir/,ut.ac.ir,probed-000,000,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:utar.edu.my,intl,拉曼大学（Universiti Tunku Abdul Rahman）,https://www.utar.edu.my/,utar.edu.my,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:utexas.edu,intl,德克萨斯大学奥斯汀分校东亚研究中心（CEAS）,https://liberalarts.utexas.edu/ceas/,utexas.edu,probed-4xx,404,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:utoronto.ca,intl,"多伦多大学亚洲研究院（Asian Institute, Toronto）",https://www.asianstudies.utoronto.ca/,utoronto.ca,probed-000,000,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:utoronto.ca~2,intl,多伦多大学郑裕彤东亚图书馆（Cheng Yu Tung East Asian Library）,https://www.library.utoronto.ca/east,utoronto.ca,probed-000,000,2026-10-03,加拿大·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uts.edu.au,intl,悉尼科技大学（UTS）,https://www.uts.edu.au/,uts.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uu.nl,intl,乌得勒支大学（Utrecht University）,https://www.uu.nl/,uu.nl,probed-4xx,403,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uu.se,intl,乌普萨拉大学（Uppsala University）,https://www.uu.se/,uu.se,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uva.nl,intl,阿姆斯特丹大学（University of Amsterdam）,https://www.uva.nl/,uva.nl,probed-2xx,200,2026-10-03,荷兰/比利时/北欧·汉学,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uvic.ca,intl,维多利亚大学（University of Victoria）,https://www.uvic.ca/,uvic.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uw.edu.pl,intl,华沙大学（University of Warsaw）,https://www.uw.edu.pl/,uw.edu.pl,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uwa.edu.au,intl,西澳大学（University of Western Australia）,https://www.uwa.edu.au/,uwa.edu.au,probed-2xx,200,2026-10-03,澳大利亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:uzh.ch,intl,苏黎世大学（University of Zurich）,https://www.uzh.ch/,uzh.ch,probed-2xx,200,2026-10-03,欧洲·汉学/中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:vam.ac.uk,intl,维多利亚与艾尔伯特博物馆（V&A）,https://www.vam.ac.uk/,vam.ac.uk,probed-2xx,200,2026-10-03,英国·博物馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:vanderbilt.edu,intl,范德堡大学亚洲研究系（Asian Studies）,https://as.vanderbilt.edu/asianstudies/,vanderbilt.edu,probed-4xx,404,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:vass.gov.vn,intl,越南社会科学院（VASS）,https://www.vass.gov.vn/,vass.gov.vn,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:virginia.edu,intl,弗吉尼亚大学东亚中心（East Asia Center）,https://eastasiacenter.as.virginia.edu/,virginia.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:virtualshanghai.net,intl,虚拟上海（Virtual Shanghai）,https://www.virtualshanghai.net/,virtualshanghai.net,probed-2xx,200,2026-10-03,国际·学术组织/数字资源/出版,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:visva-bharati.ac.in,intl,国际大学（Visva-Bharati）,https://www.visva-bharati.ac.in/,visva-bharati.ac.in,probed-2xx,200,2026-10-03,南亚/西亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:vnu.edu.vn,intl,"河内国家大学（Vietnam National University, Hanoi）",https://vnu.edu.vn/,vnu.edu.vn,probed-2xx,200,2026-10-03,东南亚·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:vu.lt,intl,维尔纽斯大学（Vilnius University）,https://www.vu.lt/,vu.lt,probed-2xx,200,2026-10-03,俄罗斯/东欧·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:warwick.ac.uk,intl,"华威大学中国研究（Chinese Studies, Warwick）",https://warwick.ac.uk/,warwick.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:waseda.jp,intl,早稻田大学（Waseda University）,https://www.waseda.jp/,waseda.jp,probed-2xx,200,2026-10-03,日本·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:washington.edu,intl,"华盛顿大学东亚中心（East Asia Center, UW）",https://jsis.washington.edu/eac/,washington.edu,probed-4xx,404,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:washington.edu~2,intl,"华盛顿大学东亚图书馆（East Asia Library, UW）",https://lib.washington.edu/east-asia,washington.edu,probed-4xx,404,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:westminster.ac.uk,intl,威斯敏斯特大学中国传媒中心（China Media Centre）,https://www.westminster.ac.uk/,westminster.ac.uk,probed-2xx,200,2026-10-03,英国·中国研究/东亚系,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:wgtn.ac.nz,intl,惠灵顿维多利亚大学（Victoria University of Wellington）,https://www.wgtn.ac.nz/,wgtn.ac.nz,probed-2xx,200,2026-10-03,新西兰·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:wilsoncenter.org,intl,威尔逊中心基辛格中美研究所（Kissinger Institute）,https://www.wilsoncenter.org/program/kissinger-institute-china-and-united-states,wilsoncenter.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:wilsoncenter.org~2,intl,威尔逊中心亚洲项目（Wilson Center Asia Program）,https://www.wilsoncenter.org/program/asia-program,wilsoncenter.org,probed-000,000,2026-10-03,美国·智库/学会/数字资源,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:wisc.edu,intl,威斯康星大学麦迪逊分校东亚研究中心（CEAS）,https://ceas.wisc.edu/,wisc.edu,probed-000,000,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:yale.edu,intl,耶鲁大学东亚研究理事会（Council on East Asian Studies）,https://ceas.yale.edu/,yale.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:yale.edu~2,intl,耶鲁大学麦克米伦国际与地区研究中心（MacMillan Center）,https://macmillan.yale.edu/,yale.edu,probed-2xx,200,2026-10-03,美国·中国研究/东亚研究中心,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:yale.edu~3,intl,"耶鲁大学东亚图书馆（East Asian Library, Yale）",https://guides.library.yale.edu/eastasian,yale.edu,probed-2xx,200,2026-10-03,美国·东亚图书馆,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:yonsei.ac.kr,intl,延世大学（Yonsei University）,https://www.yonsei.ac.kr/,yonsei.ac.kr,probed-2xx,200,2026-10-03,韩国·中国研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
+intl:yorku.ca,intl,约克大学（York University）,https://www.yorku.ca/,yorku.ca,probed-2xx,200,2026-10-03,加拿大·东亚研究,枚举:海外中国研究/东亚馆藏/港澳台机构 2026-10
